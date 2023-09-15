@@ -3,7 +3,7 @@ layout: post
 title: "Detecting and preventing CSRF attacks in JavaScript-based travel booking applications"
 description: " "
 date: 2023-09-14
-tags: [Detecting, #Understanding, #Detecting, #Preventing, cybersecurity, webdevelopment]
+tags: [Detecting, Understanding, Detecting, Preventing, cybersecurity, webdevelopment]
 comments: true
 share: true
 ---
