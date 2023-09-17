@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Understanding the role of "main" in package.json"
+title: "Understanding the role of main in package.json"
 description: " "
 date: 2023-09-17
 tags: [javascript, packagejson]
