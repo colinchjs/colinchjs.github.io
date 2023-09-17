@@ -1,0 +1,100 @@
+Implementing bubble sort in JavaScript
+Quick sort algorithm in JavaScript
+Merge sort implementation in JavaScript
+Binary search algorithm in JavaScript
+Depth-first search in JavaScript
+Breadth-first search implementation in JavaScript
+Dijkstra's algorithm in JavaScript
+A* search algorithm in JavaScript
+Implementing hash tables in JavaScript
+Stacks and queues in JavaScript
+Heap data structure in JavaScript
+Adjacency matrix vs adjacency list in graph algorithms
+Radix sort algorithm in JavaScript
+Selection sort implementation in JavaScript
+Insertion sort in JavaScript
+Topological sorting of a directed graph in JavaScript
+Implementing various searching algorithms in JavaScript
+Red-black tree implementation in JavaScript
+AVL tree algorithm in JavaScript
+The traveling salesman problem in JavaScript
+Matrix multiplication algorithm in JavaScript
+Floyd-Warshall algorithm in JavaScript
+Heap sort implementation in JavaScript
+Counting sort algorithm in JavaScript
+Shell sort implementation in JavaScript
+Linear search algorithm in JavaScript
+Trie data structure in JavaScript
+Kruskal's algorithm for minimum spanning tree in JavaScript
+Bellman-Ford algorithm in JavaScript
+Boggle game solver using depth-first search in JavaScript
+Longest common subsequence algorithm in JavaScript
+Radix sort with negative numbers in JavaScript
+Bucket sort implementation in JavaScript
+Boyer-Moore algorithm for pattern matching in JavaScript
+Implementing priority queues in JavaScript
+Fibonacci sequence algorithm in JavaScript
+Greatest common divisor (GCD) using Euclidean algorithm in JavaScript
+Levenshtein distance algorithm in JavaScript
+Heap's algorithm for generating permutations in JavaScript
+Johnson's algorithm for all-pairs shortest path in JavaScript
+Implementing depth-first search for a maze solver in JavaScript
+Shell sort with different gap sequences in JavaScript
+Ford-Fulkerson algorithm for maximum flow in JavaScript
+Terrain generation using Perlin noise algorithm in JavaScript
+Depth-limited search algorithm in JavaScript
+Boyer-Moore-Horspool algorithm for pattern matching in JavaScript
+Linear regression algorithm in JavaScript
+Sieve of Eratosthenes algorithm for prime numbers in JavaScript
+Huffman coding algorithm for data compression in JavaScript
+Graph coloring algorithm in JavaScript
+Prim's algorithm for minimum spanning tree in JavaScript
+Dijkstra's algorithm with a min-priority queue in JavaScript
+Tarjan's algorithm for strongly connected components in JavaScript
+Expression evaluation using stack algorithm in JavaScript
+Checking if a graph is bipartite using depth-first search in JavaScript
+Newton's method for finding roots of equations in JavaScript
+K-means clustering algorithm in JavaScript
+Insertion sort with linked list in JavaScript
+Fisher-Yates shuffle algorithm in JavaScript
+Longest increasing subsequence algorithm in JavaScript
+Hopcroft-Karp algorithm for maximum bipartite matching in JavaScript
+Implementing dijkstra's algorithm with Fibonacci heap in JavaScript
+Gaussian elimination algorithm for solving linear equations in JavaScript
+Ford-Fulkerson algorithm with Edmonds-Karp implementation in JavaScript
+Pancake sorting algorithm in JavaScript
+Karp-Rabin algorithm for string matching in JavaScript
+Strassen's algorithm for matrix multiplication in JavaScript
+Longest common substring algorithm in JavaScript
+Checking if a graph is a tree in JavaScript
+Brute force pattern matching algorithm in JavaScript
+Rabin-Karp algorithm for multiple pattern matching in JavaScript
+Stable marriage problem and Gale-Shapley algorithm in JavaScript
+Permutation generation algorithm using Heap's algorithm in JavaScript
+Gauss-Jordan elimination algorithm for matrix inversion in JavaScript
+Boyer-Moore algorithm with bad character and good suffix rules in JavaScript
+Strongly connected components using Tarjan's algorithm in JavaScript
+Radix sort for floating-point numbers in JavaScript
+Knuth-Morris-Pratt algorithm for string matching in JavaScript
+Finding a cycle in a graph using depth-first search in JavaScript
+Anagrams detection using character counting algorithm in JavaScript
+Viterbi algorithm for hidden Markov models in JavaScript
+Zeller's congruence algorithm for finding the day of the week in JavaScript
+Floyd's cycle-finding algorithm for detecting loops in linked lists in JavaScript
+N-Queen problem and backtracking algorithm in JavaScript
+Solving sudoku puzzles using constraint satisfaction algorithm in JavaScript
+Longest common prefix algorithm in JavaScript
+Primality testing using the Miller-Rabin algorithm in JavaScript
+Boyer-Moore algorithm with strong good suffix rule in JavaScript
+Tarjan's algorithm for articulation points in a graph in JavaScript
+Shell sort with step sequence based on Knuth's series in JavaScript
+Edmonds-Karp algorithm for maximum flow in a network in JavaScript
+Polya enumeration theorem for counting structures in combinatorics in JavaScript
+Palindrome detection using Manacher's algorithm in JavaScript
+Finding bridges in a graph using Tarjan's algorithm in JavaScript
+Gauss-Seidel iterative method for solving linear equations in JavaScript
+Chinese remainder theorem algorithm for solving modular equations in JavaScript
+Computing the convex hull of a set of points using Graham's scan algorithm in JavaScript
+Solving 8-puzzle problem using A* search algorithm in JavaScript
+Ford-Fulkerson algorithm for maximum bipartite matching in JavaScript
+Bellman-Ford algorithm for shortest paths in a graph with negative weights in JavaScript

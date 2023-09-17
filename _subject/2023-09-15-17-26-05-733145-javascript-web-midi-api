@@ -1,0 +1,100 @@
+Introduction to the Web MIDI API in Javascript
+Using the Web MIDI API for interactive music applications
+Implementing MIDI control in web-based synthesizers with Javascript
+Building a MIDI controller using the Web MIDI API
+Exploring MIDI input and output devices with the Web MIDI API and Javascript
+Synchronizing web audio and MIDI using the Web MIDI API
+Creating a MIDI sequencer with Javascript and the Web MIDI API
+Real-time MIDI data visualization using the Web MIDI API
+Integrating MIDI messages into web-based games using Javascript and the Web MIDI API
+Controlling external hardware via MIDI with the Web MIDI API
+Understanding MIDI message handling in the Web MIDI API and Javascript
+Building a MIDI clock generator with the Web MIDI API
+Implementing MIDI routing in web applications using the Web MIDI API and Javascript
+Exploring MIDI system exclusive messages with the Web MIDI API
+Processing MIDI data in real-time with Javascript and the Web MIDI API
+Implementing MIDI polyphonic aftertouch with the Web MIDI API
+Creating a virtual MIDI keyboard using the Web MIDI API and Javascript
+Building a step sequencer with the Web MIDI API and Javascript
+Using the Web MIDI API for MIDI file playback in a web browser
+Implementing MIDI quantization in web-based music software using Javascript and the Web MIDI API
+Controlling lighting systems with the Web MIDI API and Javascript
+Exploring multi-channel MIDI support in the Web MIDI API
+Building a MIDI controller mapping tool with the Web MIDI API
+Real-time MIDI analysis and visualization using the Web MIDI API and Javascript
+Implementing MIDI mapping and control surface support with the Web MIDI API
+Understanding MIDI timing and synchronization with the Web MIDI API
+Building a MIDI drum pad controller with the Web MIDI API and Javascript
+Controlling MIDI-enabled hardware synthesizers from a web browser using the Web MIDI API
+Implementing MIDI CC automation in web-based music production software with the Web MIDI API and Javascript
+Exploring MIDI clock synchronization with the Web MIDI API
+Building a MIDI arpeggiator with the Web MIDI API and Javascript
+Using the Web MIDI API for live coding and algorithmic music generation
+Implementing MIDI channel voice messages with the Web MIDI API
+Controlling MIDI-enabled lighting fixtures with the Web MIDI API and Javascript
+Creating a MIDI controller interface for DJ software using the Web MIDI API
+Enabling MIDI input from hardware controllers in web-based music editors using the Web MIDI API
+Implementing MIDI sustain pedal support with the Web MIDI API and Javascript
+Exploring MIDI tuning system support in the Web MIDI API
+Building a MIDI file analyzer and metadata extractor using Javascript and the Web MIDI API
+Integrating MIDI quantization and groove templates in web-based music production software using the Web MIDI API
+Implementing MIDI program change messages with the Web MIDI API
+Controlling MIDI-enabled robotics using the Web MIDI API and Javascript
+Creating a MIDI controller integration framework for modular synthesizers using the Web MIDI API
+Exploring MPE (MIDI Polyphonic Expression) support in the Web MIDI API
+Building a MIDI clock sync generator for hardware devices using the Web MIDI API and Javascript
+Implementing MIDI note expression with the Web MIDI API
+Using the Web MIDI API for MIDI timecode synchronization in video applications
+Integrating MIDI controller support in HTML5 game development with the Web MIDI API
+Implementing MIDI velocity curves and response customization with the Web MIDI API and Javascript
+Controlling external video sources with MIDI using the Web MIDI API
+Building a MIDI controller feedback system with the Web MIDI API and Javascript
+Exploring MIDI over Bluetooth support in the Web MIDI API
+Implementing MIDI pitch bend and modulation with the Web MIDI API
+Creating a MIDI composition tool for web-based music collaboration using the Web MIDI API
+Building a MIDI clock converter for adapting different synchronization standards using the Web MIDI API
+Using the Web MIDI API for real-time MIDI performance recording in web applications
+Implementing MIDI channel and polyphony management with the Web MIDI API and Javascript
+Controlling MIDI-enabled stage lighting from a web browser using the Web MIDI API
+Creating a MIDI controller editor and preset manager using the Web MIDI API
+Implementing MIDI timecode detection and synchronization in live audio/video streaming with the Web MIDI API
+Exploring MIDI over Wi-Fi support in the Web MIDI API
+Building a MIDI event log and analyzer with the Web MIDI API and Javascript
+Using the Web MIDI API for MIDI mapping in VJ software and visual performance tools
+Implementing MIDI modulation sources and destinations using the Web MIDI API
+Controlling MIDI-enabled robotics with gesture recognition using the Web MIDI API and Javascript
+Creating a MIDI controller mapping library and API for web development using the Web MIDI API
+Implementing MIDI remote control protocol support with the Web MIDI API
+Exploring microtonal and alternate tuning system support in the Web MIDI API
+Building a MIDI step sequencer with probabilistic sequencing using the Web MIDI API and Javascript
+Using the Web MIDI API for MIDI clock synchronization in multi-device web-based music setups
+Implementing MIDI events dispatching and filtering in web applications using the Web MIDI API
+Controlling and automating MIDI-enabled lighting systems with the Web MIDI API and Javascript
+Creating a MIDI controller interface for virtual reality experiences using the Web MIDI API
+Implementing MIDI tap tempo and tempo synchronization with the Web MIDI API
+Exploring MIDI system real-time messages support in the Web MIDI API
+Building a MIDI message generator and test tool with the Web MIDI API and Javascript
+Using the Web MIDI API for MIDI output to motorized faders and tactile devices
+Implementing MIDI clock synchronization in web-based DJ software with the Web MIDI API
+Controlling MIDI-enabled robotic arms with motion capture data using the Web MIDI API and Javascript
+Creating a MIDI controller firmware update tool using the Web MIDI API
+Implementing MIDI note filtering and transposition with the Web MIDI API
+Exploring MIDI over USB support in the Web MIDI API
+Building a MIDI controller step sequencer with probability manipulation using the Web MIDI API and Javascript
+Using the Web MIDI API for MIDI timecode synchronization in live performance applications
+Implementing MIDI system common messages with the Web MIDI API
+Controlling MIDI-enabled DMX lighting from a web browser using the Web MIDI API
+Creating a MIDI controller integration framework for modular video synthesizers using the Web MIDI API
+Implementing MIDI song position pointer support with the Web MIDI API
+Exploring MIDI over Ethernet support in the Web MIDI API
+Building a MIDI clock sync tester and diagnostic tool with the Web MIDI API and Javascript
+Using the Web MIDI API for MIDI output to analog synthesizers and Eurorack modules
+Implementing MIDI clock synchronization in web-based live looping tools with the Web MIDI API
+Controlling MIDI-enabled drones with flight data using the Web MIDI API and Javascript
+Creating a MIDI controller configuration viewer and editor using the Web MIDI API
+Implementing MIDI note velocity scaling and dynamics control with the Web MIDI API
+Exploring MIDI 2.0 support in the Web MIDI API
+Building a MIDI clock sync adapter and converter for different BPM ranges using the Web MIDI API and Javascript
+Using the Web MIDI API for MIDI timecode synchronization in multimedia installations
+Implementing MIDI system exclusive message patch librarian support with the Web MIDI API
+Controlling and synchronizing lighting and visual effects with MIDI and the Web MIDI API.
