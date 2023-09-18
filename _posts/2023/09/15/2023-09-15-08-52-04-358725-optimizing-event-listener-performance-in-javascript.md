@@ -3,7 +3,7 @@ layout: post
 title: "Optimizing event listener performance in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [javascript, performance]
+tags: [performance]
 comments: true
 share: true
 ---

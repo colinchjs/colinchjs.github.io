@@ -3,7 +3,7 @@ layout: post
 title: "Event listeners for wearable device events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [javascript, wearable]
+tags: [wearable]
 comments: true
 share: true
 ---

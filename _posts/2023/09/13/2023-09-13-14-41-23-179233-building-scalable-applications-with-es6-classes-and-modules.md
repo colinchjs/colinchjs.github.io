@@ -3,7 +3,7 @@ layout: post
 title: "Building Scalable Applications with ES6 Classes and Modules"
 description: " "
 date: 2023-09-13
-tags: [JavaScript, Classes, Modules]
+tags: [Classes, Modules]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing server-side validation for AJAX requests in JavaScript applications"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, ServerSideValidation]
+tags: [ServerSideValidation]
 comments: true
 share: true
 ---

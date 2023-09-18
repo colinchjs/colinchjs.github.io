@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the role of memoization in JavaScript iterators"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, Memoization]
+tags: [Memoization]
 comments: true
 share: true
 ---

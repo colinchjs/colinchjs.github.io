@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the role of closures in JavaScript iterators"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, Closures, Iterators]
+tags: [Closures, Iterators]
 comments: true
 share: true
 ---

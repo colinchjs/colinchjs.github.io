@@ -3,7 +3,7 @@ layout: post
 title: "Exploring Generators in ES6: Async Iteration Made Easy"
 description: " "
 date: 2023-09-13
-tags: [javascript, generators, async]
+tags: [generators, async]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Event listeners for real-time data updates in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [javascript, eventlisteners, realtime, dataupdates]
+tags: [eventlisteners, realtime, dataupdates]
 comments: true
 share: true
 ---

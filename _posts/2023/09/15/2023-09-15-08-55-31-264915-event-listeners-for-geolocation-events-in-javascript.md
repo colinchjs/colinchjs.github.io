@@ -3,7 +3,7 @@ layout: post
 title: "Event listeners for geolocation events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [javascript, geolocation]
+tags: [geolocation]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing event listeners for eye tracking and gaze detection events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, EyeTracking]
+tags: [EyeTracking]
 comments: true
 share: true
 ---

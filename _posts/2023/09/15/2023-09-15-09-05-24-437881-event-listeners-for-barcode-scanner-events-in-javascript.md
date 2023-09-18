@@ -3,7 +3,7 @@ layout: post
 title: "Event listeners for barcode scanner events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [javascript, barcodescanner]
+tags: [barcodescanner]
 comments: true
 share: true
 ---

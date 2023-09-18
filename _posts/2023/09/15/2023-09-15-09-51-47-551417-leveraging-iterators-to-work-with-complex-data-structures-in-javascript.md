@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging iterators to work with complex data structures in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, Iterators, DataStructures]
+tags: [Iterators, DataStructures]
 comments: true
 share: true
 ---

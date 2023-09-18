@@ -3,7 +3,7 @@ layout: post
 title: "Common mistakes to avoid when using event listeners in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [javascript, eventlisteners]
+tags: [eventlisteners]
 comments: true
 share: true
 ---

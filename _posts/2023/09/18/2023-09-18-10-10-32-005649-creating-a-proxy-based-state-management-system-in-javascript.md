@@ -3,7 +3,7 @@ layout: post
 title: "Creating a proxy-based state management system in JavaScript"
 description: " "
 date: 2023-09-18
-tags: [javascript, statemanagement]
+tags: [statemanagement]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Understanding event delegation in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, EventDelegation]
+tags: [EventDelegation]
 comments: true
 share: true
 ---

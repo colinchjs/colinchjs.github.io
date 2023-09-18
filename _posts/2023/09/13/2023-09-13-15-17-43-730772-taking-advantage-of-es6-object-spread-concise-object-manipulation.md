@@ -3,7 +3,7 @@ layout: post
 title: "Taking Advantage of ES6 Object Spread: Concise Object Manipulation"
 description: " "
 date: 2023-09-13
-tags: [JavaScript, ObjectSpread, ObjectManipulation]
+tags: [ObjectSpread, ObjectManipulation]
 comments: true
 share: true
 ---

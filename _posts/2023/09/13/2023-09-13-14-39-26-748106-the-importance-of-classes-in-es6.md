@@ -3,7 +3,7 @@ layout: post
 title: "The Importance of Classes in ES6"
 description: " "
 date: 2023-09-13
-tags: [JavaScript, Classes]
+tags: [Classes]
 comments: true
 share: true
 ---

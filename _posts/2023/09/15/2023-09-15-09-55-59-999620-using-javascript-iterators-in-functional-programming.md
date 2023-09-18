@@ -3,7 +3,7 @@ layout: post
 title: "Using JavaScript iterators in functional programming"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, FunctionalProgramming]
+tags: [FunctionalProgramming]
 comments: true
 share: true
 ---

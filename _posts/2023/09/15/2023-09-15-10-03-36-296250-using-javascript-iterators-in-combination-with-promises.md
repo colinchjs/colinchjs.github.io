@@ -3,7 +3,7 @@ layout: post
 title: "Using JavaScript iterators in combination with promises"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, Promises, AsyncProgramming]
+tags: [Promises, AsyncProgramming]
 comments: true
 share: true
 ---

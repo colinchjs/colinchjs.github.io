@@ -3,7 +3,7 @@ layout: post
 title: "Mastering ES6: Essential Features and Concepts"
 description: " "
 date: 2023-09-13
-tags: [JavaScript, Programming, WebDevelopment]
+tags: [Programming, WebDevelopment]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Event listeners for printing events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [javascript, eventlisteners, printing]
+tags: [eventlisteners, printing]
 comments: true
 share: true
 ---

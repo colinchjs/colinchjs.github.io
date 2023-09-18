@@ -3,7 +3,7 @@ layout: post
 title: "Implementing optimistic updates using JavaScript Proxy"
 description: " "
 date: 2023-09-18
-tags: [JavaScript, OptimisticUpdates]
+tags: [OptimisticUpdates]
 comments: true
 share: true
 ---

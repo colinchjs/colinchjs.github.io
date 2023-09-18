@@ -3,7 +3,7 @@ layout: post
 title: "Event listeners for keyboard events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [javascript, keyboard]
+tags: [keyboard]
 comments: true
 share: true
 ---

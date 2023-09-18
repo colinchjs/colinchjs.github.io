@@ -3,7 +3,7 @@ layout: post
 title: "Understanding the core concepts of Rollup.js – entry points, output formats, and plugins"
 description: " "
 date: 2023-09-18
-tags: [JavaScript, Rollup]
+tags: [Rollup]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using JavaScript iterators for error handling and validation"
 description: " "
 date: 2023-09-15
-tags: [javascript, iterators, errorhandling, validation]
+tags: [iterators, errorhandling, validation]
 comments: true
 share: true
 ---

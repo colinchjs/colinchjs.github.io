@@ -3,7 +3,7 @@ layout: post
 title: "Taking Advantage of Template Literals in ES6"
 description: " "
 date: 2023-09-13
-tags: [javascript, templateliterals]
+tags: [templateliterals]
 comments: true
 share: true
 ---

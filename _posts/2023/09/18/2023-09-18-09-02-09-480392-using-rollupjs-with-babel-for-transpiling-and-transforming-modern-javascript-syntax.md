@@ -3,7 +3,7 @@ layout: post
 title: "Using Rollup.js with Babel for transpiling and transforming modern JavaScript syntax"
 description: " "
 date: 2023-09-18
-tags: [javascript, rollupjs]
+tags: [rollupjs]
 comments: true
 share: true
 ---

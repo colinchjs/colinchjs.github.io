@@ -3,7 +3,7 @@ layout: post
 title: "Exploring Arrow Functions in ES6"
 description: " "
 date: 2023-09-13
-tags: [javascript, arrowfunctions]
+tags: [arrowfunctions]
 comments: true
 share: true
 ---

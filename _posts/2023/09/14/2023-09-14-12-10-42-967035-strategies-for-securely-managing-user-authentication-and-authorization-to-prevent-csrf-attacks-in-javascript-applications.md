@@ -3,7 +3,7 @@ layout: post
 title: "Strategies for securely managing user authentication and authorization to prevent CSRF attacks in JavaScript applications"
 description: " "
 date: 2023-09-14
-tags: [javascript, security]
+tags: [security]
 comments: true
 share: true
 ---

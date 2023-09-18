@@ -3,7 +3,7 @@ layout: post
 title: "Understanding the internal workings of JavaScript iterators"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, Iterators]
+tags: [Iterators]
 comments: true
 share: true
 ---

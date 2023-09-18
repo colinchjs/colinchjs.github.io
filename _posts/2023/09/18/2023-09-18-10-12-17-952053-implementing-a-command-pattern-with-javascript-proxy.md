@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a command pattern with JavaScript Proxy"
 description: " "
 date: 2023-09-18
-tags: [javascript, proxy]
+tags: [proxy]
 comments: true
 share: true
 ---

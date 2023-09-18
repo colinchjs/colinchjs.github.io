@@ -3,7 +3,7 @@ layout: post
 title: "Debugging event listeners in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [javascript, debugging]
+tags: [debugging]
 comments: true
 share: true
 ---

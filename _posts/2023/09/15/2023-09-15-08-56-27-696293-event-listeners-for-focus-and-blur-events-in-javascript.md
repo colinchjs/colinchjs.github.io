@@ -3,7 +3,7 @@ layout: post
 title: "Event listeners for focus and blur events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [javascript, eventlisteners]
+tags: [eventlisteners]
 comments: true
 share: true
 ---

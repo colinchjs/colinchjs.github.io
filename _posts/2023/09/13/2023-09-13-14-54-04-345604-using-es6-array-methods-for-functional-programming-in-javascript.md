@@ -3,7 +3,7 @@ layout: post
 title: "Using ES6 Array Methods for Functional Programming in JavaScript"
 description: " "
 date: 2023-09-13
-tags: [JavaScript, FunctionalProgramming]
+tags: [FunctionalProgramming]
 comments: true
 share: true
 ---

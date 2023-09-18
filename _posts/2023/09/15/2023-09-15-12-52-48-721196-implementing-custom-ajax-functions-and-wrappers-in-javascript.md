@@ -3,7 +3,7 @@ layout: post
 title: "Implementing custom AJAX functions and wrappers in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [javascript, AJAX]
+tags: [AJAX]
 comments: true
 share: true
 ---

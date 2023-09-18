@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the different types of JavaScript iterators"
 description: " "
 date: 2023-09-15
-tags: [javascript, iterators]
+tags: [iterators]
 comments: true
 share: true
 ---

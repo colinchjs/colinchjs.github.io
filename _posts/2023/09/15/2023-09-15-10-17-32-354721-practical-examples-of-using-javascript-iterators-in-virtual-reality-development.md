@@ -3,7 +3,7 @@ layout: post
 title: "Practical examples of using JavaScript iterators in virtual reality development"
 description: " "
 date: 2023-09-15
-tags: [javascript, virtualreality, VRdevelopment]
+tags: [virtualreality, VRdevelopment]
 comments: true
 share: true
 ---

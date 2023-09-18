@@ -3,7 +3,7 @@ layout: post
 title: "Using Rollup.js with TypeScript for efficient JavaScript development"
 description: " "
 date: 2023-09-18
-tags: [javascript, typescript]
+tags: [typescript]
 comments: true
 share: true
 ---

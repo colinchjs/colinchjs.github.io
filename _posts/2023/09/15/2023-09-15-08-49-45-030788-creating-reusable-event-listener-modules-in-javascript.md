@@ -3,7 +3,7 @@ layout: post
 title: "Creating reusable event listener modules in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [javascript, eventlisteners]
+tags: [eventlisteners]
 comments: true
 share: true
 ---

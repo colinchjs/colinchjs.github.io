@@ -3,7 +3,7 @@ layout: post
 title: "Using JavaScript iterators for graph traversal and pathfinding"
 description: " "
 date: 2023-09-15
-tags: [javascript, graph, pathfinding, traversal]
+tags: [graph, pathfinding, traversal]
 comments: true
 share: true
 ---

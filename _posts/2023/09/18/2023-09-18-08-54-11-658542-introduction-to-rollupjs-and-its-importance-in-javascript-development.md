@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to Rollup.js and its importance in JavaScript development"
 description: " "
 date: 2023-09-18
-tags: [JavaScript, Rollup]
+tags: [Rollup]
 comments: true
 share: true
 ---

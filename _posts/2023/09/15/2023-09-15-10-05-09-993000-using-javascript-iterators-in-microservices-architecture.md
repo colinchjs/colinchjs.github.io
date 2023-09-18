@@ -3,7 +3,7 @@ layout: post
 title: "Using JavaScript iterators in microservices architecture"
 description: " "
 date: 2023-09-15
-tags: [javascript, microservices]
+tags: [microservices]
 comments: true
 share: true
 ---

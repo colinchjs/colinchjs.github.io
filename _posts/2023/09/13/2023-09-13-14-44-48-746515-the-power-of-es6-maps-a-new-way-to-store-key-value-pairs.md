@@ -3,7 +3,7 @@ layout: post
 title: "The Power of ES6 Maps: A New Way to Store Key-Value Pairs"
 description: " "
 date: 2023-09-13
-tags: [JavaScript, ES6Maps]
+tags: [ES6Maps]
 comments: true
 share: true
 ---

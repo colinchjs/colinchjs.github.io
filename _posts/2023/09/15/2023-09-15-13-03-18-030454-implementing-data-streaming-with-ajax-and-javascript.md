@@ -3,7 +3,7 @@ layout: post
 title: "Implementing data streaming with AJAX and JavaScript"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, AJAX]
+tags: [AJAX]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging JavaScript iterators for stream processing"
 description: " "
 date: 2023-09-15
-tags: [javascript, streamprocessing]
+tags: [streamprocessing]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Advanced event handling techniques in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [javascript, eventhandling]
+tags: [eventhandling]
 comments: true
 share: true
 ---

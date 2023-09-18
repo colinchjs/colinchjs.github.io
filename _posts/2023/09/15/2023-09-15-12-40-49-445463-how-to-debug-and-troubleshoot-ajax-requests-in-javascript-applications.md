@@ -3,7 +3,7 @@ layout: post
 title: "How to debug and troubleshoot AJAX requests in JavaScript applications"
 description: " "
 date: 2023-09-15
-tags: [javascript, ajax]
+tags: [ajax]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Event listeners for speech recognition and synthesis events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, SpeechRecognition, SpeechSynthesis]
+tags: [SpeechRecognition, SpeechSynthesis]
 comments: true
 share: true
 ---

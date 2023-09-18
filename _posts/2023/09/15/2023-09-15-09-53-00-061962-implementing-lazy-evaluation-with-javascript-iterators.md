@@ -3,7 +3,7 @@ layout: post
 title: "Implementing lazy evaluation with JavaScript iterators"
 description: " "
 date: 2023-09-15
-tags: [javascript, iterators, lazyevaluation]
+tags: [iterators, lazyevaluation]
 comments: true
 share: true
 ---

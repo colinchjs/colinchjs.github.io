@@ -3,7 +3,7 @@ layout: post
 title: "Implementing evolutionary algorithms with JavaScript iterators"
 description: " "
 date: 2023-09-15
-tags: [javascript, evolutionaryalgorithms]
+tags: [evolutionaryalgorithms]
 comments: true
 share: true
 ---

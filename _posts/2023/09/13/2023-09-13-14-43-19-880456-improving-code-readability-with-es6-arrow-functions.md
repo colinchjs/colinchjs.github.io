@@ -3,7 +3,7 @@ layout: post
 title: "Improving Code Readability with ES6 Arrow Functions"
 description: " "
 date: 2023-09-13
-tags: [JavaScript, ArrowFunctions]
+tags: [ArrowFunctions]
 comments: true
 share: true
 ---

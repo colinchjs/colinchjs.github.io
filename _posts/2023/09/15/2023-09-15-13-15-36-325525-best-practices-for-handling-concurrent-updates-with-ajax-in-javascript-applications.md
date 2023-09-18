@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for handling concurrent updates with AJAX in JavaScript applications"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, AJAX]
+tags: [AJAX]
 comments: true
 share: true
 ---

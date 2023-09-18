@@ -3,7 +3,7 @@ layout: post
 title: "Implementing event listeners for device motion events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, DeviceMotion, EventListeners]
+tags: [DeviceMotion, EventListeners]
 comments: true
 share: true
 ---

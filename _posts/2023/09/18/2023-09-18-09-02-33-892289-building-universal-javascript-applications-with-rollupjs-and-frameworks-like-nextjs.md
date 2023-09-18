@@ -3,7 +3,7 @@ layout: post
 title: "Building universal JavaScript applications with Rollup.js and frameworks like Next.js"
 description: " "
 date: 2023-09-18
-tags: [JavaScript, WebDevelopment]
+tags: [WebDevelopment]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing event listeners for speech-to-text and text-to-speech events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [javascript, speechrecognition, texttospeech]
+tags: [speechrecognition, texttospeech]
 comments: true
 share: true
 ---

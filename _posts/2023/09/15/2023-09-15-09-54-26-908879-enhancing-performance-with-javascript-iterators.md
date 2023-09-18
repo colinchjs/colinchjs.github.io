@@ -3,7 +3,7 @@ layout: post
 title: "Enhancing performance with JavaScript iterators"
 description: " "
 date: 2023-09-15
-tags: [javascript, performance, iterators]
+tags: [performance, iterators]
 comments: true
 share: true
 ---

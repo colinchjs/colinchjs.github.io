@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging Rollup.js for creating JavaScript libraries and open-source projects"
 description: " "
 date: 2023-09-18
-tags: [JavaScript, Rollup]
+tags: [Rollup]
 comments: true
 share: true
 ---

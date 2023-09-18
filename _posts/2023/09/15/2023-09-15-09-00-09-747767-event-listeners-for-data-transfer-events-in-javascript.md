@@ -3,7 +3,7 @@ layout: post
 title: "Event listeners for data transfer events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, DataTransferEvents]
+tags: [DataTransferEvents]
 comments: true
 share: true
 ---

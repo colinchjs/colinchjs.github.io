@@ -3,7 +3,7 @@ layout: post
 title: "Carving out a secure API with JavaScript Proxy"
 description: " "
 date: 2023-09-18
-tags: [javascript, APIsecurity]
+tags: [APIsecurity]
 comments: true
 share: true
 ---

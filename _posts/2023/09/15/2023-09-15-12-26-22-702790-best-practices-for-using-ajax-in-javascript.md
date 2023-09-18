@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for using AJAX in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [javascript, ajax]
+tags: [ajax]
 comments: true
 share: true
 ---

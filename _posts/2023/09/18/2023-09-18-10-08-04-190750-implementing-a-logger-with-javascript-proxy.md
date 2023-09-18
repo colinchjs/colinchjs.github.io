@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a logger with JavaScript Proxy"
 description: " "
 date: 2023-09-18
-tags: [javascript, logger]
+tags: [logger]
 comments: true
 share: true
 ---

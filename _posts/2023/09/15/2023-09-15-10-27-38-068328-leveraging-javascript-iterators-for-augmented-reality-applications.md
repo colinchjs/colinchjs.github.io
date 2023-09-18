@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging JavaScript iterators for augmented reality applications"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, AugmentedReality, WebDevelopment]
+tags: [AugmentedReality, WebDevelopment]
 comments: true
 share: true
 ---

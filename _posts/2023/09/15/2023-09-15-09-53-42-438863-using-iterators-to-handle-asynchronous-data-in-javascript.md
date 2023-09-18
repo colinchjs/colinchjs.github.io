@@ -3,7 +3,7 @@ layout: post
 title: "Using iterators to handle asynchronous data in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, AsyncDataHandling]
+tags: [AsyncDataHandling]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing bi-directional iterators in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, BiDirectionalIterators]
+tags: [BiDirectionalIterators]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using JavaScript Proxy for feature toggling"
 description: " "
 date: 2023-09-18
-tags: [javascript, featuretoggling]
+tags: [featuretoggling]
 comments: true
 share: true
 ---

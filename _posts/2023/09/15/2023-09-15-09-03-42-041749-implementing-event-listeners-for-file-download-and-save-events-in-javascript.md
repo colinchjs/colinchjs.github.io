@@ -3,7 +3,7 @@ layout: post
 title: "Implementing event listeners for file download and save events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, EventListeners]
+tags: [EventListeners]
 comments: true
 share: true
 ---

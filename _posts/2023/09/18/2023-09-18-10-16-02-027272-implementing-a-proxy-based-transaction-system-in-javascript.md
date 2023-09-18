@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a proxy-based transaction system in JavaScript"
 description: " "
 date: 2023-09-18
-tags: [javascript, transaction]
+tags: [transaction]
 comments: true
 share: true
 ---

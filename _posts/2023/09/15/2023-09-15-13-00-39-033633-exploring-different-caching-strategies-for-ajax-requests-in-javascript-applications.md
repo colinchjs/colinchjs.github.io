@@ -3,7 +3,7 @@ layout: post
 title: "Exploring different caching strategies for AJAX requests in JavaScript applications"
 description: " "
 date: 2023-09-15
-tags: [javascript, caching]
+tags: [caching]
 comments: true
 share: true
 ---

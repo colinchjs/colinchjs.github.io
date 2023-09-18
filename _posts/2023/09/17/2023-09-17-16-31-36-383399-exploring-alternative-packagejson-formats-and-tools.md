@@ -3,7 +3,7 @@ layout: post
 title: "Exploring alternative package.json formats and tools"
 description: " "
 date: 2023-09-17
-tags: [JavaScript, package]
+tags: [package]
 comments: true
 share: true
 ---

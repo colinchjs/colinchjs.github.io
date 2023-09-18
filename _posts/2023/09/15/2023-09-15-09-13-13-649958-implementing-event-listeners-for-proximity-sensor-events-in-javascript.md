@@ -3,7 +3,7 @@ layout: post
 title: "Implementing event listeners for proximity sensor events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, ProximitySensor, EventListeners]
+tags: [ProximitySensor, EventListeners]
 comments: true
 share: true
 ---

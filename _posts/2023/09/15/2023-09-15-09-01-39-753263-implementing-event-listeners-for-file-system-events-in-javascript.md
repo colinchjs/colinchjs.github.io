@@ -3,7 +3,7 @@ layout: post
 title: "Implementing event listeners for file system events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [javascript, eventlisteners, filesystem, nodejs]
+tags: [eventlisteners, filesystem, nodejs]
 comments: true
 share: true
 ---

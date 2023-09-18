@@ -3,7 +3,7 @@ layout: post
 title: "Implementing infinite sequences with JavaScript iterators"
 description: " "
 date: 2023-09-15
-tags: [javascript, iterators, infinite]
+tags: [iterators, infinite]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Rolling back Rollup.js versions and managing dependencies efficiently"
 description: " "
 date: 2023-09-18
-tags: [javascript, rollupjs]
+tags: [rollupjs]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Optimizing your JavaScript bundle size with Rollup.js"
 description: " "
 date: 2023-09-18
-tags: [javascript, optimization]
+tags: [optimization]
 comments: true
 share: true
 ---

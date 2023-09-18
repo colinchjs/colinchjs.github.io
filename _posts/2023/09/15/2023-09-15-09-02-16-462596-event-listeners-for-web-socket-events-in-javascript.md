@@ -3,7 +3,7 @@ layout: post
 title: "Event listeners for web socket events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, WebSocket]
+tags: [WebSocket]
 comments: true
 share: true
 ---

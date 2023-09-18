@@ -3,7 +3,7 @@ layout: post
 title: "Detecting and mitigating CSRF attacks in JavaScript-based chat applications"
 description: " "
 date: 2023-09-14
-tags: [javascript, security]
+tags: [security]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Event listeners for mouse events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, MouseEvent]
+tags: [MouseEvent]
 comments: true
 share: true
 ---

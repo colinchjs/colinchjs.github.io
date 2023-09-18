@@ -3,7 +3,7 @@ layout: post
 title: "Using JavaScript Proxy for smart caching"
 description: " "
 date: 2023-09-18
-tags: [javascript, caching]
+tags: [caching]
 comments: true
 share: true
 ---

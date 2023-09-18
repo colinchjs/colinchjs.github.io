@@ -3,7 +3,7 @@ layout: post
 title: "Implementing event listeners in modern JavaScript frameworks (React, Vue, Angular)"
 description: " "
 date: 2023-09-15
-tags: [javascript, eventlisteners]
+tags: [eventlisteners]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Understanding ES6 Symbols and Their Use in JavaScript Libraries"
 description: " "
 date: 2023-09-13
-tags: [javascript, javascript]
+tags: []
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Applying throttling with JavaScript Proxy"
 description: " "
 date: 2023-09-18
-tags: [JavaScript, Throttling]
+tags: [Throttling]
 comments: true
 share: true
 ---

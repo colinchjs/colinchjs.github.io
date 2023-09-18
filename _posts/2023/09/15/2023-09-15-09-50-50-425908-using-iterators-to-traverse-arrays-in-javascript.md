@@ -3,7 +3,7 @@ layout: post
 title: "Using iterators to traverse arrays in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, ArrayIterators]
+tags: [ArrayIterators]
 comments: true
 share: true
 ---

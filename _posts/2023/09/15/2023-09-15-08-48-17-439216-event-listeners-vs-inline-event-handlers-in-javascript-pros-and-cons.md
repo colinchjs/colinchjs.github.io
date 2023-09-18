@@ -3,7 +3,7 @@ layout: post
 title: "Event listeners vs inline event handlers in JavaScript: pros and cons"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, EventHandling]
+tags: [EventHandling]
 comments: true
 share: true
 ---

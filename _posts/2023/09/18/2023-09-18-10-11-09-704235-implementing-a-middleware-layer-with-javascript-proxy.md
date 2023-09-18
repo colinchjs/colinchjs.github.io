@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a middleware layer with JavaScript Proxy"
 description: " "
 date: 2023-09-18
-tags: [javascript, middleware]
+tags: [middleware]
 comments: true
 share: true
 ---

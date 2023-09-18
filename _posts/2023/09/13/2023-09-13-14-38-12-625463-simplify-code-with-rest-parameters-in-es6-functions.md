@@ -3,7 +3,7 @@ layout: post
 title: "Simplify Code with Rest Parameters in ES6 Functions"
 description: " "
 date: 2023-09-13
-tags: [javascript, restparameters]
+tags: [restparameters]
 comments: true
 share: true
 ---

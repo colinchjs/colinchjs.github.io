@@ -3,7 +3,7 @@ layout: post
 title: "Enhancing code robustness with JavaScript iterators"
 description: " "
 date: 2023-09-15
-tags: [javascript, iterators, code, robustness, maintainability]
+tags: [iterators, code, robustness, maintainability]
 comments: true
 share: true
 ---

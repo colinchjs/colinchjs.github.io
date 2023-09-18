@@ -3,7 +3,7 @@ layout: post
 title: "Event listeners for brain-computer interface events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [JavaScript]
+tags: []
 comments: true
 share: true
 ---
