@@ -3,7 +3,7 @@ layout: post
 title: "Using JavaScript iterators for time series analysis"
 description: " "
 date: 2023-09-15
-tags: [javascript, timeseriesanalysis]
+tags: [timeseriesanalysis]
 comments: true
 share: true
 ---

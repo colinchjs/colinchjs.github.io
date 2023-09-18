@@ -3,7 +3,7 @@ layout: post
 title: "Event listeners for voice control events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [javascript, voicecontrol]
+tags: [voicecontrol]
 comments: true
 share: true
 ---

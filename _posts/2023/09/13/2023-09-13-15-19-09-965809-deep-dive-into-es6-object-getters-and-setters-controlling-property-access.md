@@ -3,7 +3,7 @@ layout: post
 title: "Deep Dive into ES6 Object Getters and Setters: Controlling Property Access"
 description: " "
 date: 2023-09-13
-tags: [JavaScript]
+tags: []
 comments: true
 share: true
 ---

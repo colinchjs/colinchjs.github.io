@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the role of cookies and sessions in AJAX requests in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, AJAX]
+tags: [AJAX]
 comments: true
 share: true
 ---

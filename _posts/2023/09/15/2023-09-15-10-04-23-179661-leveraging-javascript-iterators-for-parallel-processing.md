@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging JavaScript iterators for parallel processing"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, ParallelProcessing]
+tags: [ParallelProcessing]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "How to Upgrade Legacy JavaScript Code to ES6"
 description: " "
 date: 2023-09-13
-tags: [javascript, codeupgrade, techtips]
+tags: [codeupgrade, techtips]
 comments: true
 share: true
 ---

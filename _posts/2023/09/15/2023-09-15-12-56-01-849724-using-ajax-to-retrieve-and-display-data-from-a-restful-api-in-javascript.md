@@ -3,7 +3,7 @@ layout: post
 title: "Using AJAX to retrieve and display data from a RESTful API in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [javascript, AJAX]
+tags: [AJAX]
 comments: true
 share: true
 ---

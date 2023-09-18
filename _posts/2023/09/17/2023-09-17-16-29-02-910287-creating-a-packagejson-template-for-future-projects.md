@@ -3,7 +3,7 @@ layout: post
 title: "Creating a package.json template for future projects"
 description: " "
 date: 2023-09-17
-tags: [javascript]
+tags: []
 comments: true
 share: true
 ---

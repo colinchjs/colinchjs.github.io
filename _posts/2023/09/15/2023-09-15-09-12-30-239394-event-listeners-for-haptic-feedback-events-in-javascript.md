@@ -3,7 +3,7 @@ layout: post
 title: "Event listeners for haptic feedback events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, HapticFeedback]
+tags: [HapticFeedback]
 comments: true
 share: true
 ---

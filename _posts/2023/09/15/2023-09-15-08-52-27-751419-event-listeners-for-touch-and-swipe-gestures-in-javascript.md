@@ -3,7 +3,7 @@ layout: post
 title: "Event listeners for touch and swipe gestures in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, TouchEvents, SwipeGestures]
+tags: [TouchEvents, SwipeGestures]
 comments: true
 share: true
 ---

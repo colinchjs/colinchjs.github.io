@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging JavaScript iterators in concurrent programming"
 description: " "
 date: 2023-09-15
-tags: [javascript, concurrentprogramming]
+tags: [concurrentprogramming]
 comments: true
 share: true
 ---

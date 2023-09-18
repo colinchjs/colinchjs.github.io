@@ -3,7 +3,7 @@ layout: post
 title: "Implementing backtracking algorithms with JavaScript iterators"
 description: " "
 date: 2023-09-15
-tags: [javascript, backtracking, algorithms]
+tags: [backtracking, algorithms]
 comments: true
 share: true
 ---

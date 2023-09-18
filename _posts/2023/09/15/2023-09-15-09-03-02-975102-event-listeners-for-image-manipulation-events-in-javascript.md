@@ -3,7 +3,7 @@ layout: post
 title: "Event listeners for image manipulation events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, ImageManipulation]
+tags: [ImageManipulation]
 comments: true
 share: true
 ---

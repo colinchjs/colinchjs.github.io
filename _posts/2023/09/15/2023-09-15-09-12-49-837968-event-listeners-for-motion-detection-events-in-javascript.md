@@ -3,7 +3,7 @@ layout: post
 title: "Event listeners for motion detection events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [javascript, motiondetection]
+tags: [motiondetection]
 comments: true
 share: true
 ---

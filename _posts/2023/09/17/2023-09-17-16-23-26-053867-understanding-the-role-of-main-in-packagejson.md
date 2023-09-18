@@ -3,7 +3,7 @@ layout: post
 title: "Understanding the role of main in package.json"
 description: " "
 date: 2023-09-17
-tags: [javascript, packagejson]
+tags: [packagejson]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Event listeners for gaming controller events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, GamingControllers]
+tags: [GamingControllers]
 comments: true
 share: true
 ---

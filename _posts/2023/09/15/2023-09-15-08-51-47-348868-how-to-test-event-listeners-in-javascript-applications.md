@@ -3,7 +3,7 @@ layout: post
 title: "How to test event listeners in JavaScript applications"
 description: " "
 date: 2023-09-15
-tags: [javascript, testing]
+tags: [testing]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "How to manage dependencies with package.json"
 description: " "
 date: 2023-09-17
-tags: [javascript]
+tags: []
 comments: true
 share: true
 ---

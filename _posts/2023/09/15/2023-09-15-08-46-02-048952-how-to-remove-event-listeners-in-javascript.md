@@ -3,7 +3,7 @@ layout: post
 title: "How to remove event listeners in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, EventListeners]
+tags: [EventListeners]
 comments: true
 share: true
 ---

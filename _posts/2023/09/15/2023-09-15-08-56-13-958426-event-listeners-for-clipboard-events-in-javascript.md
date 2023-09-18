@@ -3,7 +3,7 @@ layout: post
 title: "Event listeners for clipboard events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, ClipboardEventListeners]
+tags: [ClipboardEventListeners]
 comments: true
 share: true
 ---

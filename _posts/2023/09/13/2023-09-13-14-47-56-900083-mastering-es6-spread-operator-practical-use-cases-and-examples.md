@@ -3,7 +3,7 @@ layout: post
 title: "Mastering ES6 Spread Operator: Practical Use Cases and Examples"
 description: " "
 date: 2023-09-13
-tags: [JavaScript, SpreadOperator]
+tags: [SpreadOperator]
 comments: true
 share: true
 ---

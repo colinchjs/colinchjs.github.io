@@ -3,7 +3,7 @@ layout: post
 title: "Building a multi-step form with Redux and Formik in JavaScript"
 description: " "
 date: 2023-09-14
-tags: [javascript, react]
+tags: [react]
 comments: true
 share: true
 ---

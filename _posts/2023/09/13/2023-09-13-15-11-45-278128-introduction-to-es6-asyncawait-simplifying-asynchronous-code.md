@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to ES6 Async/Await: Simplifying Asynchronous Code"
 description: " "
 date: 2023-09-13
-tags: [javascript, asyncawait, asynchronousprogramming_]
+tags: [asyncawait, asynchronousprogramming_]
 comments: true
 share: true
 ---

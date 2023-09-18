@@ -3,7 +3,7 @@ layout: post
 title: "How to create custom iterator methods in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [javascript, customiterators]
+tags: [customiterators]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Event listeners for sleep tracking events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [javascript, eventlisteners, sleeptracking]
+tags: [eventlisteners, sleeptracking]
 comments: true
 share: true
 ---

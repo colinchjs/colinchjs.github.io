@@ -3,7 +3,7 @@ layout: post
 title: "Implementing event listeners for voice command and control events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, VoiceCommands]
+tags: [VoiceCommands]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Understanding ES6 Object Destructuring and Its Benefits in JavaScript"
 description: " "
 date: 2023-09-13
-tags: [JavaScript]
+tags: []
 comments: true
 share: true
 ---

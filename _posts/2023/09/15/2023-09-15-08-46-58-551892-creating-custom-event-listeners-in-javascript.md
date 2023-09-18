@@ -3,7 +3,7 @@ layout: post
 title: "Creating custom event listeners in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, CustomEvents]
+tags: [CustomEvents]
 comments: true
 share: true
 ---

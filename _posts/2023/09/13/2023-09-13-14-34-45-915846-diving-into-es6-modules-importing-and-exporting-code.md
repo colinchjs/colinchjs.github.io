@@ -3,7 +3,7 @@ layout: post
 title: "Diving into ES6 Modules: Importing and Exporting Code"
 description: " "
 date: 2023-09-13
-tags: [javascript, modules, import, export]
+tags: [modules, import, export]
 comments: true
 share: true
 ---

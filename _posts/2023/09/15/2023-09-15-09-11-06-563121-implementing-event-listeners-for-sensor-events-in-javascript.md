@@ -3,7 +3,7 @@ layout: post
 title: "Implementing event listeners for sensor events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, Sensors]
+tags: [Sensors]
 comments: true
 share: true
 ---

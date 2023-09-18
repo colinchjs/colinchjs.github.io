@@ -3,7 +3,7 @@ layout: post
 title: "Upgrading Your JavaScript Code with ES6 Modules"
 description: " "
 date: 2023-09-13
-tags: [JavaScript, Modules]
+tags: [Modules]
 comments: true
 share: true
 ---

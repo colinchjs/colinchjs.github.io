@@ -3,7 +3,7 @@ layout: post
 title: "Event listeners for QR code scanner events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [javascript, QRCodeScanner, EventListeners]
+tags: [QRCodeScanner, EventListeners]
 comments: true
 share: true
 ---

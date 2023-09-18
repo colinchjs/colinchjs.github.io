@@ -3,7 +3,7 @@ layout: post
 title: "Using AJAX to fetch and display data from a GraphQL API in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, AJAX]
+tags: [AJAX]
 comments: true
 share: true
 ---

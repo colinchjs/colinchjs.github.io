@@ -3,7 +3,7 @@ layout: post
 title: "Understanding and configuring package.json scripts"
 description: " "
 date: 2023-09-17
-tags: [javascript, packagenjson]
+tags: [packagenjson]
 comments: true
 share: true
 ---

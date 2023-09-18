@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to ES6 Decorators: How to Enhance Your Code"
 description: " "
 date: 2023-09-13
-tags: [JavaScript, Decorators]
+tags: [Decorators]
 comments: true
 share: true
 ---

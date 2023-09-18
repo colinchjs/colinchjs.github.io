@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the role of swarm intelligence in JavaScript iterators"
 description: " "
 date: 2023-09-15
-tags: [javascript, swarmintelligence]
+tags: [swarmintelligence]
 comments: true
 share: true
 ---

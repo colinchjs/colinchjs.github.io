@@ -3,7 +3,7 @@ layout: post
 title: "Using AJAX to upload files in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [javascript, ajax]
+tags: [ajax]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Understanding generator functions and their role in JavaScript iterators"
 description: " "
 date: 2023-09-15
-tags: [javascript, generators]
+tags: [generators]
 comments: true
 share: true
 ---

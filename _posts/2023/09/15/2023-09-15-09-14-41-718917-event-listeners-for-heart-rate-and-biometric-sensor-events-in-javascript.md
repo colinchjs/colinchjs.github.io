@@ -3,7 +3,7 @@ layout: post
 title: "Event listeners for heart rate and biometric sensor events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, BiometricSensors, WebDevelopment]
+tags: [BiometricSensors, WebDevelopment]
 comments: true
 share: true
 ---

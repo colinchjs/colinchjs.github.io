@@ -3,7 +3,7 @@ layout: post
 title: "Event listeners for GPS and location events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [javascript, webdevelopment]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

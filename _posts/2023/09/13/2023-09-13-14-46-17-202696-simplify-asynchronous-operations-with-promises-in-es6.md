@@ -3,7 +3,7 @@ layout: post
 title: "Simplify Asynchronous Operations with Promises in ES6"
 description: " "
 date: 2023-09-13
-tags: [javascript, promises, asynchronous]
+tags: [promises, asynchronous]
 comments: true
 share: true
 ---

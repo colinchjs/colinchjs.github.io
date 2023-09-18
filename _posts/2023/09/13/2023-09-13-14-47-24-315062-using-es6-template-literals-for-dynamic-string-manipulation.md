@@ -3,7 +3,7 @@ layout: post
 title: "Using ES6 Template Literals for Dynamic String Manipulation"
 description: " "
 date: 2023-09-13
-tags: [javascript, template]
+tags: [template]
 comments: true
 share: true
 ---

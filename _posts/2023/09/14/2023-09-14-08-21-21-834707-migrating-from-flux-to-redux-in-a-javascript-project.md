@@ -3,7 +3,7 @@ layout: post
 title: "Migrating from Flux to Redux in a JavaScript project"
 description: " "
 date: 2023-09-14
-tags: [JavaScript, Flux, Redux]
+tags: [Flux, Redux]
 comments: true
 share: true
 ---

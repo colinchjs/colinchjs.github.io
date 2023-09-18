@@ -3,7 +3,7 @@ layout: post
 title: "Practical examples of using JavaScript iterators in robotics"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, Robotics]
+tags: [Robotics]
 comments: true
 share: true
 ---

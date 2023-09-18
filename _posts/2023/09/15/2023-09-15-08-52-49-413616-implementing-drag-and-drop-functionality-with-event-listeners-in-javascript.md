@@ -3,7 +3,7 @@ layout: post
 title: "Implementing drag-and-drop functionality with event listeners in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [javascript, draganddrop]
+tags: [draganddrop]
 comments: true
 share: true
 ---

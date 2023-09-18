@@ -3,7 +3,7 @@ layout: post
 title: "Using JavaScript iterators for signal processing"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, SignalProcessing_]
+tags: [SignalProcessing_]
 comments: true
 share: true
 ---

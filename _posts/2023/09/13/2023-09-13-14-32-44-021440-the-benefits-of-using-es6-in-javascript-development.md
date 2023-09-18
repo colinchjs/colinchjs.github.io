@@ -3,7 +3,7 @@ layout: post
 title: "The Benefits of Using ES6 in JavaScript Development"
 description: " "
 date: 2023-09-13
-tags: [javascript, webdevelopment, programming]
+tags: [webdevelopment, programming]
 comments: true
 share: true
 ---

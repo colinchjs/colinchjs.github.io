@@ -3,7 +3,7 @@ layout: post
 title: "Event listeners for network events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, WebDevelopment, JavaScript, AJAX, JavaScript, NetworkEvents]
+tags: [WebDevelopment, JavaScript, AJAX, JavaScript, NetworkEvents]
 comments: true
 share: true
 ---

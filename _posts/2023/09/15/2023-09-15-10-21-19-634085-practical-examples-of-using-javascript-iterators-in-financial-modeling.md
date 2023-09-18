@@ -3,7 +3,7 @@ layout: post
 title: "Practical examples of using JavaScript iterators in financial modeling"
 description: " "
 date: 2023-09-15
-tags: [javascript, financialmodeling]
+tags: [financialmodeling]
 comments: true
 share: true
 ---

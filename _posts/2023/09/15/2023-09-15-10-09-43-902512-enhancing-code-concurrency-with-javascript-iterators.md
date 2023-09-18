@@ -3,7 +3,7 @@ layout: post
 title: "Enhancing code concurrency with JavaScript iterators"
 description: " "
 date: 2023-09-15
-tags: [javascript, concurrency]
+tags: [concurrency]
 comments: true
 share: true
 ---

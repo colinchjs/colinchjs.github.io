@@ -3,7 +3,7 @@ layout: post
 title: "Using ES6 Modules with Babel: Unlocking Modern JavaScript in Older Browsers"
 description: " "
 date: 2023-09-13
-tags: [javascript, Babel, modules]
+tags: [Babel, modules]
 comments: true
 share: true
 ---

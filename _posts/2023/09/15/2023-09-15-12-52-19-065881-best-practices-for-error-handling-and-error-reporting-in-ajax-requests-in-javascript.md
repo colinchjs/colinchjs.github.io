@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for error handling and error reporting in AJAX requests in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [javascript, ajax]
+tags: [ajax]
 comments: true
 share: true
 ---

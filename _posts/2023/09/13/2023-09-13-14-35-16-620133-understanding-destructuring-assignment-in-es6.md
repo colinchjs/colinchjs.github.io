@@ -3,7 +3,7 @@ layout: post
 title: "Understanding Destructuring Assignment in ES6"
 description: " "
 date: 2023-09-13
-tags: [JavaScript]
+tags: []
 comments: true
 share: true
 ---

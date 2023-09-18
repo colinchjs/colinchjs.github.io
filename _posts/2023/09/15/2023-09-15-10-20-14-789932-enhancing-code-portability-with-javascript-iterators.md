@@ -3,7 +3,7 @@ layout: post
 title: "Enhancing code portability with JavaScript iterators"
 description: " "
 date: 2023-09-15
-tags: [javascript, codeportability]
+tags: [codeportability]
 comments: true
 share: true
 ---

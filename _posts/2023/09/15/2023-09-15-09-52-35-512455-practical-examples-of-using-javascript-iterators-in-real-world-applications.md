@@ -3,7 +3,7 @@ layout: post
 title: "Practical examples of using JavaScript iterators in real-world applications"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, Iterators]
+tags: [Iterators]
 comments: true
 share: true
 ---

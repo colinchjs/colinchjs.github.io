@@ -3,7 +3,7 @@ layout: post
 title: "Exploring Redux Thunk for asynchronous actions in JavaScript"
 description: " "
 date: 2023-09-13
-tags: [JavaScript, ReduxThunk]
+tags: [ReduxThunk]
 comments: true
 share: true
 ---

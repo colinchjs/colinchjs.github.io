@@ -3,7 +3,7 @@ layout: post
 title: "Optimizing network usage with AJAX in JavaScript applications"
 description: " "
 date: 2023-09-15
-tags: [javascript, AJAX]
+tags: [AJAX]
 comments: true
 share: true
 ---

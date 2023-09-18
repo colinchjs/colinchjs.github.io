@@ -3,7 +3,7 @@ layout: post
 title: "Combining multiple iterators in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, Iterators]
+tags: [Iterators]
 comments: true
 share: true
 ---

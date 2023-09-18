@@ -3,7 +3,7 @@ layout: post
 title: "The Beauty of ES6 Array Methods: forEach, map, filter, and more"
 description: " "
 date: 2023-09-13
-tags: [javascript]
+tags: []
 comments: true
 share: true
 ---

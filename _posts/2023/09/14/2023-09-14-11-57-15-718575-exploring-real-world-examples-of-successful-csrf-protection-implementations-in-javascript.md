@@ -3,7 +3,7 @@ layout: post
 title: "Exploring real-world examples of successful CSRF protection implementations in JavaScript"
 description: " "
 date: 2023-09-14
-tags: [javascript, CSRFprotection]
+tags: [CSRFprotection]
 comments: true
 share: true
 ---

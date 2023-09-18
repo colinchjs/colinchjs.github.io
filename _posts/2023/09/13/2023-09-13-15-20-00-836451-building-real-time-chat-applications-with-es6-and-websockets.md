@@ -3,7 +3,7 @@ layout: post
 title: "Building Real-time Chat Applications with ES6 and WebSockets"
 description: " "
 date: 2023-09-13
-tags: [javascript, websockets, chatapplication, realtimecommunication]
+tags: [websockets, chatapplication, realtimecommunication]
 comments: true
 share: true
 ---

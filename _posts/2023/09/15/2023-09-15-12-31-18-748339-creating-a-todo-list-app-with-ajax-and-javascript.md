@@ -3,7 +3,7 @@ layout: post
 title: "Creating a todo list app with AJAX and JavaScript"
 description: " "
 date: 2023-09-15
-tags: [javascript, AJAX]
+tags: [AJAX]
 comments: true
 share: true
 ---

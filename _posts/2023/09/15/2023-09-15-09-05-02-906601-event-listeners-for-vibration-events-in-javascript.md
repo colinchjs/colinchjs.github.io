@@ -3,7 +3,7 @@ layout: post
 title: "Event listeners for vibration events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [JavaScript, VibrationAPI]
+tags: [VibrationAPI]
 comments: true
 share: true
 ---

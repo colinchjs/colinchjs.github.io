@@ -3,7 +3,7 @@ layout: post
 title: "Event listeners for voice assistant integration events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [javascript, voiceassistant, integration, speechrecognition]
+tags: [voiceassistant, integration, speechrecognition]
 comments: true
 share: true
 ---
