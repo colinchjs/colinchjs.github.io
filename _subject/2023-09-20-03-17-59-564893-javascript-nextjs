@@ -1,0 +1,100 @@
+Introduction to Next.js
+Benefits of using Next.js in JavaScript development
+Getting started with Next.js
+Setting up a Next.js project
+Routing in Next.js
+Dynamic routing in Next.js
+Linking pages in Next.js
+Handling data fetching in Next.js
+Server-side rendering (SSR) in Next.js
+Static site generation (SSG) in Next.js
+Client-side rendering (CSR) in Next.js
+Pre-rendering in Next.js
+Incremental static regeneration in Next.js
+Styling in Next.js
+CSS modules in Next.js
+Scoped styles in Next.js
+CSS-in-JS in Next.js
+Global styles in Next.js
+Handling forms in Next.js
+Validation in Next.js forms
+API routes in Next.js
+Fetching data from an API in Next.js
+Authentication in Next.js
+Authorization in Next.js
+Error handling in Next.js
+Optimizing performance in Next.js
+Caching in Next.js
+Image optimization in Next.js
+SEO best practices in Next.js
+Deployment options for Next.js apps
+Hosting a Next.js app on Vercel
+CI/CD pipelines for Next.js apps
+Unit testing in Next.js
+Integration testing in Next.js
+End-to-end testing in Next.js
+State management in Next.js
+Using Redux with Next.js
+Using MobX with Next.js
+Using Zustand with Next.js
+Localization in Next.js
+Internationalization (i18n) in Next.js
+Real-time updates with Next.js and WebSockets
+Serverless functions in Next.js
+Environment variables in Next.js
+Next.js plugins and extensions
+Creating custom hooks in Next.js
+Mocking API data in Next.js for development
+Lazy loading in Next.js
+Error boundaries in Next.js
+Code splitting in Next.js
+Testing performance in Next.js apps
+Bundle analysis in Next.js
+Building a multi-page app with Next.js
+Building a single-page app with Next.js
+Building a blog with Next.js
+Building an e-commerce app with Next.js
+Building a dashboard with Next.js
+Building a portfolio website with Next.js
+Building a social media app with Next.js
+Building a forum with Next.js
+Building a chat application with Next.js
+Building a real-time collaboration app with Next.js
+Pagination in Next.js
+Infinite scrolling in Next.js
+Lazy loading images in Next.js
+Asset optimization in Next.js
+Deployment optimizations in Next.js
+Advanced routing techniques in Next.js
+Handling nested routes in Next.js
+Middleware in Next.js
+Error logging and monitoring in Next.js
+Capturing and handling errors in Next.js
+Next.js best practices
+Next.js vs React: Which one to choose?
+Next.js vs Gatsby: Comparing two popular static site generators
+Next.js vs Nuxt.js: Which one is better?
+Next.js vs Angular: A comparison
+Next.js vs Vue.js: Pros and cons
+Next.js vs Express: Choosing the right framework for server-side rendering
+Next.js serverless vs traditional server deployment
+Next.js authentication options
+Securing Next.js apps with JWT authentication
+Next.js SEO techniques
+Next.js analytics and tracking solutions
+Next.js performance optimization strategies
+Next.js data fetching options
+Next.js and GraphQL integration
+Next.js and REST API integration
+Next.js and Headless CMS integration
+Next.js and Firebase integration
+Next.js server-side rendering with caching
+Next.js internationalization with i18next
+Next.js error handling and reporting tools
+Next.js automated testing tools and frameworks
+Next.js deployment to AWS
+Next.js deployment to Google Cloud Platform
+Next.js deployment to Microsoft Azure
+Next.js deployment to Heroku
+Next.js deployment to Netlify
+Next.js deployment to GitHub Pages

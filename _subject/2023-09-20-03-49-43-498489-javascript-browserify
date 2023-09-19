@@ -1,0 +1,100 @@
+Introduction to Browserify
+Installing Browserify
+Setting up a project with Browserify
+Understanding the role of JavaScript modules
+Configuring Browserify entry points
+Using CommonJS syntax with Browserify
+Importing and exporting modules in Browserify
+Managing module dependencies with Browserify
+Dealing with circular dependencies in Browserify
+Using npm packages with Browserify
+Excluding modules from the Browserify bundle
+Setting up transforms with Browserify
+Using Babel with Browserify to transpile ES6 code
+Using JSX with Browserify
+Using TypeScript with Browserify
+Bundling CSS with Browserify
+Minifying and optimizing Browserify bundles
+Watching files for changes with Browserify
+Creating a development server with Browserify
+Debugging Browserify bundles with source maps
+Using plugins with Browserify
+Splitting the Browserify bundle into multiple files
+Using external libraries with Browserify
+Modifying the Browserify bundle with UglifyJS
+Optimizing performance with Browserify
+Working with dynamic imports in Browserify
+Using Browserify with React
+Using Browserify with Angular
+Using Browserify with Vue.js
+Using Browserify with Ember.js
+Using Browserify with Backbone.js
+Using Browserify with Knockout.js
+Using Browserify with jQuery
+Using Browserify with D3.js
+Using Browserify with lodash
+Using Browserify with moment.js
+Using Browserify with Redux
+Using Browserify with MobX
+Using Browserify with GraphQL
+Using Browserify with Apollo Client
+Using Browserify with Axios
+Using Browserify with Fetch API
+Using Browserify with WebSockets
+Using Browserify with Service Workers
+Using Browserify with IndexedDB
+Using Browserify with localStorage
+Using Browserify with sessionStorage
+Using Browserify with cookies
+Using Browserify with geolocation API
+Using Browserify with FileReader API
+Using Browserify with Canvas API
+Using Browserify with Web Workers
+Using Browserify with WebRTC
+Using Browserify with WebSockets
+Using Browserify with server-side rendering
+Using Browserify with Express.js
+Using Browserify with Koa.js
+Using Browserify with Hapi.js
+Using Browserify with Node.js
+Using Browserify with Electron
+Using Browserify with Cordova
+Using Browserify with React Native
+Using Browserify with PhoneGap
+Using Browserify with NW.js
+Using Browserify with Meteor.js
+Using Browserify with Firebase
+Using Browserify with AWS Lambda
+Using Browserify with Google Cloud Functions
+Using Browserify with Azure Functions
+Using Browserify with Netlify Functions
+Using Browserify with Next.js
+Using Browserify with Gatsby
+Using Browserify with Gridsome
+Using Browserify with Nuxt.js
+Using Browserify with Sapper
+Using Browserify with Ember.js
+Using Browserify with Angular Universal
+Using Browserify with Vue.js SSR
+Using Browserify with Handlebars.js
+Using Browserify with EJS
+Using Browserify with Pug (formerly Jade)
+Using Browserify with Mustache
+Using Browserify with Nunjucks
+Using Browserify with lodash templates
+Using Browserify with Hogan.js
+Using Browserify with Dust.js
+Using Browserify with Underscore.js templates
+Using Browserify with GraphQL schema stitching
+Using Browserify with Apollo Federation
+Using Browserify with REST APIs
+Using Browserify with GraphQL APIs
+Using Browserify with SOAP APIs
+Using Browserify with OAuth and OpenID Connect
+Using Browserify with JWT authentication
+Using Browserify with OAuth 2.0
+Using Browserify with Firebase Authentication
+Using Browserify with AWS Cognito
+Using Browserify with Azure Active Directory
+Using Browserify with Okta
+Using Browserify with Auth0

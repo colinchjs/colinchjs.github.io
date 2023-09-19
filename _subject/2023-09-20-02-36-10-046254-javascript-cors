@@ -1,0 +1,100 @@
+Introduction to Cross-Origin Resource Sharing (CORS)
+How does CORS work?
+Understanding Same-Origin Policy
+CORS request types: Simple, Preflighted, and Non-simple
+Enabling CORS on the server-side
+CORS headers and their significance
+Cross-origin requests and security risks
+CORS and client-side JavaScript frameworks (React, Angular, etc.)
+CORS in Single Page Applications (SPAs)
+CORS in mobile and desktop apps
+CORS and cookies
+CORS and sessions
+Handling CORS errors and debugging
+CORS and HTTP methods (GET, POST, PUT, DELETE)
+Cross-origin requests with XMLHttpRequest
+CORS and browser support
+Using JSONP as an alternative to CORS
+CORS and cross-domain iframe communication
+Handling cross-origin requests with Fetch API
+CORS and Access-Control-Allow-Origin header
+CORS and Access-Control-Allow-Methods header
+CORS and Access-Control-Allow-Headers header
+CORS and Access-Control-Expose-Headers header
+CSRF protection and CORS
+Options for handling CORS in different server-side technologies (Node.js, PHP, Java, etc.)
+CORS and cross-origin resource embedding (CORSER)
+CORS preflight requests and handling OPTIONS method
+CORS and cross-origin authentication
+Ways to bypass CORS restrictions
+CORS and security best practices
+Handling CORS issues in development and production environments
+CORS and caching
+CORS and Content Security Policy (CSP)
+Interesting use cases for CORS
+Handling CORS with reverse proxies and load balancers
+CORS and Cross Site Script Inclusion (XSSI)
+CORS and WebSocket communication
+CORS and server-to-server communication
+Handling CORS with CDNs and cloud platforms
+CORS and Cross-Origin Isolated (COOP) mode
+CORS and Cross-Origin Opener Policy (COOP)
+CORS and Cross-Origin Embedder Policy (COEP)
+CORS and Cross-Origin Document Policy (CODP)
+CORS and Cross-Origin Resource Policy (CORP)
+CORS and Cross-Origin Timing-Allow-Origin header
+CORS and Cross-Origin ResourceType-Allow-Origin header
+CORS and Cross-Origin Resource Sharing for Fonts (CORS-F)
+CORS and Cross-Origin Resource Sharing for WebGL (CORS-W)
+CORS and Cross-Origin Resource Sharing for WebRTC (CORS-RTC)
+CORS and Cross-Origin Resource Sharing for IndexedDB (CORS-IDB)
+CORS and Cross-Origin Resource Sharing for WebAudio (CORS-A)
+CORS and Cross-Origin Resource Sharing for Web GPU (CORS-GPU)
+CORS and conflict with other security mechanisms (XSS, CSRF, etc.)
+CORS and Cross-Origin Isolation Policy (COEP)
+CORS bypass techniques and their implications
+CORS and Cross-Origin Service Workers
+Handling CORS issues with third-party APIs
+CORS and Cross-Origin Prefetch
+CORS and Cross-Origin Navigation Policy (CONP)
+CORS and Cross-Origin Resource Timing (CORS-R)
+CORS and Cross-Origin Read Blocking (CORB)
+CORS and cross-domain cookies
+CORS and Cross-Origin Resource Policy (CORP) headers
+CORS and Cross-Origin Opener Policy (COOP) headers
+CORS and Cross-Origin Embedder Policy (COEP) headers
+CORS and CORS-Policy header
+CORS and Cross-Origin-Resource-Policy header
+CORS and Cross-Origin-Resource-Policy-Report-Only header
+CORS and Cross-Origin-Opener-Policy header
+CORS and Cross-Origin-Opener-Policy-Report-Only header
+CORS and Cross-Origin-Embedder-Policy header
+CORS and Cross-Origin-Embedder-Policy-Report-Only header
+CORS and Cross-Origin-Isolation-Policy header
+CORS and Cross-Origin-Isolation-Policy-Report-Only header
+CORS and Cross-Origin-Navigation-Mode header
+CORS and Cross-Origin-Navigation-Mode-Report-Only header
+CORS and Cross-Origin-Restricted-Sandbox header
+CORS and Cross-Origin-Restricted-Sandbox-Report-Only header
+CORS and Cross-Origin-Prefetched-Asset header
+CORS and Cross-Origin-Prefetched-Asset-Report-Only header
+CORS and Cross-Origin-Resource-Policy-Allowed-Origin header
+Best practices for handling CORS in different scenarios
+CORS and Cross-Origin-Resource-Policy-Disabled header
+CORS and Access-Control-Allow-Credentials header
+CORS and Access-Control-Max-Age header
+CORS and Access-Control-Allow-Origin issues with wildcard (*) approach
+CORS and client-side authentication methods (JWT, OAuth, etc.)
+CORS and client-side routing libraries (React Router, Vue Router, etc.)
+CORS and cross-domain analytics tracking
+CORS and geolocation requests
+CORS and Cross-Origin Messaging (COM) API
+CORS and Web Workers
+CORS and WebSockets server-side configuration
+CORS and Cross-Origin Service Workers
+CORS and Cross-Origin Storage
+CORS and Cross-Origin Verification
+CORS and Cross-Origin Signature
+CORS and Cross-Origin Transport
+CORS and Cross-Origin Temporal Integrity
+CORS and Cross-Origin Eye Tracking

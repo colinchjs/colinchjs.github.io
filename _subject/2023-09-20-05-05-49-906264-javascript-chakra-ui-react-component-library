@@ -1,0 +1,100 @@
+Introduction to Chakra UI
+Installing Chakra UI in a React project
+Setting up the ChakraProvider in a React application
+Basic components in Chakra UI
+Using the Box component in Chakra UI
+Styling components in Chakra UI
+Customizing the theme in Chakra UI
+Using the Button component in Chakra UI
+Working with forms in Chakra UI
+Building responsive layouts with Chakra UI
+Using the Alert component in Chakra UI
+Adding icons to Chakra UI components
+Implementing tooltips using Chakra UI
+Navigating between pages with Chakra UI's Link component
+Creating modals with Chakra UI's Modal component
+Implementing tabs with Chakra UI
+Using the Collapse component in Chakra UI
+Creating accordions in Chakra UI
+Building responsive navigation bars with Chakra UI
+Using the Avatar component in Chakra UI
+Implementing sliders using Chakra UI
+Adding progress bars with Chakra UI
+Using the Divider component in Chakra UI
+Creating badges in Chakra UI
+Working with cards in Chakra UI
+Using the Grid component in Chakra UI for layout
+Customizing typography with Chakra UI's Text component
+Implementing tooltips using Chakra UI's Tooltip component
+Creating dropdown menus with Chakra UI
+Using the Checkbox component in Chakra UI
+Building radio buttons with Chakra UI's Radio component
+Working with select dropdowns in Chakra UI
+Using the Switch component in Chakra UI
+Building table layouts with Chakra UI
+Using the Image component in Chakra UI
+Implementing responsive image grids with Chakra UI
+Creating progress indicators with Chakra UI
+Using the Spinner component in Chakra UI
+Working with tooltips in Chakra UI
+Adding scrollbars to Chakra UI components
+Styling text inputs with Chakra UI
+Using the Textarea component in Chakra UI
+Creating alerts with Chakra UI's Alert component
+Implementing toast notifications using Chakra UI
+Adding pagination to lists with Chakra UI
+Building collapsible panels with Chakra UI
+Using the FormLabel component in Chakra UI
+Creating a stepper component with Chakra UI
+Styling navigation menus with Chakra UI
+Using the Tabs component in Chakra UI
+Implementing breadcrumbs with Chakra UI
+Adding tooltips to Chakra UI buttons
+Working with badges in Chakra UI
+Using the Tag component in Chakra UI
+Building a sidebar layout with Chakra UI
+Customizing input validations with Chakra UI
+Using the Slider component in Chakra UI
+Implementing tooltips with Chakra UI's Popover component
+Creating a menu component with Chakra UI
+Styling toggle switches with Chakra UI
+Using the CheckboxGroup component in Chakra UI
+Building stepper forms with Chakra UI
+Working with date pickers in Chakra UI
+Using the Accordion component in Chakra UI
+Implementing breadcrumbs with Chakra UI
+Creating expandable panels with Chakra UI
+Working with the FormControl component in Chakra UI
+Using the FormErrorMessage component in Chakra UI
+Styling dropdown menus with Chakra UI
+Using the RadioGroup component in Chakra UI
+Implementing file uploads with Chakra UI
+Creating a range slider component with Chakra UI
+Styling tooltips with Chakra UI
+Using the Portal component in Chakra UI
+Building a sticky header with Chakra UI
+Working with the Table component in Chakra UI
+Using the Drawer component in Chakra UI
+Implementing a multi-step form with Chakra UI
+Creating avatar groups with Chakra UI
+Styling tags with Chakra UI
+Using the Input component in Chakra UI
+Building a filter component with Chakra UI
+Working with progress bars in Chakra UI
+Using the Spacer component in Chakra UI
+Implementing a search bar with Chakra UI
+Creating a data table with Chakra UI
+Styling textareas with Chakra UI
+Using the AlertDialog component in Chakra UI
+Building a notification component with Chakra UI
+Working with popovers in Chakra UI
+Using the Select component in Chakra UI
+Implementing an alert system with Chakra UI
+Creating a dropdown button with Chakra UI
+Styling pagination with Chakra UI
+Using the Progress component in Chakra UI
+Building a load more button with Chakra UI
+Working with Stepper components in Chakra UI
+Using the Tooltip component in Chakra UI
+Implementing a dropdown navigation menu with Chakra UI
+Creating responsive grid layouts with Chakra UI

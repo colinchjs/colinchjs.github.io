@@ -1,0 +1,100 @@
+Introduction to the Web MIDI API
+Compatibility of the Web MIDI API across web browsers
+Understanding MIDI (Musical Instrument Digital Interface)
+Sending MIDI messages with the Web MIDI API
+Receiving MIDI messages with the Web MIDI API
+Setting up MIDI devices with the Web MIDI API
+Accessing MIDI devices with the Web MIDI API
+Enumerating available MIDI devices using the Web MIDI API
+Handling MIDI input in JavaScript with the Web MIDI API
+Playing MIDI notes with the Web MIDI API
+Synthesizing sound with the Web MIDI API
+Using MIDI controllers with the Web MIDI API
+Controlling MIDI devices programmatically with the Web MIDI API
+Sending MIDI system messages with the Web MIDI API
+Handling MIDI clock synchronization with the Web MIDI API
+Using MIDI channels with the Web MIDI API
+Implementing MIDI automation with the Web MIDI API
+Mapping MIDI messages to JavaScript events with the Web MIDI API
+Handling MIDI timecode with the Web MIDI API
+Using MIDI pitch bend with the Web MIDI API
+Implementing MIDI program change with the Web MIDI API
+Controlling MIDI modulation with the Web MIDI API
+Implementing MIDI sustain with the Web MIDI API
+Creating MIDI sequences with the Web MIDI API
+Using MIDI polyphonic aftertouch with the Web MIDI API
+Controlling MIDI expression with the Web MIDI API
+Implementing MIDI modulation wheel with the Web MIDI API
+Sending MIDI note-on and note-off messages with the Web MIDI API
+Handling MIDI real-time messages with the Web MIDI API
+Implementing MIDI effects with the Web MIDI API
+Controlling MIDI volume with the Web MIDI API
+Using MIDI pitch bend range with the Web MIDI API
+Implementing MIDI channel pressure with the Web MIDI API
+Sending MIDI timing messages with the Web MIDI API
+Controlling MIDI panning with the Web MIDI API
+Implementing MIDI sustain pedal with the Web MIDI API
+Using MIDI Control Change messages with the Web MIDI API
+Implementing MIDI damper pedal with the Web MIDI API
+Sending MIDI all notes off message with the Web MIDI API
+Understanding MIDI time signature with the Web MIDI API
+Implementing MIDI program bank select with the Web MIDI API
+Controlling MIDI program volume with the Web MIDI API
+Using MIDI continuous controllers with the Web MIDI API
+Implementing MIDI modulation depth with the Web MIDI API
+Sending MIDI pitch bend sensitivity with the Web MIDI API
+Controlling MIDI portamento with the Web MIDI API
+Implementing MIDI release time with the Web MIDI API
+Using MIDI control change range with the Web MIDI API
+Implementing MIDI system exclusive messages with the Web MIDI API
+Sending MIDI master tune with the Web MIDI API
+Understanding MIDI active sensing with the Web MIDI API
+Implementing MIDI sustain pedal polarity with the Web MIDI API
+Controlling MIDI tremolo with the Web MIDI API
+Using MIDI breath control with the Web MIDI API
+Implementing MIDI expression pedal polarity with the Web MIDI API
+Sending MIDI volume range with the Web MIDI API
+Controlling MIDI pitch wheel range with the Web MIDI API
+Implementing MIDI portamento control with the Web MIDI API
+Using MIDI chorus depth with the Web MIDI API
+Implementing MIDI portamento time with the Web MIDI API
+Understanding MIDI bank select with the Web MIDI API
+Controlling MIDI reverb depth with the Web MIDI API
+Sending MIDI reset all controllers with the Web MIDI API
+Implementing MIDI volume control with the Web MIDI API
+Using MIDI expression pedal range with the Web MIDI API
+Implementing MIDI sustain pedal control with the Web MIDI API
+Controlling MIDI modulation wheel range with the Web MIDI API
+Sending MIDI pan range with the Web MIDI API
+Understanding MIDI note caching with the Web MIDI API
+Implementing MIDI modulation range with the Web MIDI API
+Controlling MIDI expression range with the Web MIDI API
+Using MIDI sustain polarity with the Web MIDI API
+Implementing MIDI pitch wheel control with the Web MIDI API
+Sending MIDI filter message with the Web MIDI API
+Controlling MIDI envelope with the Web MIDI API
+Understanding MIDI note velocity with the Web MIDI API
+Implementing MIDI volume sensitivity with the Web MIDI API
+Using MIDI program change sensitivity with the Web MIDI API
+Implementing MIDI pitch wheel polarity with the Web MIDI API
+Sending MIDI modulation sensitivity with the Web MIDI API
+Controlling MIDI expression sensitivity with the Web MIDI API
+Understanding MIDI key pressure with the Web MIDI API
+Implementing MIDI sustain polarity with the Web MIDI API
+Controlling MIDI portamento control with the Web MIDI API
+Using MIDI breath control sensitivity with the Web MIDI API
+Implementing MIDI expression polarity with the Web MIDI API
+Sending MIDI volume sensitivity with the Web MIDI API
+Controlling MIDI pitch wheel polarity with the Web MIDI API
+Implementing MIDI modulation sensitivity with the Web MIDI API
+Using MIDI expression sensitivity with the Web MIDI API
+Understanding MIDI key pressure with the Web MIDI API
+Implementing MIDI sustain polarity with the Web MIDI API
+Controlling MIDI portamento control with the Web MIDI API
+Using MIDI breath control sensitivity with the Web MIDI API
+Implementing MIDI expression polarity with the Web MIDI API
+Sending MIDI volume sensitivity with the Web MIDI API
+Controlling MIDI pitch wheel polarity with the Web MIDI API
+Implementing MIDI modulation sensitivity with the Web MIDI API
+Using MIDI expression sensitivity with the Web MIDI API
+Understanding MIDI key pressure with the Web MIDI API

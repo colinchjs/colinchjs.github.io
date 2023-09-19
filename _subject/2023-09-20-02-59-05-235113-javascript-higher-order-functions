@@ -1,0 +1,100 @@
+Map function
+Filter function
+Reduce function
+forEach function
+Sort function
+Find function
+Every function
+Some function
+FlatMap function
+Currying
+Partial application
+Function composition
+Anonymous functions
+Arrow functions
+Callback functions
+Recursion
+Pure functions
+Side effects
+Function wrappers
+Memoization
+Chaining functions
+Function parameters
+Function return values
+Call function
+Apply function
+Bind function
+Closures
+Higher order components
+Async/await
+Promises
+Error handling
+Throwing exceptions
+Event-driven programming
+Immutability
+Object-oriented programming in JavaScript
+Prototypes
+Prototypal inheritance
+Classes
+Object destructuring
+Spread syntax
+Rest parameters
+Arrow function expressions
+Function generators
+Ternary operator
+Template literals
+Promises chaining
+Promises all
+Promises race
+Promises catch
+Chaining promises with async/await
+Promise.resolve
+Promise.reject
+Promise.finally
+Higher-order functions vs. regular functions
+Callback hell
+IIFE (Immediately Invoked Function Expression)
+IIFE vs. arrow functions
+Function declaration vs. function expression
+Default function parameters
+Function argument destructuring
+Function scope
+Block scope
+Lexical scope
+Variable hoisting
+Function hoisting
+Arrow functions vs. regular functions
+Function returns in arrow functions
+Higher order functions in arrays
+Higher order functions in objects
+Higher order functions in strings
+Higher order functions in numbers
+Higher order functions in booleans
+Higher order functions in dates
+Higher order functions in sets
+Higher order functions in maps
+Higher order functions in classes
+Higher order functions in async functions
+Higher order functions in promises
+Higher order functions in callbacks
+Function parameters in higher order functions
+Function return values in higher order functions
+Passing functions as arguments
+Returning functions from functions
+Higher order functions in event handling
+Higher order functions in DOM manipulation
+Higher order functions in AJAX requests
+Higher order functions in error handling
+Higher order functions in form validation
+Examples of higher order functions in libraries/frameworks
+Higher order functions in functional programming
+First-class functions in JavaScript
+Function purity in higher order functions
+Currying vs. partial application in higher order functions
+Higher order functions in data manipulation
+Higher order functions in algorithmic problem solving
+Higher order functions in recursive algorithms
+Higher order functions in sorting algorithms
+Higher order functions in searching algorithms
+Higher order functions in mathematical operations
+Higher order functions in asynchronous programming

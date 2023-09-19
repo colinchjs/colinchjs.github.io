@@ -1,0 +1,100 @@
+Introduction to Javascript
+Basics of Javascript programming
+Variables and data types in Javascript
+Functions and objects in Javascript
+Arrays and looping in Javascript
+Conditional statements and control flow in Javascript
+DOM manipulation with Javascript
+Introduction to Zeit
+Getting started with Zeit
+Deploying a Javascript application on Zeit
+Customizing Zeit deployments
+Scaling your Javascript application on Zeit
+Monitoring and analytics with Zeit
+Serverless architecture with Zeit
+Zeit microservices and APIs
+Zeit Now vs Now 2.0
+Zeit documentation and resources
+Introduction to Vercel
+Getting started with Vercel
+Deploying a Javascript application on Vercel
+Customizing Vercel deployments
+Scaling your Javascript application on Vercel
+Monitoring and analytics with Vercel
+Serverless architecture with Vercel
+Vercel for static websites
+Vercel for Next.js applications
+Vercel for Gatsby websites
+Vercel for Nuxt.js applications
+Vercel for React applications
+Vercel vs other deployment platforms
+Vercel documentation and resources
+Introduction to Zeit Now
+Features of Zeit Now
+Zero configuration deployments with Zeit Now
+Zeit Now CLI commands and options
+Continuous deployment with Zeit Now
+Serverless functions with Zeit Now
+Zeit Now environment variables and secrets
+Zeit Now domains and routing
+Zeit Now deployment aliases and versions
+Zeit Now deployment logs and rollback
+Zeit Now team collaboration and access control
+Zeit Now analytics and performance monitoring
+Zeit Now serverless database and storage
+Introduction to Zeit for teams
+Collaborating on Zeit deployments
+Managing environments with Zeit for teams
+Automating deployment workflows with Zeit for teams
+Analyzing performance and monitoring with Zeit for teams
+Zeit for teams security and access control
+Zeit for teams pricing and plans
+Introduction to Vercel Edge Network
+Features of Vercel Edge Network
+Global CDN with Vercel Edge Network
+SSL and security with Vercel Edge Network
+Caching and performance optimization with Vercel Edge Network
+Load balancing and auto-scaling with Vercel Edge Network
+DDoS protection with Vercel Edge Network
+Advanced routing and redirects with Vercel Edge Network
+Image optimization and resizing with Vercel Edge Network
+API gateway and microservices with Vercel Edge Network
+Introduction to Vercel Analytics
+Real-time analytics and insights with Vercel Analytics
+Click tracking and heatmaps with Vercel Analytics
+Conversion tracking and funnel analysis with Vercel Analytics
+A/B testing and user behavior analysis with Vercel Analytics
+Vercel Analytics dashboard and reports
+Integrating Vercel Analytics with other platforms
+Introduction to serverless architecture
+Benefits of serverless architecture for Javascript applications
+Deploying serverless functions on Zeit Now
+Deploying serverless functions on Vercel
+Serverless database options for Javascript applications
+Serverless authentication and authorization for Javascript applications
+Scalability and cost optimization with serverless architecture
+Best practices for serverless architecture in Javascript
+Introduction to microservices architecture
+Benefits of microservices architecture for Javascript applications
+Deploying microservices on Zeit Now
+Deploying microservices on Vercel
+Communication and orchestration in microservices architecture
+Monitoring and scaling microservices with Zeit and Vercel
+Security considerations in microservices architecture
+Best practices for microservices architecture in Javascript
+Introduction to static websites
+Building static websites with Zeit Now
+Building static websites with Vercel
+Optimizing performance and SEO for static websites
+Server-side rendering and pre-rendering for static websites
+Static website deployment options with Zeit and Vercel
+Introduction to Next.js
+Building Next.js applications with Zeit Now
+Building Next.js applications with Vercel
+Next.js server-side rendering and data fetching
+Next.js deployment options with Zeit and Vercel
+Optimizing performance and SEO for Next.js applications
+Introduction to Gatsby
+Building Gatsby websites with Zeit Now
+Building Gatsby websites with Vercel
+Gatsby static site generation and deployment options with Zeit and Vercel

@@ -1,0 +1,100 @@
+Introduction to the MediaStream API
+Basics of capturing audio using the MediaStream API
+Capturing video using the MediaStream API
+Accessing microphone using the MediaStream API
+Accessing camera using the MediaStream API
+Initializing the MediaStream API in a web browser
+Recording audio using the MediaStream API
+Recording video using the MediaStream API
+Displaying captured audio in the browser using the MediaStream API
+Displaying captured video in the browser using the MediaStream API
+Playing captured audio using the MediaStream API
+Playing captured video using the MediaStream API
+Streaming audio from one browser to another using the MediaStream API
+Streaming video from one browser to another using the MediaStream API
+Adding filters to captured audio using the MediaStream API
+Adding filters to captured video using the MediaStream API
+Controlling audio volume using the MediaStream API
+Controlling video resolution using the MediaStream API
+Controlling audio quality using the MediaStream API
+Controlling video quality using the MediaStream API
+Adding watermark to captured video using the MediaStream API
+Compressing captured audio using the MediaStream API
+Compressing captured video using the MediaStream API
+Converting captured audio to different formats using the MediaStream API
+Converting captured video to different formats using the MediaStream API
+Adding captions to captured audio using the MediaStream API
+Adding captions to captured video using the MediaStream API
+Muting the microphone using the MediaStream API
+Pausing and resuming audio recording using the MediaStream API
+Pausing and resuming video recording using the MediaStream API
+Analyzing audio data using the MediaStream API
+Analyzing video data using the MediaStream API
+Detecting faces in captured video using the MediaStream API
+Detecting objects in captured video using the MediaStream API
+Applying real-time image filters to captured video using the MediaStream API
+Extracting audio from captured video using the MediaStream API
+Extracting frames from captured video using the MediaStream API
+Simultaneously capturing audio and video using the MediaStream API
+Simultaneously streaming audio and video using the MediaStream API
+Using multiple audio sources with the MediaStream API
+Using multiple video sources with the MediaStream API
+Handling permissions and user prompts with the MediaStream API
+Detecting and handling media device changes with the MediaStream API
+Playing audio from a remote stream using the MediaStream API
+Displaying video from a remote stream using the MediaStream API
+Recording audio from a remote stream using the MediaStream API
+Recording video from a remote stream using the MediaStream API
+Streaming audio to a remote destination using the MediaStream API
+Streaming video to a remote destination using the MediaStream API
+Implementing screen sharing with the MediaStream API
+Using the MediaStream API for real-time communication
+Combining data channels with the MediaStream API
+Implementing video conferencing with the MediaStream API
+Implementing live streaming with the MediaStream API
+Creating a virtual reality experience with the MediaStream API
+Implementing augmented reality using the MediaStream API
+Integrating speech recognition with the MediaStream API
+Integrating speech synthesis with the MediaStream API
+Applying digital signal processing to captured audio using the MediaStream API
+Applying computer vision algorithms to captured video using the MediaStream API
+Processing audio in real-time using the MediaStream API
+Processing video in real-time using the MediaStream API
+Implementing video editing features using the MediaStream API
+Implementing audio editing features using the MediaStream API
+Creating a video player using the MediaStream API
+Creating a audio player using the MediaStream API
+Implementing video effects using the MediaStream API
+Implementing audio effects using the MediaStream API
+Implementing green screen functionality using the MediaStream API
+Implementing face recognition using the MediaStream API
+Implementing emotion detection in captured video using the MediaStream API
+Implementing gesture recognition in captured video using the MediaStream API
+Implementing voice modulation using the MediaStream API
+Implementing background noise cancellation using the MediaStream API
+Implementing real-time audio visualization using the MediaStream API
+Implementing real-time video filtering using the MediaStream API
+Creating a video conferencing application using the MediaStream API
+Capturing audio in different formats using the MediaStream API
+Capturing video in different formats using the MediaStream API
+Broadcasting a live event using the MediaStream API
+Creating a video chat application using the MediaStream API
+Creating a video sharing platform using the MediaStream API
+Adding Live captions to video streams using the MediaStream API
+Applying Virtual backgrounds to captured video using the MediaStream API
+Integrating interaction tracking in captured video using the MediaStream API
+Implementing face swapping in captured video using the MediaStream API
+Implementing video stabilization using the MediaStream API
+Implementing automatic scene recognition using the MediaStream API
+Implementing video compression optimization using the MediaStream API
+Implementing custom video codec using the MediaStream API
+Implementing automatic speech recognition using the MediaStream API
+Implementing voice assistant integration using the MediaStream API
+Implementing real-time language translation in audio using the MediaStream API
+Implementing automatic music transcription using the MediaStream API
+Implementing video watermarking using the MediaStream API
+Creating a video recording studio using the MediaStream API
+Creating a virtual karaoke application using the MediaStream API
+Adding interactive elements to the captured video stream using the MediaStream API
+Implementing speech-to-text conversion in real-time using the MediaStream API
+Implementing a video recommendation system using the MediaStream API

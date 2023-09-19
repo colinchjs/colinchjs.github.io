@@ -1,0 +1,100 @@
+What is a package.json file?
+Purpose of package.json in JavaScript projects.
+How to create a package.json file in a JavaScript project.
+Different sections of a package.json file.
+NPM dependencies in package.json.
+Managing package versions in package.json.
+Scripts section in package.json.
+Package.json vs. package-lock.json.
+Engines section in package.json.
+Private vs. public packages in package.json.
+Integrating package.json with build tools like Webpack or Babel.
+Adding custom configuration in package.json.
+Package.json metadata fields.
+package.json scripts - start, test, build, etc.
+Using package.json to specify project metadata like name, description, etc.
+Globally installed packages vs. project-specific packages in package.json.
+Dependency management in package.json.
+package.json packages vs. CDN imports.
+Managing package.json in version control.
+Linking local packages in package.json.
+Specifying package author and license in package.json.
+Peer dependencies in package.json.
+Automating tasks with package.json scripts.
+package.json devDependencies.
+package.json dependencies vs. devDependencies.
+Publishing packages to package.json.
+package.json main file.
+package.json resolution algorithm.
+Upgrading packages in package.json.
+Bundling assets in package.json.
+package.json repository field.
+package.json keywords field.
+package.json engines field.
+Running package.json scripts with npm run.
+package.json bin field.
+package.json browserslist field.
+Verifying package integrity with package.json.
+package.json publishConfig field.
+package.json module field.
+package.json NPM token authentication.
+package.json NPM registry configuration.
+Default values in package.json.
+package.json optionalDependencies field.
+Custom scripts in package.json.
+package.json funding field.
+package.json contributors field.
+package.json optional peer dependencies.
+package.json bundledDependencies field.
+Configuring ESLint with package.json.
+package.json precommit hooks.
+package.json and Semantic Versioning.
+package.json "files" field.
+package.json directory structure.
+package.json package-lock.json relationship.
+package.json workspaces.
+package.json bundle size optimization.
+package.json nohoist configuration.
+package.json "sideEffects" field.
+package.json "scripts" field conventions.
+Configuring TypeScript with package.json.
+package.json dependencies vulnerability scanning.
+package.json engine-strict field.
+package.json flat node_modules structure.
+package.json private registry configuration.
+package.json repository URL format.
+package.json bundle splitting configuration.
+package.json "bundleDependencies" field.
+package.json git repository URL.
+package.json "husky" configuration for pre-commit hooks.
+package.json "browser" field.
+package.json http proxies configuration.
+package.json Docker image optimization.
+package.json Changelog generation configuration.
+package.json NPM token encryption configuration.
+package.json "optional" field.
+package.json CI/CD configuration.
+package.json "enginesStrict" field.
+package.json configuring webpack-dev-server.
+package.json "typings" field.
+package.json "eslintConfig" field.
+package.json NPM organization configuration.
+package.json "enginesNode" field.
+package.json configuring Jest.
+package.json "optionalEngines" field.
+package.json Continuous Integration configuration.
+package.json "enginesYarn" field.
+package.json configuring Prettier.
+package.json "isPrivate" field.
+package.json configuring Babel.
+package.json "enginesIOJS" field.
+package.json configuring Karma.
+package.json "config" field.
+package.json configuring Express.js.
+package.json "enginesRuby" field.
+package.json configuring Mocha.
+package.json "enginesDjango" field.
+package.json configuring React Native.
+package.json "enginesPython" field.
+package.json configuring AngularJS.
+package.json "enginesRubyOnRails" field.

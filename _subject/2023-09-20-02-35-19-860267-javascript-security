@@ -1,0 +1,100 @@
+Cross-Site Scripting (XSS)
+Cross-Site Request Forgery (CSRF)
+SQL Injection
+Clickjacking
+Denial of Service (DoS)
+Man-in-the-Middle (MitM) attacks
+Session hijacking
+Insecure Direct Object References
+Server-Side Request Forgery (SSRF)
+Remote Code Execution (RCE)
+Secure Socket Layer (SSL) and Transport Layer Security (TLS)
+Content Security Policy (CSP)
+Same-Origin Policy
+Input validation and sanitization
+Security headers
+Password hashing and storage
+Secure cookie handling
+Two-Factor Authentication (2FA)
+HTTP security headers
+Secure coding practices
+Access control and authorization
+Role-based access control
+Security scanning and penetration testing
+Secure development lifecycle
+Data encryption and decryption
+Secure transmission of data
+Secure storage of sensitive data
+Rate limiting and throttling
+Brute force attacks protection
+Strong password requirements
+Cross-Origin Resource Sharing (CORS)
+Security audit and risk assessment
+Secure file uploads
+Server-side validation
+Safe handling of user input
+secure() function in JavaScript
+Content Security Policy Level 3
+Security-oriented JavaScript libraries
+Two-step verification
+Error handling and logging
+Secure file downloads
+Login and authentication best practices
+Properly handling error messages
+Secure coding practices for APIs
+Protecting against code injections
+Session timeout and idle session management
+Applying principle of least privilege
+Implementing CAPTCHA for form submission
+Protecting against XML External Entity (XXE) attacks
+Securely managing third-party libraries and dependencies
+Securely generating random numbers
+Response header manipulation
+IP blocking and blacklisting
+Implementing security monitoring and logging
+Secure deployment and configuration of web servers
+Securely handling server-side redirects
+Cross-Site WebSocket Hijacking (CSWSH)
+Securely using third-party APIs
+DOM-based cross-site scripting prevention
+Secure browser storage (e.g., localStorage and sessionStorage)
+Secure database connection and query execution
+Secure handling of file uploads/downloads
+Securely accessing and manipulating the Document Object Model (DOM)
+Implementing secure error handling and notification mechanisms
+Implementing security best practices for Single Page Applications (SPAs)
+Securely integrating social media login/authentication
+Securely handling user-generated content
+Whitelisting and blacklisting input validation techniques
+Implementing secure access control mechanisms
+Secure multi-factor authentication
+Hashing user passwords with salt
+Securely transmitting data using Secure Socket Layer (SSL)
+Safely using JavaScript eval() function
+Implementing secure cross-domain communication techniques
+Protecting against script injection attacks
+Securely handling JavaScript sessions and cookies
+Implementing secure password reset mechanism
+Securely storing and retrieving sensitive data
+Writing secure code for JavaScript frameworks (e.g., React, Angular, Vue)
+Implementing secure file sharing and data transfer protocols
+Securely handling sensitive information in local storage
+Preventing server-side cache poisoning attacks
+Securely managing user permissions and roles
+Implementing secure client-side validation and error handling
+Protecting against session fixation attacks
+Securely handling errors in asynchronous JavaScript code
+Safely handling user input in dynamic HTML templates
+Implementing secure communication channels within web applications
+Securely rendering user-generated HTML content
+Protecting against XML injection attacks
+Securely implementing web application firewalls
+Safely initializing JavaScript variables and objects
+Implementing secure cross-site scripting filters
+Protecting against insecure direct object references in JavaScript frameworks
+Securely handling file uploads with antivirus scanning
+Hardening JavaScript code to resist reverse engineering
+Implementing secure audit logging and sensitive data protection
+Protecting against insecure deserialization vulnerabilities
+Safely handling asynchronous JavaScript events
+Securely handling and validating user input in forms

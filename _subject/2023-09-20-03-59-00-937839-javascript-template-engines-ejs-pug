@@ -1,0 +1,100 @@
+Introduction to Javascript template engines
+EJS template engine and its features
+How to install and set up EJS in a project
+Understanding EJS syntax and tags
+Working with variables in EJS templates
+Conditional statements in EJS templates
+Looping and iterating over data in EJS
+Including and rendering partials in EJS templates
+Implementing layouts and master templates in EJS
+Using filters and helpers in EJS templates
+Passing data from backend to EJS templates
+How to use Pug template engine
+Advantages and features of Pug template engine
+Installing and configuring Pug in a project
+Understanding Pug syntax and indentation-based structure
+Working with variables and expressions in Pug templates
+Conditional statements in Pug templates
+Looping and iterating over data in Pug
+Including and extending templates in Pug
+Using mixin and function in Pug templates
+Using filters and attributes in Pug templates
+Integrating Pug with Express.js framework
+Comparing EJS and Pug template engines
+Performance considerations for EJS and Pug
+Templating best practices for EJS and Pug
+Handling errors and exceptions in EJS templates
+Implementing internationalization with EJS or Pug
+Securing EJS and Pug templates from code injection attacks
+Debugging techniques for EJS and Pug templates
+Customizing the templating engine settings
+Integrating EJS or Pug with front-end frameworks (React, Angular, etc.)
+Using precompiled templates in EJS and Pug
+Benchmarking EJS and Pug for performance optimization
+Implementing server-side rendering with EJS or Pug
+Creating reusable components in EJS and Pug templates
+How to migrate from one template engine to another (EJS to Pug or vice versa)
+Integrating EJS or Pug with database and ORM
+Implementing caching for EJS or Pug templates
+Managing template dependencies and versioning
+Implementing live updates and real-time rendering with EJS or Pug
+Customizing template engine extensions and options
+Implementing custom tags or directives in EJS and Pug
+Using template engine middleware in Express.js
+Implementing client-side rendering with EJS or Pug
+Optimizing template rendering for faster load times
+Implementing pagination and filtering in EJS or Pug templates
+Templating for email templates (EJS or Pug)
+Implementing responsive design in EJS or Pug templates
+Templating for PDF generation using EJS or Pug
+Working with form submissions in EJS or Pug templates
+Implementing image and file uploads in EJS or Pug templates
+Integrating third-party APIs or services in EJS or Pug templates
+Templating for SEO-friendly URLs with EJS or Pug
+Implementing dynamic routing and URL parameters in EJS or Pug templates
+Working with session and authentication in EJS or Pug templates
+Templating for user notifications and messages (EJS or Pug)
+Implementing search functionality in EJS or Pug templates
+Templating for data visualization and chart generation with EJS or Pug
+Working with dates and times in EJS or Pug templates
+Implementing image and media galleries in EJS or Pug templates
+Templating for social media sharing and integration (EJS or Pug)
+Implementing user profiles and account settings in EJS or Pug templates
+Working with different data formats (JSON, CSV, XML) in EJS or Pug templates
+Templating for CRUD operations (create, read, update, delete) in EJS or Pug
+Implementing user input validation in EJS or Pug templates
+Templating for user feedback and rating systems (EJS or Pug)
+Working with maps and geolocation in EJS or Pug templates
+Implementing online ordering and payment processing with EJS or Pug
+Templating for blog posts and content management (EJS or Pug)
+Integrating web analytics and tracking in EJS or Pug templates
+Templating for user-generated content and comments (EJS or Pug)
+Implementing user notifications and alerts in EJS or Pug templates
+Working with multimedia content (audio, video) in EJS or Pug templates
+Templating for product listings and e-commerce functionality (EJS or Pug)
+Implementing user reviews and ratings in EJS or Pug templates
+Templating for online forums and discussion boards (EJS or Pug)
+Working with external APIs and data sources in EJS or Pug templates
+Implementing user registration and login functionality in EJS or Pug
+Templating for user surveys and questionnaires (EJS or Pug)
+Integrating chatbot or conversational AI in EJS or Pug templates
+Templating for user-generated galleries and portfolios (EJS or Pug)
+Implementing sorting and filtering functionality in EJS or Pug templates
+Working with different content types (text, images, videos) in EJS or Pug
+Templating for event calendars and schedules (EJS or Pug)
+Implementing user favorites and bookmarks in EJS or Pug templates
+Templating for online quizzes and tests (EJS or Pug)
+Working with authentication and access control in EJS or Pug templates
+Implementing user-generated surveys and polls in EJS or Pug
+Templating for user forums and community platforms (EJS or Pug)
+Integrating payment gateways and subscription systems in EJS or Pug templates
+Templating for online booking and reservation systems (EJS or Pug)
+Implementing social media sharing and integration in EJS or Pug templates
+Working with real-time data updates and websockets in EJS or Pug
+Templating for interactive maps and location-based services (EJS or Pug)
+Implementing user profile customization in EJS or Pug templates
+Templating for online surveys and feedback forms (EJS or Pug)
+Working with image manipulation and processing in EJS or Pug templates
+Implementing personalized recommendations and suggestions in EJS or Pug
+Templating for user-generated playlists and music platforms (EJS or Pug)
+Integrating machine learning and AI services in EJS or Pug templates

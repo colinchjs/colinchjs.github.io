@@ -1,0 +1,100 @@
+Basics of XSS (Cross-Site Scripting)
+Types of XSS attacks
+Stored XSS attacks
+Reflected XSS attacks
+DOM-based XSS attacks
+Non-persistent XSS attacks
+Persistent XSS attacks
+XSS prevention techniques
+Encoding and validation in XSS prevention
+Proper input sanitization to prevent XSS
+Output encoding to prevent XSS
+Effective usage of Content Security Policy (CSP) to prevent XSS
+Importance of secure cookie handling to prevent XSS
+Regular expression patterns for XSS detection
+Cross-Site Scripting Attack Vectors
+XSS payloads and attack examples
+Impact of XSS attacks on web applications
+Real-world examples of XSS vulnerabilities
+Common web security vulnerabilities related to XSS
+JavaScript frameworks and XSS vulnerabilities
+Exploiting XSS in different browsers
+The role of client-side sanitization in XSS prevention
+Server-side mitigation techniques for XSS attacks
+Security headers to prevent XSS attacks
+Importance of secure coding practices in preventing XSS
+Testing and identifying XSS vulnerabilities in web applications
+Cross-site scripting (XSS) versus Cross-site request forgery (CSRF)
+XSS vulnerabilities in popular web applications
+Challenges in detecting and mitigating advanced XSS attacks
+The role of penetration testing in identifying XSS vulnerabilities
+Reporting and responsibly disclosing XSS vulnerabilities
+Legal implications of XSS attacks
+XSS vulnerabilities in mobile applications
+The importance of regular security audits in preventing XSS
+The role of security awareness training in preventing XSS attacks
+The impact of DOM manipulation libraries on XSS vulnerabilities
+XSS vulnerabilities and the impact on user privacy
+The role of web application firewalls (WAF) in mitigating XSS attacks
+Server-side JavaScript security considerations for preventing XSS
+Common pitfalls and mistakes in XSS prevention
+The impact of XSS attacks on search engine optimization (SEO)
+The impact of browser extensions on XSS vulnerabilities
+The role of browser security features in preventing XSS attacks
+The role of input validation libraries in preventing XSS
+The impact of third-party integrations on XSS vulnerabilities
+The role of bug bounty programs in discovering XSS vulnerabilities
+XSS vulnerabilities in e-commerce websites
+The impact of single-page applications (SPA) on XSS vulnerabilities
+The role of security incident response in handling XSS attacks
+The role of security headers in mitigating XSS attacks
+XSS vulnerabilities in content management systems (CMS)
+The impact of user-generated content on XSS vulnerabilities
+The role of secure development frameworks in preventing XSS
+The impact of AJAX and APIs on XSS vulnerability management
+The role of input validation libraries in preventing XSS
+The impact of client-side templating engines on XSS vulnerabilities
+The role of secure coding standards in preventing XSS attacks
+The impact of ad networks on XSS vulnerabilities
+The role of session management in preventing XSS attacks
+XSS vulnerabilities in social media platforms
+The impact of browser caching on XSS vulnerabilities
+The role of log monitoring and analysis in detecting XSS attacks
+The impact of data leakage on XSS vulnerabilities
+The role of secure coding guidelines in preventing XSS attacks
+XSS vulnerabilities in online banking applications
+The impact of data sanitization on XSS vulnerability management
+The role of input validation libraries in preventing XSS
+The impact of server-side rendering on XSS vulnerabilities
+The role of secure coding training in preventing XSS attacks
+XSS vulnerabilities in government websites
+The impact of cross-origin resource sharing (CORS) on XSS vulnerabilities
+The role of vulnerability scanning tools in identifying XSS vulnerabilities
+The impact of client-side storage on XSS vulnerabilities
+The role of secure coding practices in preventing XSS attacks
+XSS vulnerabilities in healthcare applications
+The impact of frame busting techniques on XSS vulnerability management
+The role of secure coding reviews in preventing XSS attacks
+The impact of authentication and authorization on XSS vulnerabilities
+The role of intrusion detection systems (IDS) in detecting XSS attacks
+XSS vulnerabilities in educational websites
+The impact of browser security updates on XSS vulnerability management
+The role of secure coding libraries in preventing XSS attacks
+The impact of data encryption on XSS vulnerabilities
+The role of input validation libraries in preventing XSS
+XSS vulnerabilities in gaming applications
+The impact of cross-site scripting in email phishing attacks
+The role of secure coding frameworks in preventing XSS attacks
+The impact of obfuscation techniques on XSS vulnerabilities
+The role of vulnerability management in addressing XSS attacks
+The impact of user input handling on XSS vulnerability management
+The role of user input validation in preventing XSS attacks
+XSS vulnerabilities in travel booking websites
+The impact of server-side templating on XSS vulnerability management
+The role of secure coding guidelines in preventing XSS attacks
+The impact of clickjacking on XSS vulnerabilities
+The role of secure coding practices in preventing XSS attacks
+XSS vulnerabilities in dating applications
+The impact of session fixation on XSS vulnerability management
+The role of security awareness training in preventing XSS attacks
+The impact of phishing attacks on XSS vulnerabilities.

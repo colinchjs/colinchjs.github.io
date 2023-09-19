@@ -1,0 +1,100 @@
+Introduction to JavaScript Symbols
+Differences between Symbols and other JavaScript data types
+How to create a Symbol in JavaScript
+Using Symbols as unique property keys in JavaScript objects
+Symbol.iterator and iterating over objects
+Using Symbols for customizing object behavior
+Symbol.toStringTag and customizing object string representations
+Symbol.hasInstance and customizing instanceof behavior
+Using Symbols to define and enforce private variables in JavaScript
+Symbol.species and overriding inherited methods
+Symbol.isConcatSpreadable and customizing Array concatenation behavior
+Symbol.toPrimitive and controlling object to primitive conversion
+Symbol.split and customizing String splitting behavior
+Symbol.match and customizing RegExp matching behavior
+Symbol.replace and customizing String replacement behavior
+Symbol.search and customizing RegExp searching behavior
+Symbol.unscopables and customizing object's behavior in 'with' statement
+Symbol.observable and working with observable patterns
+Symbol.for and creating global symbols
+Symbol.keyFor and retrieving the key of a global symbol
+Using Symbols as constants in JavaScript
+Symbol in the global symbol registry
+Symbol in the Symbol object
+Symbol in the Object prototype
+Symbol in the Function prototype
+Symbol in the Array prototype
+Symbol in the String prototype
+Symbol in the Number prototype
+Symbol in the Boolean prototype
+Symbol in the Date prototype
+Symbol in the Math object
+Symbol in the JSON object
+Symbol in the Error object
+Symbol in the Promise object
+Symbol in ES6 modules
+Symbol in class definitions
+Symbol in the Reflect object
+Symbol in the Proxy object
+Symbol in generator functions
+Symbol in async/await functions
+Symbol in the Set object
+Symbol in the Map object
+Symbol in the WeakSet object
+Symbol in the WeakMap object
+Symbol in the ArrayBuffer object
+Symbol in the DataView object
+Symbol in the TypedArray objects
+Symbol in the ArrayBufferView objects
+Symbol in the Promise objects
+Symbol in the Iterator objects
+Symbol in the Iterable objects
+Symbol in the Array-like objects
+Symbol in the DOM objects
+Symbol in the Web APIs
+Symbol in the Window object
+Symbol in the Document object
+Symbol in the Element object
+Symbol in the Event object
+Symbol in the XMLHttpRequest object
+Symbol in the FormData object
+Symbol in the Fetch API
+Symbol in the WebSockets API
+Symbol in the Canvas API
+Symbol in the Geolocation API
+Symbol in the IndexedDB API
+Symbol in the Web Workers API
+Symbol in the Service Workers API
+Symbol in the LocalStorage API
+Symbol in the SessionStorage API
+Symbol in the History API
+Symbol in the Location object
+Symbol in the Navigator object
+Symbol in the Intl object
+Symbol in the Date object
+Symbol in the RegExp object
+Symbol in the Math object
+Symbol in the Console object
+Symbol in the Error object
+Symbol in the Proxy object
+Symbol in the Reflect object
+Symbol in the Array object
+Symbol in the String object
+Symbol in the Number object
+Symbol in the Boolean object
+Symbol in the Symbol object
+Symbol in the Function object
+Symbol in the Object object
+Symbol in the Promise object
+Symbol in the Map object
+Symbol in the Set object
+Symbol in the WeakMap object
+Symbol in the WeakSet object
+Symbol in the ArrayBuffer object
+Symbol in the DataView object
+Symbol in the TypedArray objects
+Symbol in the ArrayBufferView objects
+Symbol in the Generator object
+Symbol in the Iterator object
+Symbol in the Iterable object
+Symbol in the JSON object

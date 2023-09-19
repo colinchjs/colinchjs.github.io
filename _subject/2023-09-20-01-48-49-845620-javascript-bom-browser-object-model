@@ -1,0 +1,100 @@
+Window object in JavaScript BOM
+Document object in JavaScript BOM
+Navigator object in JavaScript BOM
+Screen object in JavaScript BOM
+Location object in JavaScript BOM
+History object in JavaScript BOM
+XMLHttpRequest object in JavaScript BOM
+Cookie manipulation in JavaScript BOM
+Local storage in JavaScript BOM
+Session storage in JavaScript BOM
+Geolocation in JavaScript BOM
+Timing functions in JavaScript BOM
+Alert boxes in JavaScript BOM
+Confirm boxes in JavaScript BOM
+Prompt boxes in JavaScript BOM
+Pop-up windows in JavaScript BOM
+Manipulating browser history in JavaScript BOM
+Opening new tabs or windows in JavaScript BOM
+Closing browser tabs or windows in JavaScript BOM
+Redirecting to different URLs in JavaScript BOM
+Accessing browser plugins in JavaScript BOM
+Working with frames and iframes in JavaScript BOM
+Accessing form data in JavaScript BOM
+Selecting and manipulating elements in JavaScript BOM
+Attaching event handlers in JavaScript BOM
+Handling keyboard and mouse events in JavaScript BOM
+Modifying styles and classes of elements in JavaScript BOM
+Executing scripts dynamically in JavaScript BOM
+Sending and receiving data from server using AJAX in JavaScript BOM
+Resizing and scrolling browser windows in JavaScript BOM
+Checking browser support for features in JavaScript BOM
+Handling browser-specific quirks in JavaScript BOM
+Controlling browser pop-up blocker using JavaScript BOM
+Accessing and manipulating browser cache in JavaScript BOM
+Using JavaScript to interact with browser bookmarks in JavaScript BOM
+Capturing and manipulating user input in JavaScript BOM
+Listening for browser events in JavaScript BOM
+Detecting mobile devices and their capabilities in JavaScript BOM
+Communicating between parent and child windows in JavaScript BOM
+Changing the browser's default behavior using JavaScript BOM
+Modifying the browser's title and favicon using JavaScript BOM
+Handling browser window focus and blur events in JavaScript BOM
+Controlling browser zoom settings using JavaScript BOM
+Controlling browser printing settings using JavaScript BOM
+Retrieving and manipulating browser cookies in JavaScript BOM
+Detecting and handling browser window resize events in JavaScript BOM
+Retrieving and manipulating browser history entries in JavaScript BOM
+Setting timeouts and intervals in JavaScript BOM
+Resolving DNS using JavaScript BOM
+Accessing and manipulating browser session storage in JavaScript BOM
+Cross-document communication using JavaScript BOM
+Determining the user's browser and operating system in JavaScript BOM
+Retrieving and manipulating browser screen dimensions in JavaScript BOM
+Determining the user's preferred language and locale in JavaScript BOM
+Detecting and handling browser window scroll events in JavaScript BOM
+Embedding multimedia content in web pages using JavaScript BOM
+Playing audio and video using JavaScript BOM
+Taking screenshots of web pages using JavaScript BOM
+Accessing and manipulating browser's user agent string in JavaScript BOM
+Handling browser window minimize, restore, and maximize events in JavaScript BOM
+Retrieving and manipulating browser's current URL in JavaScript BOM
+Determining the user's current timezone in JavaScript BOM
+Opening native calendar and contact apps using JavaScript BOM
+Device orientation and motion sensing using JavaScript BOM
+Retrieving and manipulating browser's referrer URL in JavaScript BOM
+Using JavaScript to interact with browser bookmarks in JavaScript BOM
+Reading and parsing XML documents using JavaScript BOM
+Parsing and manipulating JSON data using JavaScript BOM
+Retrieving and manipulating browser's language preferences in JavaScript BOM
+Embedding interactive maps in web pages using JavaScript BOM
+Handling browser shortcuts and hotkeys in JavaScript BOM
+Detecting and handling browser window resize events in JavaScript BOM
+Using JavaScript to interact with browser’s download manager in JavaScript BOM
+Validating form inputs using JavaScript BOM
+Saving form input data for later retrieval using JavaScript BOM
+Detecting and handling browser window maximize and minimize events in JavaScript BOM
+Retrieving and parsing RSS feeds using JavaScript BOM
+Calculating and displaying browser's scrolling position in JavaScript BOM
+Accessing and manipulating browser's bookmark bar in JavaScript BOM
+Handling right-click context menu events in JavaScript BOM
+Detecting and handling browser window visibility events in JavaScript BOM
+Retrieving and manipulating browser's HTTP headers in JavaScript BOM
+Displaying notifications and alerts in the browser using JavaScript BOM
+Retrieving and displaying information about the user's network connection in JavaScript BOM
+Performing basic math calculations using JavaScript BOM
+Converting between different numerical bases using JavaScript BOM
+Parsing and manipulating CSV data using JavaScript BOM
+Formatting and validating dates and times using JavaScript BOM
+Creating and working with HTML5 canvases using JavaScript BOM
+Retrieving and manipulating browser's search engine preferences in JavaScript BOM
+Accessing and manipulating browser's payment interfaces using JavaScript BOM
+Retrieving and manipulating user authentication and session information in JavaScript BOM
+Handling browser window print events in JavaScript BOM
+Retrieving and manipulating browser's default search engine in JavaScript BOM
+Accessing and manipulating browser's clipboard using JavaScript BOM
+Managing browser download settings and preferences using JavaScript BOM
+Determining and manipulating browser's SSL certificate information using JavaScript BOM
+Creating and manipulating CSS animations and transitions using JavaScript BOM
+Performing geospatial calculations and manipulations using JavaScript BOM
+Accessing and manipulating browser's file system using JavaScript BOM

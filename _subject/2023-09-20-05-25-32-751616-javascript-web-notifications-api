@@ -1,0 +1,100 @@
+Introduction to Javascript Web Notifications API
+Basic concepts of Web Notifications in Javascript
+Overview of the Notification object in Javascript
+How to request permission for Web Notifications in Javascript
+Handling different notification permissions in Javascript
+Creating a simple notification in Javascript
+Customizing the appearance of Web Notifications in Javascript
+Adding icons to Javascript Web Notifications
+Using images in Javascript Web Notifications
+Assigning actions to Javascript Web Notifications
+Handling click events on Javascript Web Notifications
+Displaying notification titles and bodies in Javascript
+Displaying different types of notifications in Javascript
+Using tags to group notifications in Javascript
+Stacking notifications in Javascript
+Setting the duration of Javascript Web Notifications
+Dismissing and closing Javascript Web Notifications
+Clearing all notifications in Javascript
+Checking the notification permission status in Javascript
+Detecting if the user has blocked Web Notifications in Javascript
+Handling changes to the notification permission in Javascript
+Using the Event API in Javascript Web Notifications
+Checking if the current browser supports Web Notifications in Javascript
+Detecting if the user is currently focused on the page in Javascript
+Sending notifications to specific users in Javascript
+Checking if the notification is supported by the operating system in Javascript
+Creating persistent notifications in Javascript
+Using the vibration API with Web Notifications in Javascript
+Using sound in Javascript Web Notifications
+Changing the behavior of notifications based on user interaction in Javascript
+Displaying notifications with expiration dates in Javascript
+Handling notification errors in Javascript
+Using the visibility API with Web Notifications in Javascript
+Using the notificationclose event in Javascript
+Handling notification click events in Javascript
+Customizing the appearance of notification buttons in Javascript
+Displaying a progress bar in Javascript Web Notifications
+Displaying HTML content within notifications in Javascript
+Creating a notification center with Javascript Web Notifications
+Handling notification interaction using the action event in Javascript
+Displaying notifications with different levels of urgency in Javascript
+Using different notification behaviors in Javascript
+Handling notification display errors in Javascript
+Displaying notifications based on user preferences in Javascript
+Sending silent notifications in Javascript
+Displaying notifications with different priority levels in Javascript
+Displaying ongoing notifications in Javascript
+Handling notification timeout in Javascript
+Displaying notifications with different colors in Javascript
+Using different notification styles in Javascript
+Displaying image thumbnails in Javascript Web Notifications
+Creating multi-line notifications in Javascript
+Displaying notifications with different sound options in Javascript
+Using different notification positions in Javascript
+Displaying notifications with different sizes in Javascript
+Displaying notifications with different durations in Javascript
+Handling notification behavior when the browser is minimized in Javascript
+Displaying notifications with different levels of importance in Javascript
+Displaying notifications with different levels of visibility in Javascript
+Creating interactive notifications in Javascript Web Notifications
+Displaying notifications with different notification counts in Javascript
+Handling notification actions in Javascript
+Creating notifications with rich media content in Javascript
+Displaying notifications with different levels of interactivity in Javascript
+Creating personalized notifications in Javascript
+Displaying notifications with different vibration patterns in Javascript
+Displaying notifications with different levels of detail in Javascript
+Handling notification behavior in different browser modes in Javascript
+Displaying notifications with different sizes in different devices in Javascript
+Creating expandable notifications in Javascript
+Displaying notifications with different levels of privacy in Javascript
+Handling notification behavior when the system is in do not disturb mode in Javascript
+Displaying notifications with different availability options in Javascript
+Creating notifications with countdown timers in Javascript
+Displaying notifications with different levels of security in Javascript
+Handling notification behavior when the system is locked in Javascript
+Displaying notifications with different levels of urgency in different devices in Javascript
+Creating persistent notifications with expiration in Javascript
+Displaying notifications with different levels of transparency in Javascript
+Handling notification behavior when the system is running low on resources in Javascript
+Creating actionable notifications in Javascript
+Displaying notifications with different levels of urgency based on user preferences in Javascript
+Handling notification behavior when the system is in battery saver mode in Javascript
+Displaying notifications with different levels of visibility based on user preferences in Javascript
+Creating notifications with customizable themes in Javascript
+Displaying notifications with different levels of transparency based on user preferences in Javascript
+Handling notification behavior when the system is in driving mode in Javascript
+Displaying notifications with different levels of importance based on user preferences in Javascript
+Creating notifications with dynamic content in Javascript
+Displaying notifications with different levels of urgency based on user activity in Javascript
+Handling notification behavior when the system is in quiet mode in Javascript
+Displaying notifications with different levels of visibility based on user activity in Javascript
+Creating notifications with local data in Javascript
+Displaying notifications with different levels of transparency based on user activity in Javascript
+Handling notification behavior when the system is in gaming mode in Javascript
+Displaying notifications with different levels of importance based on user activity in Javascript
+Creating notifications with real-time updates in Javascript
+Displaying notifications with different levels of urgency based on user behavior in Javascript
+Handling notification behavior when the system is in meeting mode in Javascript
+Displaying notifications with different levels of visibility based on user behavior in Javascript

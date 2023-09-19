@@ -1,0 +1,100 @@
+Basic drawing shapes (lines, circles, rectangles) using the Canvas API
+Color manipulation and gradient fills with the Canvas API
+Text rendering and styling on the Canvas using the Canvas API
+Image manipulation and rendering on the Canvas using the Canvas API
+Advanced drawing techniques with paths and curves in the Canvas API
+Animation techniques using requestAnimationFrame and the Canvas API
+Transformations and translations in the Canvas API for creating dynamic elements
+Clipping paths and masking with the Canvas API
+Applying filters and effects to images on the Canvas using the Canvas API
+Creating interactive elements with event listeners in the Canvas API
+Drawing and animating spritesheets with the Canvas API
+Creating responsive and scalable Canvas elements with the Canvas API
+Advanced image manipulation techniques with pixel manipulation in the Canvas API
+Using compositing operations for advanced blending and layering effects on the Canvas
+Creating custom shapes and polygons using paths in the Canvas API
+Creating interactive charts and graphs with the Canvas API
+Implementing particle systems and simulating physics on the Canvas using the Canvas API
+Creating 3D effects with the WebGL API and integrating with the Canvas API
+Applying shaders and custom effects with WebGL and the Canvas API
+Creating interactive maps and geographic visualizations using the Canvas API
+Implementing drag-and-drop functionality on Canvas elements with the Canvas API
+Creating photo editing tools with the Canvas API
+Creating real-time collaborative drawing applications using WebSockets and the Canvas API
+Rendering video and audio using the Canvas API
+Creating interactive quizzes and games with the Canvas API
+Implementing zooming and panning functionality on the Canvas using the Canvas API
+Comprehensive guide to pixel manipulation using ImageData in the Canvas API
+Creating generative art with the Canvas API
+Implementing image filters and effects with CSS and the Canvas API
+Creating a drawing board application with undo and redo functionality using the Canvas API
+Simulating natural phenomena like water ripples and fire effects with the Canvas API
+Implementing 2D physics engines using the Canvas API
+Creating handwriting recognition and signature capture with the Canvas API
+Creating barcode and QR code generators using the Canvas API
+Implementing image recognition and object detection with the Canvas API
+Creating a photo slideshow with transition effects using the Canvas API
+Implementing image cropping and resizing functionality with the Canvas API
+Creating interactive timeline and schedule visualizations using the Canvas API
+Implementing data visualization and charting libraries using the Canvas API
+Creating interactive virtual tours and walkthroughs using the Canvas API
+Implementing image annotation and markup tools with the Canvas API
+Creating custom tooltips and popovers using the Canvas API
+Implementing drawing and painting tools with different brush styles and sizes on the Canvas
+Creating a pixel art editor with grid-based drawing and color palettes using the Canvas API
+Implementing a whiteboard application for collaborative drawing and brainstorming with the Canvas API
+Creating interactive infographics with interactive elements and animations using the Canvas API
+Implementing image morphing and transformation effects with the Canvas API
+Creating a photo collage maker with drag-and-drop functionality using the Canvas API
+Implementing a photo filter editor with live preview using the Canvas API
+Creating custom map overlays and annotations with the Canvas API
+Implementing text-to-speech functionality with highlighted word synchronization using the Canvas API
+Creating interactive music visualizers and equalizers using the Canvas API
+Implementing a custom image cropping and rotation tool using the Canvas API
+Creating a 2D game engine with collision detection and physics simulation using the Canvas API
+Implementing a drawing recognition application with machine learning and the Canvas API
+Creating interactive e-learning modules with quizzes and animations using the Canvas API
+Implementing a virtual reality viewer with 360° image and video support using the Canvas API
+Creating a pixel-based image editor with layer support using the Canvas API
+Implementing a photo filter library with customizable filters and effects using the Canvas API
+Creating a photo booth application with real-time effects and photo printing using the Canvas API
+Implementing an image morphing tool with face detection and manipulation using the Canvas API
+Creating a vector graphics editor with path editing and bezier curves using the Canvas API
+Implementing a custom font rendering engine with ligature and kerning support using the Canvas API
+Creating a timeline animation editor with keyframes and easing functions using the Canvas API
+Implementing a puzzle game with drag-and-drop functionality and interactive elements using the Canvas API
+Creating a heat map visualization with gradient colors and intensity mapping using the Canvas API
+Implementing a color palette generator with customizable algorithms and color harmonies using the Canvas API
+Creating a virtual painting gallery with 3D tour and interactive paintings using the Canvas API
+Implementing a handwriting analysis tool with machine learning and pattern recognition using the Canvas API
+Creating a typography animation tool with text effects and motion presets using the Canvas API
+Implementing a rhythm-based game with music synchronization and interactive elements using the Canvas API
+Creating a timeline-based animation editor with keyframe interpolation and easing functions using the Canvas API
+Implementing a camouflage pattern generator with customizable shapes and colors using the Canvas API
+Creating a weather visualization with interactive elements and live data using the Canvas API
+Implementing a fractal explorer with zoom and pan functionality using the Canvas API
+Creating a terrain generator with heightmaps and erosion simulations using the Canvas API
+Implementing a maze game with pathfinding algorithms and dynamic obstacles using the Canvas API
+Creating a custom physics simulation engine with rigid bodies and collision detection using the Canvas API
+Implementing a face morphing application with facial feature detection and manipulation using the Canvas API
+Creating a virtual garden with interactive elements and plant growth simulations using the Canvas API
+Implementing a fireworks animation with particle systems and realistic physics using the Canvas API
+Creating a custom GIF creator with frame manipulation and animation preview using the Canvas API
+Implementing a sunrise/sunset visualization with real-time data and dynamic lighting effects using the Canvas API
+Creating a sound visualization with frequency analysis and waveform rendering using the Canvas API
+Implementing a dungeon crawler game with procedurally generated levels and enemy AI using the Canvas API
+Creating a custom map editor with grid-based placement and terrain deformation using the Canvas API
+Implementing a neural network visualization tool with interactive nodes and connections using the Canvas API
+Creating an interactive timeline with historical events and multimedia content using the Canvas API
+Implementing a crossword puzzle generator with word placement algorithms and interactive hints using the Canvas API
+Creating a custom logo generator with shape manipulation and typographic effects using the Canvas API
+Implementing a genetic art algorithm with evolutionary principles and artistic fitness functions using the Canvas API
+Creating a custom avatar creator with facial feature manipulation and clothing customization using the Canvas API
+Implementing a real-time graph visualization with network analysis and dynamic node positioning using the Canvas API
+Creating a space shooter game with scrolling backgrounds and enemy wave patterns using the Canvas API
+Implementing a custom image recognition system with machine learning and training data annotation using the Canvas API
+Creating a custom calendar widget with event scheduling and drag-and-drop functionality using the Canvas API
+Implementing a photo mosaic generator with image tiling and color matching algorithms using the Canvas API
+Creating a custom word cloud generator with customizable layouts and font styles using the Canvas API
+Implementing a vintage photo effects editor with retro filters and textured overlays using the Canvas API
+Creating a dynamic fluid simulation with viscosity and surface tension effects using the Canvas API.

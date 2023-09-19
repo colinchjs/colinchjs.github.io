@@ -1,0 +1,100 @@
+Introduction to pm2 in JavaScript
+Installing pm2 in a Node.js project
+Starting and stopping applications with pm2
+Setting up auto-restart with pm2
+Managing logs with pm2
+Setting up a cluster mode with pm2
+Monitoring application health with pm2
+Scaling applications with pm2
+Understanding the JSON application configuration file in pm2
+Configuring environment variables with pm2
+Using pm2 to manage multiple Node.js processes on a server
+Deploying applications with pm2
+Managing memory usage with pm2
+Using the pm2 CLI commands
+Using the pm2 programmatic API
+Setting up cron jobs with pm2
+Securing applications with pm2
+Integrating pm2 with other DevOps tools
+Troubleshooting common issues with pm2
+Understanding the graceful shutdown process in pm2
+Configuring application-specific settings in pm2
+Setting up a load balancer with pm2
+Using the pm2 web-based dashboard
+Using pm2 with Docker containers
+Managing CPU and resource usage with pm2
+Setting up custom metrics monitoring with pm2
+Using pm2 in a development environment
+Using pm2 with microservices architecture
+Configuring application log rotation with pm2
+Enabling and configuring CPU profiling with pm2
+Controlling application restart behavior with pm2
+Using pm2 with an external process manager (e.g., systemd)
+Managing environment-specific configurations with pm2
+Using pm2 with an API gateway
+Configuring health checks and monitoring with pm2
+Managing SSL certificates with pm2
+Setting up reverse proxy with pm2
+Using pm2 for load testing Node.js applications
+Managing different versions of Node.js with pm2
+Setting up automatic deployment with pm2
+Configuring automatic log rotation with pm2
+Using pm2 for blue-green deployment
+Monitoring and alerting with pm2
+Using pm2 with continuous integration and deployment (CI/CD) pipelines
+Setting up environment-specific runtime configuration with pm2
+Managing dependencies and package versions with pm2
+Configuring application-specific performance metrics with pm2
+Using pm2 with a container orchestration platform (e.g., Kubernetes)
+Configuring application-specific health checks with pm2
+Using pm2 for application benchmarking
+Integrating pm2 with a centralized logging system
+Implementing zero-downtime deployment with pm2
+Configuring process monitoring and notifications with pm2
+Using pm2 for application debugging
+Using pm2 with a message broker (e.g., RabbitMQ)
+Configuring automatic process scaling with pm2
+Using pm2 for A/B testing
+Managing application restart delays with pm2
+Setting up multi-host process management with pm2
+Using pm2 with an application performance monitoring (APM) tool
+Configuring custom application metrics with pm2
+Using pm2 with a reverse proxy/load balancer (e.g., Nginx)
+Managing application downtime with pm2
+Setting up cross-platform process management with pm2
+Using pm2 for application code profiling
+Configuring application-specific log filtering with pm2
+Using pm2 with a distributed tracing system
+Managing cron job scheduling with pm2
+Setting up multi-environment deployments with pm2
+Using pm2 for application security testing
+Configuring automatic error detection and reporting with pm2
+Using pm2 with a container registry (e.g., Docker Hub)
+Managing application blueprints and templates with pm2
+Setting up real-time application monitoring with pm2
+Using pm2 for performance optimization
+Configuring application-specific access control with pm2
+Using pm2 with a log aggregation tool (e.g., ELK stack)
+Managing process resource allocation with pm2
+Setting up automated backups with pm2
+Using pm2 for application load balancing
+Configuring application-specific error handling with pm2
+Using pm2 with a distributed database system (e.g., MongoDB)
+Managing deployment rollback with pm2
+Setting up session management with pm2
+Using pm2 for application traffic routing
+Configuring custom process monitoring with pm2
+Using pm2 with a message queue system (e.g., Apache Kafka)
+Managing application auto-scaling with pm2
+Setting up global process configurations with pm2
+Using pm2 for application caching
+Configuring automatic process recovery with pm2
+Using pm2 with an API testing tool
+Managing application localization with pm2
+Setting up distributed processing with pm2
+Using pm2 for error tracking and monitoring
+Configuring custom application command-line options with pm2
+Using pm2 with a distributed file system (e.g., Hadoop)
+Managing zero-downtime database migrations with pm2
+Setting up automatic security scanning with pm2
+Using pm2 for real-time logging and analytics

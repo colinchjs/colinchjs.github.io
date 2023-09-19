@@ -1,0 +1,100 @@
+Introduction to NestJS
+Getting started with NestJS
+Installing NestJS
+Setting up a basic NestJS project
+Understanding the structure of a NestJS application
+Creating controllers in NestJS
+Working with routes in NestJS
+Handling HTTP requests in NestJS
+Creating services in NestJS
+Dependency injection in NestJS
+Implementing middleware in NestJS
+Working with databases in NestJS
+Using TypeORM in NestJS
+Querying data with TypeORM in NestJS
+Using Sequelize in NestJS
+Authenticating users with NestJS
+Securing routes in NestJS
+Implementing role-based access control in NestJS
+Working with JWT authentication in NestJS
+Implementing OAuth authentication in NestJS
+Using Passport.js in NestJS
+Building REST APIs with NestJS
+Serializing and deserializing data in NestJS
+Handling errors and exceptions in NestJS
+Caching data in NestJS
+Handling file uploads in NestJS
+Writing unit tests in NestJS
+Using testing utilities in NestJS
+Integrating with third-party APIs in NestJS
+Using Docker with NestJS
+Deploying a NestJS application to Heroku
+Deploying a NestJS application to AWS
+Deploying a NestJS application to Azure
+Deploying a NestJS application to Google Cloud Platform
+Monitoring a NestJS application with Prometheus
+Implementing logging in NestJS
+Performance optimization in NestJS
+Scaling a NestJS application
+Implementing websockets in NestJS
+Using real-time messaging with NestJS
+Building a microservices architecture with NestJS
+Using NestJS with GraphQL
+Consuming APIs with NestJS
+Building a chat application with NestJS
+Implementing internationalization in NestJS
+Creating custom decorators in NestJS
+Using NestJS with Angular
+Using NestJS with React
+Using NestJS with Vue.js
+Creating a CRUD application with NestJS
+Implementing server-side rendering with NestJS
+Building a CMS with NestJS
+Implementing SEO in NestJS
+Using WebSockets for real-time communication in NestJS
+Implementing rate limiting in NestJS
+Building a blogging platform with NestJS
+Implementing message queues with NestJS
+Building a file storage system with NestJS
+Using NestJS with MongoDB
+Using NestJS with PostgreSQL
+Using NestJS with MySQL
+Using NestJS with Redis
+Using NestJS with Elasticsearch
+Building a social media platform with NestJS
+Implementing search functionality in NestJS
+Creating a real-time chat application with NestJS and Socket.io
+Handling email sending in NestJS
+Building a scheduling system with NestJS
+Implementing web scraping with NestJS
+Creating a job board with NestJS
+Building a payment gateway with NestJS
+Implementing localization in NestJS
+Implementing pagination in NestJS
+Using validation pipes in NestJS
+Using interceptors in NestJS
+Building a task management system with NestJS
+Implementing a notification system in NestJS
+Building a customer relationship management system with NestJS
+Implementing push notifications in NestJS
+Using decorators for data validation in NestJS
+Implementing a recommender system with NestJS
+Building a food delivery application with NestJS
+Implementing a social login with NestJS
+Building a weather forecast application with NestJS
+Implementing a file conversion service with NestJS
+Building a video streaming platform with NestJS
+Implementing a job scheduling system with NestJS
+Building a chatbot with NestJS
+Implementing data encryption in NestJS
+Using webhooks with NestJS
+Building a survey platform with NestJS
+Implementing a content management system with NestJS
+Building a recommendation engine with NestJS
+Implementing real-time analytics with NestJS
+Using GraphQL subscriptions with NestJS
+Building an e-commerce platform with NestJS
+Implementing search autocomplete with NestJS
+Building a recommendation system with NestJS and machine learning
+Implementing a ticketing system with NestJS
+Building a music streaming platform with NestJS

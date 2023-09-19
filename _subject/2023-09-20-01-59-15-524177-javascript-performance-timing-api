@@ -1,0 +1,100 @@
+NavigationTiming interface
+ResourceTiming interface
+PerformanceTiming interface
+UserTiming API
+Paint Timing API
+Long Task Timing API
+Frame Timing API
+Beacon Timing API
+First Input Delay (FID)
+Largest Contentful Paint (LCP)
+Cumulative Layout Shift (CLS)
+Time to First Byte (TTFB)
+Time to Interactive (TTI)
+First Contentful Paint (FCP)
+DomContentLoaded Event
+Load Event
+Page unload Event
+Performance.now() method
+Performance.mark() method
+Performance.measure() method
+Performance.clearMarks() method
+Performance.clearMeasures() method
+Resource Timing Level 1 specification
+Resource Timing Level 2 specification
+Server Timing API
+PerformanceObserver interface
+PerformanceEntry object
+PerformanceNavigation object
+PerformanceResourceTiming object
+PerformanceServerTiming object
+PerformanceLayoutShift object
+PerformancePaintTiming object
+PerformanceLongTaskTiming object
+PerformanceElementTiming object
+PerformanceMemoryTiming object
+PerformanceNavigationTiming object
+Navigation Timing Level 2 specification
+Server Timing Level 1 specification
+Long Tasks Level 1 specification
+Long Tasks Level 2 specification
+Frame Timing Level 1 specification
+First Input Delay Level 2 specification
+Element Timing Level 1 specification
+PerformanceObserverEntryList interface
+Performance observer types
+Performance observer callback functions
+Performance observer buffering
+Performance observer disconnecting
+Performance observer threshold
+Performance observer options
+Performance observer supported entry types
+Performance observer performance entries
+Performance observer entry processing
+Performance observer subscription
+Performance entry name
+Performance entry entryType
+Performance entry startTime
+Performance entry duration
+Performance entry entrySize
+NavigationTiming redirects
+NavigationTiming fetchStart
+NavigationTiming domainLookupStart
+NavigationTiming domainLookupEnd
+NavigationTiming connectStart
+NavigationTiming connectEnd
+NavigationTiming requestStart
+NavigationTiming responseStart
+NavigationTiming responseEnd
+NavigationTiming domLoading
+NavigationTiming domInteractive
+NavigationTiming domContentLoadedEventStart
+NavigationTiming domContentLoadedEventEnd
+NavigationTiming domComplete
+NavigationTiming loadEventStart
+NavigationTiming loadEventEnd
+NavigationTiming unloadEventStart
+NavigationTiming unloadEventEnd
+ResourceTiming initiatorType
+ResourceTiming redirectStart
+ResourceTiming redirectEnd
+ResourceTiming fetchStart
+ResourceTiming domainLookupStart
+ResourceTiming domainLookupEnd
+ResourceTiming connectStart
+ResourceTiming connectEnd
+ResourceTiming secureConnectionStart
+ResourceTiming requestStart
+ResourceTiming responseStart
+ResourceTiming responseEnd
+ResourceTiming transferSize
+ResourceTiming encodedBodySize
+ResourceTiming decodedBodySize
+UserTiming mark()
+UserTiming measure()
+UserTiming getEntriesByName()
+UserTiming getEntriesByType()
+UserTiming mark performance entries
+UserTiming measure performance entries
+UserTiming clear marks
+UserTiming clear measures

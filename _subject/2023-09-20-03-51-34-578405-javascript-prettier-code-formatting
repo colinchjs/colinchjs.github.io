@@ -1,0 +1,100 @@
+Introduction to Javascript Prettier
+Installing and setting up Prettier in your Javascript project
+Configuring Prettier options for code formatting
+Using Prettier CLI (Command Line Interface) for code formatting
+Integrating Prettier with code editors (VS Code, Sublime Text, Atom, etc.)
+Enforcing code formatting rules using Prettier
+Ignoring files and directories in Prettier
+Automatically fixing code formatting issues with Prettier
+Formatting Javascript files using Prettier
+Formatting JSX (Javascript XML) with Prettier
+Formatting Vue.js files with Prettier
+Formatting React files with Prettier
+Formatting Angular files with Prettier
+Formatting Node.js files with Prettier
+Formatting TypeScript files with Prettier
+Formatting JSON files with Prettier
+Prettier vs ESLint: Understanding the differences
+Using Prettier with ESLint for code formatting and linting
+Combining Prettier with other code formatting tools
+Prettier plugins and integrations for specific frameworks and libraries
+Prettier and code collaboration: Ensuring consistent code style across team projects
+Best practices for using Prettier in a development workflow
+Benefits of using Prettier for code formatting
+Disadvantages of using Prettier: When not to use it
+Performance considerations and optimizations for Prettier
+Troubleshooting common issues with Prettier
+Overriding Prettier formatting rules on a per-file basis
+Creating custom Prettier formatting rules
+Using Prettier with pre-commit hooks for automated code formatting
+Prettier and code reviews: Making code reviews easier and more efficient
+Prettier and continuous integration (CI) pipelines
+Prettier and version control: Handling code formatting changes in Git
+Prettier and code refactoring: Cleaning up code with ease
+Using Prettier to enforce consistent code styling across large codebases
+Prettier and code linting: Differences and similarities
+Prettier and editor extensions: Maximizing productivity with editor integrations
+Prettier configuration files and their options
+Prettier and multi-language codebases: Challenges and solutions
+Prettier and non-Javascript files: Formatting other file types with Prettier
+Prettier and CSS/SCSS code formatting
+Prettier and HTML code formatting
+Prettier and Markdown code formatting
+Prettier and GraphQL code formatting
+Prettier and YAML code formatting
+Prettier and Python code formatting
+Prettier and Java code formatting
+Prettier and PHP code formatting
+Prettier and Ruby code formatting
+Prettier and C# code formatting
+Prettier and Go code formatting
+Prettier and Rust code formatting
+Prettier and Swift code formatting
+Prettier and Kotlin code formatting
+Prettier and Dart code formatting
+Prettier and Lua code formatting
+Prettier and Scala code formatting
+Prettier and Shell script code formatting
+Prettier and PowerShell code formatting
+Prettier and TypeScript code formatting
+Prettier and Coffeescript code formatting
+Prettier and LESS code formatting
+Prettier and SASS code formatting
+Prettier and Vue.js code formatting
+Prettier and Angular code formatting
+Prettier and React Native code formatting
+Prettier and Express.js code formatting
+Prettier and Nest.js code formatting
+Prettier and Electron.js code formatting
+Prettier and MongoDB code formatting
+Prettier and Redis code formatting
+Prettier and Apollo GraphQL code formatting
+Prettier and Axios code formatting
+Prettier and Redux code formatting
+Prettier and Jest code formatting
+Prettier and Mocha code formatting
+Prettier and Cypress code formatting
+Prettier and Webpack code formatting
+Prettier and Babel code formatting
+Prettier and ESLint code formatting
+Prettier and TSLint code formatting
+Prettier and GitLab code formatting
+Prettier and GitHub code formatting
+Prettier and Bitbucket code formatting
+Prettier and JIRA code formatting
+Prettier and Trello code formatting
+Prettier and Asana code formatting
+Prettier and Slack code formatting
+Prettier and VS Code code formatting
+Prettier and Sublime Text code formatting
+Prettier and Atom code formatting
+Prettier and IntelliJ IDEA code formatting
+Prettier and Notepad++ code formatting
+Prettier and Vim code formatting
+Prettier and Emacs code formatting
+Prettier and WebStorm code formatting
+Prettier and PyCharm code formatting
+Prettier and Eclipse code formatting
+Prettier and NetBeans code formatting
+Prettier and Visual Studio code formatting
+Prettier alternatives: Other code formatting tools for Javascript

@@ -1,0 +1,100 @@
+Basic syntax of regular expressions in JavaScript
+Anchors in JavaScript regex (start and end of a string)
+Character classes in JavaScript regex (matching specific characters)
+Quantifiers in JavaScript regex (matching multiple occurrences)
+Metacharacters in JavaScript regex (special characters with special meanings)
+Escape characters in JavaScript regex (using special characters as literals)
+Flags in JavaScript regex (modifiers for different matching options)
+String methods in JavaScript for working with regular expressions
+Testing a regex pattern with the test() method in JavaScript
+Extracting matches with the match() method in JavaScript
+Replacing matches with the replace() method in JavaScript
+Splitting a string into an array with the split() method using a regex pattern
+Matching any character (except newline) with the dot (.) metacharacter
+Matching specific characters or character ranges with square brackets []
+Matching any digit with the shorthand \d character class
+Matching any non-digit character with the shorthand \D character class
+Matching any whitespace character with the shorthand \s character class
+Matching any non-whitespace character with the shorthand \S character class
+Matching any word character with the shorthand \w character class
+Matching any non-word character with the shorthand \W character class
+Matching specific occurrences with quantifiers (e.g. +, *, ?)
+Matching a specific number of occurrences with quantifiers {n} and {n,m}
+Matching optional characters with the ? quantifier
+Anchoring a regex pattern to the start of a string with the ^ anchor
+Anchoring a regex pattern to the end of a string with the $ anchor
+Matching any of a set of characters using the OR operator |
+Grouping and capturing parts of a regex pattern with parentheses
+Using backreferences to match previously captured groups
+Using lookahead assertions to match patterns without consuming characters
+Using lookbehind assertions to match patterns that precede the main match
+Using word boundaries to match whole words using \b
+Using negative assertions to match patterns that are not followed by a specific pattern
+Using the \b metacharacter to match a word boundary
+Matching email addresses using a regex pattern in JavaScript
+Validating URLs with a regex pattern in JavaScript
+Extracting hashtags from a string using a regex pattern in JavaScript
+Validating phone numbers with a regex pattern in JavaScript
+Extracting numbers from a string using a regex pattern in JavaScript
+Matching repeating patterns with the * and + quantifiers
+Matching nested parentheses with balanced regex groups
+Matching dates in different formats using a regex pattern in JavaScript
+Removing HTML tags from a string using a regex pattern in JavaScript
+Matching and extracting specific parts of a URL using regex in JavaScript
+Validating credit card numbers using a regex pattern in JavaScript
+Matching and extracting specific parts of an IP address using regex in JavaScript
+Matching specific patterns within a certain distance using the {m,n} quantifier
+Matching and extracting specific parts of a URL query string using regex in JavaScript
+Validating social security numbers using a regex pattern in JavaScript
+Matching and extracting specific parts of a postal address using regex in JavaScript
+Splitting a string into sentences using a regex pattern in JavaScript
+Matching and extracting specific parts of a time format using regex in JavaScript
+Validating hex color codes using a regex pattern in JavaScript
+Matching and extracting specific parts of an HTML tag using regex in JavaScript
+Splitting a string into words using a regex pattern in JavaScript
+Matching and extracting specific parts of a URL fragment using regex in JavaScript
+Validating MAC addresses using a regex pattern in JavaScript
+Matching and extracting specific parts of a file path using regex in JavaScript
+Splitting a string into paragraphs using a regex pattern in JavaScript
+Matching and extracting specific parts of an email address using regex in JavaScript
+Validating date formats using a regex pattern in JavaScript
+Matching and extracting specific parts of a URL hostname using regex in JavaScript
+Splitting a string into lines using a regex pattern in JavaScript
+Matching and extracting specific parts of a CSS selector using regex in JavaScript
+Validating username formats using a regex pattern in JavaScript
+Matching and extracting specific parts of a URL protocol using regex in JavaScript
+Replacing specific patterns in a string using a regex pattern in JavaScript
+Validating password strength using a regex pattern in JavaScript
+Matching and extracting specific parts of a URL port using regex in JavaScript
+Extracting domain names from URLs using a regex pattern in JavaScript
+Validating IP addresses using a regex pattern in JavaScript
+Matching and extracting specific parts of a URL path using regex in JavaScript
+Removing duplicate words from a string using a regex pattern in JavaScript
+Validating ISBN numbers using a regex pattern in JavaScript
+Matching and extracting specific parts of a URL query parameter using regex in JavaScript
+Checking for repeated characters in a string using a regex pattern in JavaScript
+Validating hashtags with specific formatting using a regex pattern in JavaScript
+Matching and extracting specific parts of a URL fragment identifier using regex in JavaScript
+Checking for consecutive numbers in a string using a regex pattern in JavaScript
+Validating URLs with specific protocols using a regex pattern in JavaScript
+Matching and extracting specific parts of a URL using regex in JavaScript
+Checking for consecutive characters in a string using a regex pattern in JavaScript
+Validating email addresses with specific domains using a regex pattern in JavaScript
+Matching and extracting specific parts of an HTML attribute value using regex in JavaScript
+Validating phone numbers with specific country codes using a regex pattern in JavaScript
+Matching and extracting specific parts of a sentence using regex in JavaScript
+Validating URLs with specific top-level domains using a regex pattern in JavaScript
+Matching and extracting specific parts of a URL query parameter value using regex in JavaScript
+Validating credit card numbers with specific issuers using a regex pattern in JavaScript
+Matching and extracting specific parts of a file extension using regex in JavaScript
+Validating social security numbers with specific formats using a regex pattern in JavaScript
+Matching and extracting specific parts of a postal code using regex in JavaScript
+Validating URLs with specific ports using a regex pattern in JavaScript
+Matching and extracting specific parts of a time string using regex in JavaScript
+Validating hex color codes with specific formats using a regex pattern in JavaScript
+Matching and extracting specific parts of an HTML comment using regex in JavaScript
+Validating email addresses with specific restrictions using a regex pattern in JavaScript
+Matching and extracting specific parts of a CSS property value using regex in JavaScript
+Validating usernames with specific restrictions using a regex pattern in JavaScript
+Matching and extracting specific parts of a URL scheme using regex in JavaScript
+Validating password complexity using a regex pattern in JavaScript

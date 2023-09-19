@@ -1,0 +1,100 @@
+Bubble Sort Algorithm
+Selection Sort Algorithm
+Insertion Sort Algorithm
+Merge Sort Algorithm
+Quick Sort Algorithm
+Heap Sort Algorithm
+Binary Search Algorithm
+Linear Search Algorithm
+Depth First Search Algorithm
+Breadth First Search Algorithm
+Dijkstra's Algorithm
+Kruskal's Algorithm
+Prim's Algorithm
+Depth First Traversal
+Breadth First Traversal
+Counting Sort Algorithm
+Radix Sort Algorithm
+Bucket Sort Algorithm
+Topological Sort Algorithm
+Shell Sort Algorithm
+Interpolation Search Algorithm
+AVL Tree Algorithm
+Red-Black Tree Algorithm
+Binary Search Tree Algorithm
+Heap Data Structure
+Hashing with Chaining
+Hashing with Linear Probing
+Hashing with Quadratic Probing
+Bucket Sort using Hashing
+Quick Select Algorithm
+Bubble Sort Optimization (Flagging)
+Selection Sort Optimization (Min-Max)
+Insertion Sort Optimization (Binary Insertion)
+Merge Sort Optimization (In-Place)
+Quick Sort Optimization (Randomized Pivot)
+Heap Sort Optimization (Heapify Down)
+Binary Search Optimization (Binary Search Tree)
+Linear Search Optimization (Transposition)
+Depth First Search Optimization (Memoization)
+Breadth First Search Optimization (Visited Array)
+Dijkstra's Algorithm Optimization (Fibonacci Heap)
+Kruskal's Algorithm Optimization (Union-Find Disjoint Sets)
+Prim's Algorithm Optimization (Binary Heap + Indexed Priority Queue)
+Depth First Traversal Optimization (Stack)
+Breadth First Traversal Optimization (Queue)
+Counting Sort Optimization (In-Place)
+Radix Sort Optimization (Least Significant Digit)
+Bucket Sort Optimization (Parallel Processing)
+Topological Sort Optimization (Directed Acyclic Graph)
+Shell Sort Optimization (Knuth's Gap Sequence)
+Interpolation Search Optimization (Exponential Search)
+AVL Tree Optimization (Balanced Insertion)
+Red-Black Tree Optimization (Left-Leaning)
+Binary Search Tree Optimization (Balanced Tree)
+Heap Data Structure Optimization (Incremental Construction)
+Hashing with Chaining Optimization (Dynamic Resizing)
+Hashing with Linear Probing Optimization (Double Hashing)
+Hashing with Quadratic Probing Optimization (Cuckoo Hashing)
+Bucket Sort using Hashing Optimization (Parallel Insertion)
+Quick Select Algorithm Optimization (Randomized Pivot)
+Bubble Sort Time Complexity Analysis
+Selection Sort Time Complexity Analysis
+Insertion Sort Time Complexity Analysis
+Merge Sort Time Complexity Analysis
+Quick Sort Time Complexity Analysis
+Heap Sort Time Complexity Analysis
+Binary Search Time Complexity Analysis
+Linear Search Time Complexity Analysis
+Depth First Search Time Complexity Analysis
+Breadth First Search Time Complexity Analysis
+Dijkstra's Algorithm Time Complexity Analysis
+Kruskal's Algorithm Time Complexity Analysis
+Prim's Algorithm Time Complexity Analysis
+Depth First Traversal Time Complexity Analysis
+Breadth First Traversal Time Complexity Analysis
+Counting Sort Time Complexity Analysis
+Radix Sort Time Complexity Analysis
+Bucket Sort Time Complexity Analysis
+Topological Sort Time Complexity Analysis
+Shell Sort Time Complexity Analysis
+Interpolation Search Time Complexity Analysis
+AVL Tree Time Complexity Analysis
+Red-Black Tree Time Complexity Analysis
+Binary Search Tree Time Complexity Analysis
+Heap Data Structure Time Complexity Analysis
+Hashing with Chaining Time Complexity Analysis
+Hashing with Linear Probing Time Complexity Analysis
+Hashing with Quadratic Probing Time Complexity Analysis
+Bucket Sort using Hashing Time Complexity Analysis
+Quick Select Algorithm Time Complexity Analysis
+Bubble Sort Space Complexity Analysis
+Selection Sort Space Complexity Analysis
+Insertion Sort Space Complexity Analysis
+Merge Sort Space Complexity Analysis
+Quick Sort Space Complexity Analysis
+Heap Sort Space Complexity Analysis
+Binary Search Space Complexity Analysis
+Linear Search Space Complexity Analysis
+Depth First Search Space Complexity Analysis
+Breadth First Search Space Complexity Analysis

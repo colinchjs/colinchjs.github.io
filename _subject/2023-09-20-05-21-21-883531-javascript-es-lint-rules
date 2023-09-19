@@ -1,0 +1,100 @@
+Naming conventions for variables and functions
+Indentation and spacing rules
+Checking for unused variables or imports
+Enforcing the use of strict mode
+Enforcing the use of curly braces for control flow statements
+Enforcing the use of semicolons
+Limiting the maximum line length
+Forbidding the use of certain language features or methods
+Enforcing the use of single or double quotes for strings
+Specifying the maximum cyclomatic complexity of a function
+Enforcing the use of arrow functions for certain scenarios
+Checking for missing default cases in switch statements
+Enforcing the use of trailing commas in arrays or objects
+Disallowing the use of certain global variables or objects
+Enforcing consistent spacing inside arrays or objects
+Requiring the use of type annotations for variables or function parameters
+Restricting the use of certain language constructs, such as eval()
+Checking for unused function arguments
+Enforcing the use of strict equality (===) instead of loose equality (==)
+Limiting the number of parameters a function can have
+Forbidding the use of certain syntax, such as the with statement
+Checking for block-scoped variable declarations
+Enforcing the use of camel case or snake case for variable names
+Requiring the use of === for NaN comparisons
+Enforcing consistent spacing around operators
+Checking for unreachable code or dead code
+Forbidding the use of certain built-in objects or methods, such as Math.random()
+Enforcing the use of explicit return statements in arrow functions
+Checking for unused imports or exports
+Requiring the use of template literals instead of string concatenation
+Enforcing the use of a consistent file naming convention
+Limiting the complexity of logical expressions
+Forbidding the use of console.log() or other debugging statements in production code
+Enforcing the use of strict comparison operators for null or undefined values
+Checking for duplicate keys in objects
+Enforcing the use of uppercase for constants
+Restricting the use of certain language features, such as inline function declarations
+Checking for consistent spacing before and after parentheses
+Enforcing the use of constructor functions for classes
+Limiting the depth of nested callbacks or promises
+Forbidding the use of certain control flow statements, such as continue or break
+Enforcing consistent naming conventions for classes, interfaces, or enums
+Checking for invalid regular expressions or patterns
+Enforcing consistent spacing before and after function parentheses
+Limiting the number of statements in a function
+Forbidding the use of certain methods or properties, such as Array.prototype.forEach()
+Enforcing the use of default parameters for optional function arguments
+Checking for unused or redundant code
+Enforcing the use of explicit parseInt() or parseFloat() instead of the global parseInt() function
+Limiting the number of nested loops or conditionals
+Forbidding the use of certain implicit type conversions
+Enforcing consistent spacing around commas in function arguments
+Checking for consistent placement of line comments
+Enforcing consistent naming conventions for event handlers or callback functions
+Limiting the number of characters per line
+Forbidding the use of certain built-in methods, such as Array.prototype.filter()
+Enforcing the use of default exports for modules
+Checking for consistent placement of function return statements
+Enforcing the use of strict comparison operators for boolean values
+Limiting the number of properties or methods in an object
+Forbidding the use of certain language features, such as labeled statements
+Enforcing the use of explicit coercion methods, such as Number() or String()
+Checking for consistent indentation within switch statements
+Enforcing the use of single or multiple var declarations in a function
+Limiting the number of nested function calls
+Forbidding the use of certain math functions, such as Math.pow() or Math.abs()
+Enforcing the use of optional chaining for null or undefined values
+Checking for consistent placement of function declarations
+Enforcing the use of explicit radix for parseInt() or parseFloat()
+Limiting the complexity of regular expressions
+Forbidding the use of certain language constructs, such as eval() or new Function()
+Enforcing the use of consistent indentation for block statements
+Checking for consistent placement of object keys in objects or JSON
+Enforcing the use of consistent naming conventions for constants or enums
+Limiting the number of class methods or properties
+Forbidding the use of certain built-in objects or methods, such as Math.sin() or Math.floor()
+Enforcing the use of explicit return types for functions
+Checking for inconsistent spacing around ternary operators
+Enforcing the use of consistent line breaks or spacing between function arguments
+Limiting the depth of nested object literals
+Forbidding the use of certain bitwise operators or operations
+Enforcing the use of strict comparison operators for number values
+Checking for consistent placement of object property shorthand notation
+Enforcing the use of consistent naming conventions for React components
+Limiting the number of function expressions vs function declarations
+Forbidding the use of certain language constructs, such as eval() or arguments.callee
+Enforcing the use of explicit undefined or null checks
+Checking for consistent placement of object method shorthand notation
+Enforcing the use of consistent object literal formatting
+Limiting the complexity of logical expressions in conditional statements
+Forbidding the use of certain string methods, such as String.prototype.replace()
+Enforcing the use of consistent indentation within template literals
+Checking for consistent placement of JavaScript operators
+Enforcing the use of consistent line breaks or spacing in arrow function expressions
+Limiting the number of parameters in arrow functions
+Forbidding the use of certain generator functions or methods
+Enforcing the use of consistent newlines between import or export statements
+Checking for inconsistent usage of async/await or promises
+Enforcing the use of consistent spacing around square brackets
+Limiting the depth of nested function blocks or scopes.
