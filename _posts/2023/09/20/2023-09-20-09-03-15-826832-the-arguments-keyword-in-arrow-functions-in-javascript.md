@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The "arguments" Keyword in Arrow Functions in JavaScript"
+title: "The arguments Keyword in Arrow Functions in JavaScript"
 description: " "
 date: 2023-09-20
 tags: [JavaScript, ArrowFunctions]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The "this" keyword in JavaScript Functions"
+title: "The this keyword in JavaScript Functions"
 description: " "
 date: 2023-09-20
 tags: [JavaScript, thisKeyword]

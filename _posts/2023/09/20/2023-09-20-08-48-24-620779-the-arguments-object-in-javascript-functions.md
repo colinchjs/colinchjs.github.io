@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The "arguments" Object in JavaScript Functions"
+title: "The arguments Object in JavaScript Functions"
 description: " "
 date: 2023-09-20
 tags: [javascript, functions]
