@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for writing Rollup.js configuration files for different project setups"
 description: " "
 date: 2023-09-18
-tags: [rollup, javascript]
+tags: [rollup]
 comments: true
 share: true
 ---

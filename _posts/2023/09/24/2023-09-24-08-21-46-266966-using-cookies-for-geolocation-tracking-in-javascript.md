@@ -3,7 +3,7 @@ layout: post
 title: "Using cookies for geolocation tracking in JavaScript"
 description: " "
 date: 2023-09-24
-tags: [javascript, geolocation]
+tags: [geolocation]
 comments: true
 share: true
 ---

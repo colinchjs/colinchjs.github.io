@@ -3,7 +3,7 @@ layout: post
 title: "Using session storage for storing user-specific geolocation tracking preferences in JavaScript"
 description: " "
 date: 2023-09-21
-tags: [geolocation, JavaScript]
+tags: [geolocation]
 comments: true
 share: true
 ---

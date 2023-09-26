@@ -3,7 +3,7 @@ layout: post
 title: "Implementing infinite scroll using AJAX in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [loader, javascript]
+tags: [loader]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Static context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, StaticContext]
+tags: [StaticContext]
 comments: true
 share: true
 ---

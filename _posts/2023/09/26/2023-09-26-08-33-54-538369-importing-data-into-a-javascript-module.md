@@ -3,7 +3,7 @@ layout: post
 title: "Importing data into a JavaScript module"
 description: " "
 date: 2023-09-26
-tags: [javascript, dataimport]
+tags: [dataimport]
 comments: true
 share: true
 ---

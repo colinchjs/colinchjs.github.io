@@ -3,7 +3,7 @@ layout: post
 title: "Modules and code quality in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, CodeQuality]
+tags: [CodeQuality]
 comments: true
 share: true
 ---

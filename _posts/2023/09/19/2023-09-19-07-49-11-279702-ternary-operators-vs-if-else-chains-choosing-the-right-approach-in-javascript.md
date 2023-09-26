@@ -3,7 +3,7 @@ layout: post
 title: "Ternary operators vs if-else chains: choosing the right approach in JavaScript"
 description: " "
 date: 2023-09-19
-tags: [javascript, ternaryoperators, conditionals, coding]
+tags: [ternaryoperators, conditionals, coding]
 comments: true
 share: true
 ---

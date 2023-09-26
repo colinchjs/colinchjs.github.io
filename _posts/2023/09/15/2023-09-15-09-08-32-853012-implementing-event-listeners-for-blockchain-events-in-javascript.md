@@ -3,7 +3,7 @@ layout: post
 title: "Implementing event listeners for blockchain events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [blockchain, JavaScript]
+tags: [blockchain]
 comments: true
 share: true
 ---

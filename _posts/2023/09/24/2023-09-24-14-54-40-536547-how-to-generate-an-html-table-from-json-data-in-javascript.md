@@ -3,7 +3,7 @@ layout: post
 title: "How to generate an HTML table from JSON data in JavaScript."
 description: " "
 date: 2023-09-24
-tags: [JavaScript, HTMLTable]
+tags: [HTMLTable]
 comments: true
 share: true
 ---

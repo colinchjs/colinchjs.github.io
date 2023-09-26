@@ -3,7 +3,7 @@ layout: post
 title: "How to share and consume modules across microfrontends with JavaScript Module Federation"
 description: " "
 date: 2023-09-18
-tags: [javascript, webpack]
+tags: [webpack]
 comments: true
 share: true
 ---

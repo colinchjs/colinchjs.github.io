@@ -3,7 +3,7 @@ layout: post
 title: "Collaborating on Dockerized Javascript projects with multiple developers"
 description: " "
 date: 2023-09-21
-tags: [docker, javascript]
+tags: [docker]
 comments: true
 share: true
 ---

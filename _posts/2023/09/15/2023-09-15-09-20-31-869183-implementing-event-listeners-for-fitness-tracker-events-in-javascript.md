@@ -3,7 +3,7 @@ layout: post
 title: "Implementing event listeners for fitness tracker events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [myButton, myButton, myButton, distance, fitnessTracker, JavaScript]
+tags: [myButton, myButton, myButton, distance, fitnessTracker]
 comments: true
 share: true
 ---

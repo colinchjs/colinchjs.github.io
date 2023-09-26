@@ -3,7 +3,7 @@ layout: post
 title: "How to leverage ternary operators for dynamic event handling in JavaScript"
 description: " "
 date: 2023-09-19
-tags: [myButton, webdevelopment, javascript]
+tags: [myButton, webdevelopment]
 comments: true
 share: true
 ---

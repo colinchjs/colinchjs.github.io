@@ -3,7 +3,7 @@ layout: post
 title: "Default Parameters in JavaScript Functions"
 description: " "
 date: 2023-09-20
-tags: [javascript, programming]
+tags: [programming]
 comments: true
 share: true
 ---

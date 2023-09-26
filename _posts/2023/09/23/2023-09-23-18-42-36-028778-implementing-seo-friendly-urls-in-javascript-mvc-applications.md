@@ -3,7 +3,7 @@ layout: post
 title: "Implementing SEO-friendly URLs in JavaScript MVC applications"
 description: " "
 date: 2023-09-23
-tags: [JavaScript, URLs]
+tags: [URLs]
 comments: true
 share: true
 ---

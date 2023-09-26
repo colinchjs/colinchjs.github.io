@@ -3,7 +3,7 @@ layout: post
 title: "Deploying JavaScript MVC applications on cloud platforms"
 description: " "
 date: 2023-09-23
-tags: [JavaScript, CloudPlatforms]
+tags: [CloudPlatforms]
 comments: true
 share: true
 ---

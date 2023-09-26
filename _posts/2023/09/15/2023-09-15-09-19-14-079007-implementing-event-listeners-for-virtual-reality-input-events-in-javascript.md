@@ -3,7 +3,7 @@ layout: post
 title: "Implementing event listeners for virtual reality input events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [VirtualReality, JavaScript]
+tags: [VirtualReality]
 comments: true
 share: true
 ---

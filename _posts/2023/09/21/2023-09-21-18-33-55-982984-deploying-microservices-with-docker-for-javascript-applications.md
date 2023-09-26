@@ -3,7 +3,7 @@ layout: post
 title: "Deploying microservices with Docker for Javascript applications"
 description: " "
 date: 2023-09-21
-tags: [javascript, docker, microservices]
+tags: [docker, microservices]
 comments: true
 share: true
 ---

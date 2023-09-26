@@ -3,7 +3,7 @@ layout: post
 title: "Tips for refactoring if-else chains into ternary operations in JavaScript"
 description: " "
 date: 2023-09-19
-tags: [javascript, refactoring]
+tags: [refactoring]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a cookie-based login system in JavaScript"
 description: " "
 date: 2023-09-24
-tags: [JavaScript, Authentication]
+tags: [Authentication]
 comments: true
 share: true
 ---

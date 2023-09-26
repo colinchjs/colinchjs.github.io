@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a proxy-based command execution system in JavaScript"
 description: " "
 date: 2023-09-18
-tags: [JavaScript, Proxy]
+tags: [Proxy]
 comments: true
 share: true
 ---

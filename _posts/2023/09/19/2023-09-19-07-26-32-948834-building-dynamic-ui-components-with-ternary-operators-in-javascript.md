@@ -3,7 +3,7 @@ layout: post
 title: "Building dynamic UI components with ternary operators in JavaScript"
 description: " "
 date: 2023-09-19
-tags: [javascript, dynamicUI]
+tags: [dynamicUI]
 comments: true
 share: true
 ---

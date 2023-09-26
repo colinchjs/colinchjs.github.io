@@ -3,7 +3,7 @@ layout: post
 title: "Building a blogging platform with AJAX and JavaScript"
 description: " "
 date: 2023-09-15
-tags: [blogging, javascript]
+tags: [blogging]
 comments: true
 share: true
 ---

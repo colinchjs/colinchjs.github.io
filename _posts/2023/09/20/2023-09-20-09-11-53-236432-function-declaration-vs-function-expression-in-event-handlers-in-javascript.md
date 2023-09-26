@@ -3,7 +3,7 @@ layout: post
 title: "Function Declaration vs Function Expression in Event Handlers in JavaScript"
 description: " "
 date: 2023-09-20
-tags: [javascript, beginners]
+tags: [beginners]
 comments: true
 share: true
 ---

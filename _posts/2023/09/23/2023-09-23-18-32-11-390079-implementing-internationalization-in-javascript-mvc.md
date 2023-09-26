@@ -3,7 +3,7 @@ layout: post
 title: "Implementing internationalization in JavaScript MVC"
 description: " "
 date: 2023-09-23
-tags: [JavaScript, Internationalization]
+tags: [Internationalization]
 comments: true
 share: true
 ---

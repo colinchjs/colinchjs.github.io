@@ -3,7 +3,7 @@ layout: post
 title: "Taking Functionality to the Next Level with ES6 Higher-Order Functions"
 description: " "
 date: 2023-09-13
-tags: [techblog, higherorderfunctions, javascript]
+tags: [techblog, higherorderfunctions]
 comments: true
 share: true
 ---

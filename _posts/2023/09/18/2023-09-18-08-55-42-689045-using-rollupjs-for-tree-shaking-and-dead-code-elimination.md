@@ -3,7 +3,7 @@ layout: post
 title: "Using Rollup.js for tree-shaking and dead code elimination"
 description: " "
 date: 2023-09-18
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

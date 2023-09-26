@@ -3,7 +3,7 @@ layout: post
 title: "Taking Advantage of ES6 Private Class Fields: Encapsulating Data and Logic"
 description: " "
 date: 2023-09-13
-tags: [count, increment(), count, count, count, increment(), count, count, increment(), count, increment(), count, decrement(), count, count, increment(), decrement(), decrement(), TechBlog, JavaScript]
+tags: [count, increment(), count, count, count, increment(), count, count, increment(), count, increment(), count, decrement(), count, count, increment(), decrement(), decrement(), TechBlog]
 comments: true
 share: true
 ---

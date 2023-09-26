@@ -3,7 +3,7 @@ layout: post
 title: "How to handle localized strings with ternary operations in JavaScript"
 description: " "
 date: 2023-09-19
-tags: [JavaScript, Localization]
+tags: [Localization]
 comments: true
 share: true
 ---

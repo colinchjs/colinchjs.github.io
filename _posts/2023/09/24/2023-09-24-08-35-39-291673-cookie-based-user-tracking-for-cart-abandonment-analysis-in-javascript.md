@@ -3,7 +3,7 @@ layout: post
 title: "Cookie-based user tracking for cart abandonment analysis in JavaScript"
 description: " "
 date: 2023-09-24
-tags: [eCommerce, JavaScript]
+tags: [eCommerce]
 comments: true
 share: true
 ---

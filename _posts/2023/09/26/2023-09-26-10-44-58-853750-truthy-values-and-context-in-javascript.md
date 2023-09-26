@@ -3,7 +3,7 @@ layout: post
 title: "Truthy values and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, TruthyValues]
+tags: [TruthyValues]
 comments: true
 share: true
 ---

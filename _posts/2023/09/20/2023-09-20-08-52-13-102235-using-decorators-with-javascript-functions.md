@@ -3,7 +3,7 @@ layout: post
 title: "Using Decorators with JavaScript Functions"
 description: " "
 date: 2023-09-20
-tags: [javascript, decorators]
+tags: [decorators]
 comments: true
 share: true
 ---

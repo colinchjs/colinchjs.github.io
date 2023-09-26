@@ -3,7 +3,7 @@ layout: post
 title: "Error handling and debugging in Javascript Storybook"
 description: " "
 date: 2023-09-22
-tags: [javascript, errorhandling]
+tags: [errorhandling]
 comments: true
 share: true
 ---

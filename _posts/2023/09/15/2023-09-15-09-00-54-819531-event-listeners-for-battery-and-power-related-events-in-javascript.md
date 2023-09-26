@@ -3,7 +3,7 @@ layout: post
 title: "Event listeners for battery and power-related events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [battery, javascript]
+tags: [battery]
 comments: true
 share: true
 ---

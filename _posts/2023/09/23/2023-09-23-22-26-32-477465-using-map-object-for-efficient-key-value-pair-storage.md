@@ -3,7 +3,7 @@ layout: post
 title: "Using Map object for efficient key-value pair storage"
 description: " "
 date: 2023-09-23
-tags: [JavaScript, MapObject]
+tags: [MapObject]
 comments: true
 share: true
 ---

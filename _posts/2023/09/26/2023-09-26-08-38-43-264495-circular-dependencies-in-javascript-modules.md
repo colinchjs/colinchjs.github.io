@@ -3,7 +3,7 @@ layout: post
 title: "Circular dependencies in JavaScript modules"
 description: " "
 date: 2023-09-26
-tags: [javascript, modulardevelopment]
+tags: [modulardevelopment]
 comments: true
 share: true
 ---

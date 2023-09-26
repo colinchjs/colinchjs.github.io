@@ -3,7 +3,7 @@ layout: post
 title: "Event listeners for health monitoring events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [healthmonitoring, javascript]
+tags: [healthmonitoring]
 comments: true
 share: true
 ---

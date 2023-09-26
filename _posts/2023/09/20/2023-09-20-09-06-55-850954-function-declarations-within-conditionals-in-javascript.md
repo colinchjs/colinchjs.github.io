@@ -3,7 +3,7 @@ layout: post
 title: "Function Declarations within Conditionals in JavaScript"
 description: " "
 date: 2023-09-20
-tags: [javascript, codingtips]
+tags: [codingtips]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Comparing switch statements and ternary operators in JavaScript"
 description: " "
 date: 2023-09-19
-tags: [JavaScript, SwitchVsTernary, JavaScript, SwitchVsTernary, JavaScript, SwitchStatements, JavaScript, TernaryOperators, JavaScript, SwitchVsTernary]
+tags: [SwitchVsTernary, JavaScript, SwitchVsTernary, JavaScript, SwitchStatements, JavaScript, TernaryOperators, JavaScript, SwitchVsTernary]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a cookie-based download manager in JavaScript"
 description: " "
 date: 2023-09-24
-tags: [JavaScript, DownloadManager]
+tags: [DownloadManager]
 comments: true
 share: true
 ---

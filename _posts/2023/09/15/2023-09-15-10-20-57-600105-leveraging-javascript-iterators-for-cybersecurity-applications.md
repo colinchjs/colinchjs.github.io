@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging JavaScript iterators for cybersecurity applications"
 description: " "
 date: 2023-09-15
-tags: [cybersecurity, javascript]
+tags: [cybersecurity]
 comments: true
 share: true
 ---

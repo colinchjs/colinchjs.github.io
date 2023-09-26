@@ -3,7 +3,7 @@ layout: post
 title: "Integrating third-party libraries and plugins in JavaScript MVC"
 description: " "
 date: 2023-09-23
-tags: [JavaScript]
+tags: []
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Function constructors and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [javascript, functionconstructors]
+tags: [functionconstructors]
 comments: true
 share: true
 ---

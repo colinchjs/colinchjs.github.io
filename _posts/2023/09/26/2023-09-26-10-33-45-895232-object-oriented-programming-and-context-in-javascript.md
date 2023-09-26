@@ -3,7 +3,7 @@ layout: post
 title: "Object-oriented programming and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, ObjectOrientedProgramming]
+tags: [ObjectOrientedProgramming]
 comments: true
 share: true
 ---

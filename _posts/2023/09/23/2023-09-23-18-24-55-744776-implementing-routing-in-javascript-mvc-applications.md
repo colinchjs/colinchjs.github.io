@@ -3,7 +3,7 @@ layout: post
 title: "Implementing routing in JavaScript MVC applications"
 description: " "
 date: 2023-09-23
-tags: [javascript, routing]
+tags: [routing]
 comments: true
 share: true
 ---

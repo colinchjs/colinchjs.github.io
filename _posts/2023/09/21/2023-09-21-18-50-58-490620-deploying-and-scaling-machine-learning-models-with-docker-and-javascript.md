@@ -3,7 +3,7 @@ layout: post
 title: "Deploying and scaling machine learning models with Docker and Javascript"
 description: " "
 date: 2023-09-21
-tags: [MachineLearning, Docker, JavaScript]
+tags: [MachineLearning, Docker]
 comments: true
 share: true
 ---

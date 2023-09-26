@@ -3,7 +3,7 @@ layout: post
 title: "Module loaders in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, ModuleLoaders]
+tags: [ModuleLoaders]
 comments: true
 share: true
 ---

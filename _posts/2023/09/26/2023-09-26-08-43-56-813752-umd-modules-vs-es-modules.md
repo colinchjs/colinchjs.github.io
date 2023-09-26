@@ -3,7 +3,7 @@ layout: post
 title: "UMD modules vs. ES modules"
 description: " "
 date: 2023-09-26
-tags: [javascript, esmodules]
+tags: [esmodules]
 comments: true
 share: true
 ---

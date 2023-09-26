@@ -3,7 +3,7 @@ layout: post
 title: "Execution context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, ExecutionContext]
+tags: [ExecutionContext]
 comments: true
 share: true
 ---

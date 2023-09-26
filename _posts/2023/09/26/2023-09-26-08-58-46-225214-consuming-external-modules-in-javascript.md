@@ -3,7 +3,7 @@ layout: post
 title: "Consuming external modules in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, ExternalModules]
+tags: [ExternalModules]
 comments: true
 share: true
 ---

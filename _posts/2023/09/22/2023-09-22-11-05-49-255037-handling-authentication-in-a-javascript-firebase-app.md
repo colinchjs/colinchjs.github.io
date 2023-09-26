@@ -3,7 +3,7 @@ layout: post
 title: "Handling authentication in a JavaScript Firebase app"
 description: " "
 date: 2023-09-22
-tags: [firebase, javascript]
+tags: [firebase]
 comments: true
 share: true
 ---

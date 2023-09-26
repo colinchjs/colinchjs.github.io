@@ -3,7 +3,7 @@ layout: post
 title: "Implementing feature toggles with JavaScript Module Federation in Webpack 5"
 description: " "
 date: 2023-09-18
-tags: [Javascript, Webpack]
+tags: [Webpack]
 comments: true
 share: true
 ---

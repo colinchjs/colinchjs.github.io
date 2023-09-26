@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to session storage in JavaScript"
 description: " "
 date: 2023-09-21
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a proxy-based schema validation in JavaScript"
 description: " "
 date: 2023-09-18
-tags: [JavaScript, SchemaValidation]
+tags: [SchemaValidation]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging code splitting with dynamic imports in Rollup.js for improved performance"
 description: " "
 date: 2023-09-18
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

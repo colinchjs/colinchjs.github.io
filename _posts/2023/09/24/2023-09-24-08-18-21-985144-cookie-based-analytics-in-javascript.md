@@ -3,7 +3,7 @@ layout: post
 title: "Cookie-based analytics in JavaScript"
 description: " "
 date: 2023-09-24
-tags: [webanalytics, javascript]
+tags: [webanalytics]
 comments: true
 share: true
 ---

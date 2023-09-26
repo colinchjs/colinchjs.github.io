@@ -3,7 +3,7 @@ layout: post
 title: "Understand Variable Scope in JavaScript Functions"
 description: " "
 date: 2023-09-20
-tags: [javascript, variables]
+tags: [variables]
 comments: true
 share: true
 ---

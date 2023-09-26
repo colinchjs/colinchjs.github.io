@@ -3,7 +3,7 @@ layout: post
 title: "Implementing pagination in JavaScript MVC apps"
 description: " "
 date: 2023-09-23
-tags: [javascript, pagination]
+tags: [pagination]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "ES modules in front-end development"
 description: " "
 date: 2023-09-26
-tags: [javascript, esmodules]
+tags: [esmodules]
 comments: true
 share: true
 ---

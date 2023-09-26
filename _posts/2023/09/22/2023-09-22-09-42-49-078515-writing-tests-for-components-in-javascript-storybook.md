@@ -3,7 +3,7 @@ layout: post
 title: "Writing tests for components in Javascript Storybook"
 description: " "
 date: 2023-09-22
-tags: [javascript, testing]
+tags: [testing]
 comments: true
 share: true
 ---

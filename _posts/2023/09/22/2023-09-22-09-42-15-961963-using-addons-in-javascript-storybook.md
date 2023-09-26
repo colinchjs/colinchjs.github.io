@@ -3,7 +3,7 @@ layout: post
 title: "Using addons in Javascript Storybook"
 description: " "
 date: 2023-09-22
-tags: [JavaScript, Storybook]
+tags: [Storybook]
 comments: true
 share: true
 ---

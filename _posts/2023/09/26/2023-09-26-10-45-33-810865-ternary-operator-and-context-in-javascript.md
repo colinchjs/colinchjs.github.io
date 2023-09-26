@@ -3,7 +3,7 @@ layout: post
 title: "Ternary operator and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, TernaryOperator]
+tags: [TernaryOperator]
 comments: true
 share: true
 ---

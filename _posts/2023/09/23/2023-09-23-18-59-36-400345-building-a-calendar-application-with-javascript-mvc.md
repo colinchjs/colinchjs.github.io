@@ -3,7 +3,7 @@ layout: post
 title: "Building a calendar application with JavaScript MVC"
 description: " "
 date: 2023-09-23
-tags: [javascript, calendar]
+tags: [calendar]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Removing a value from session storage in JavaScript"
 description: " "
 date: 2023-09-21
-tags: [JavaScript, WebDevelopment]
+tags: [WebDevelopment]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Debugging JavaScript modules"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, Debugging]
+tags: [Debugging]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Efficiently Sorting Arrays with ES6: A Comprehensive Guide"
 description: " "
 date: 2023-09-13
-tags: [techblog, javascript]
+tags: [techblog]
 comments: true
 share: true
 ---

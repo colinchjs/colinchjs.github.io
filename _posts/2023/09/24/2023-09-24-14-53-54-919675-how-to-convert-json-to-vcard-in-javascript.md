@@ -3,7 +3,7 @@ layout: post
 title: "How to convert JSON to VCard in JavaScript."
 description: " "
 date: 2023-09-24
-tags: [JSONtoVCard, JavaScript]
+tags: [JSONtoVCard]
 comments: true
 share: true
 ---

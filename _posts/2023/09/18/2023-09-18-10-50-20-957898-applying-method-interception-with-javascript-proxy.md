@@ -3,7 +3,7 @@ layout: post
 title: "Applying method interception with JavaScript Proxy"
 description: " "
 date: 2023-09-18
-tags: [JavaScript, Proxy]
+tags: [Proxy]
 comments: true
 share: true
 ---

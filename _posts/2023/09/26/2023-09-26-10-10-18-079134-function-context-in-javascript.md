@@ -3,7 +3,7 @@ layout: post
 title: "Function context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [javascript, programming]
+tags: [programming]
 comments: true
 share: true
 ---

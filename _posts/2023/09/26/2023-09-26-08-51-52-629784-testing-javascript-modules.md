@@ -3,7 +3,7 @@ layout: post
 title: "Testing JavaScript modules"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, Jest]
+tags: [Jest]
 comments: true
 share: true
 ---

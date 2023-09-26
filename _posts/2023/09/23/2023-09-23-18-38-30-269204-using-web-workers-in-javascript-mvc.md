@@ -3,7 +3,7 @@ layout: post
 title: "Using Web Workers in JavaScript MVC"
 description: " "
 date: 2023-09-23
-tags: [javascript, webworkers]
+tags: [webworkers]
 comments: true
 share: true
 ---

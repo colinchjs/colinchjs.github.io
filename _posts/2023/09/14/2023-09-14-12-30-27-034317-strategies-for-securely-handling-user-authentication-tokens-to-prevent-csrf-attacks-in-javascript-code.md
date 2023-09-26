@@ -3,7 +3,7 @@ layout: post
 title: "Strategies for securely handling user authentication tokens to prevent CSRF attacks in JavaScript code"
 description: " "
 date: 2023-09-14
-tags: [websecurity, javascript]
+tags: [websecurity]
 comments: true
 share: true
 ---

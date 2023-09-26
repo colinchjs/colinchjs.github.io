@@ -3,7 +3,7 @@ layout: post
 title: "Dockerizing popular Javascript frameworks (e.g., React, Angular, Vue.js)"
 description: " "
 date: 2023-09-21
-tags: [javascript, docker]
+tags: [docker]
 comments: true
 share: true
 ---

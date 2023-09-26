@@ -3,7 +3,7 @@ layout: post
 title: "Combining multiple exports in a JavaScript module"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, Modules]
+tags: [Modules]
 comments: true
 share: true
 ---

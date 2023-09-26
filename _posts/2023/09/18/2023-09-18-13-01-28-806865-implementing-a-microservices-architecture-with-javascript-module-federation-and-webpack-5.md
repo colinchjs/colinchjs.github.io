@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a microservices architecture with JavaScript Module Federation and Webpack 5"
 description: " "
 date: 2023-09-18
-tags: [javascript, microservices]
+tags: [microservices]
 comments: true
 share: true
 ---

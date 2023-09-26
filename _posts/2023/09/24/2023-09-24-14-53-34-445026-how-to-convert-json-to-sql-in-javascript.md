@@ -3,7 +3,7 @@ layout: post
 title: "How to convert JSON to SQL in JavaScript."
 description: " "
 date: 2023-09-24
-tags: [JSONtoSQL, JavaScript]
+tags: [JSONtoSQL]
 comments: true
 share: true
 ---

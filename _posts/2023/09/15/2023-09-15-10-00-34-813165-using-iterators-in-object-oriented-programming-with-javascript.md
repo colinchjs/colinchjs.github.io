@@ -3,7 +3,7 @@ layout: post
 title: "Using iterators in object-oriented programming with JavaScript"
 description: " "
 date: 2023-09-15
-tags: [techblog, javascript]
+tags: [techblog]
 comments: true
 share: true
 ---

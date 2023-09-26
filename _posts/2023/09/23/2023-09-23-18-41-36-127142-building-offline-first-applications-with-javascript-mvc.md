@@ -3,7 +3,7 @@ layout: post
 title: "Building offline-first applications with JavaScript MVC"
 description: " "
 date: 2023-09-23
-tags: [JavaScript, OfflineFirst]
+tags: [OfflineFirst]
 comments: true
 share: true
 ---

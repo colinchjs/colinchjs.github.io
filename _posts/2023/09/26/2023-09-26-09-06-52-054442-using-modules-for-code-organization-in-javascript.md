@@ -3,7 +3,7 @@ layout: post
 title: "Using modules for code organization in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [programming, javascript]
+tags: [programming]
 comments: true
 share: true
 ---

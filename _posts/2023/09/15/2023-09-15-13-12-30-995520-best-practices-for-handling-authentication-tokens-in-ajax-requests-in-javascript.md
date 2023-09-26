@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for handling authentication tokens in AJAX requests in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [authentication, javascript]
+tags: [authentication]
 comments: true
 share: true
 ---

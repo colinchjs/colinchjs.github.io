@@ -3,7 +3,7 @@ layout: post
 title: "Setting default values for keys in a Map object"
 description: " "
 date: 2023-09-23
-tags: [javascript, programming]
+tags: [programming]
 comments: true
 share: true
 ---

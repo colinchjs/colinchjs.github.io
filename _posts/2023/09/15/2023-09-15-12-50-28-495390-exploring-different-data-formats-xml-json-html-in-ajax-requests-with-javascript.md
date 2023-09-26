@@ -3,7 +3,7 @@ layout: post
 title: "Exploring different data formats (XML, JSON, HTML) in AJAX requests with JavaScript"
 description: " "
 date: 2023-09-15
-tags: [programming, javascript]
+tags: [programming]
 comments: true
 share: true
 ---

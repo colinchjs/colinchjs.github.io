@@ -3,7 +3,7 @@ layout: post
 title: "Higher Order Functions in JavaScript"
 description: " "
 date: 2023-09-20
-tags: [javascript, functionalprogramming]
+tags: [functionalprogramming]
 comments: true
 share: true
 ---

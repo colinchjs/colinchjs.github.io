@@ -3,7 +3,7 @@ layout: post
 title: "Using session storage for storing user-related API tokens in JavaScript"
 description: " "
 date: 2023-09-21
-tags: [development, javascript]
+tags: [development]
 comments: true
 share: true
 ---

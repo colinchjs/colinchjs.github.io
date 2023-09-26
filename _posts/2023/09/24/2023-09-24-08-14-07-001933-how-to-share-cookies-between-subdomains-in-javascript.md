@@ -3,7 +3,7 @@ layout: post
 title: "How to share cookies between subdomains in JavaScript"
 description: " "
 date: 2023-09-24
-tags: [JavaScript, Cookies]
+tags: [Cookies]
 comments: true
 share: true
 ---

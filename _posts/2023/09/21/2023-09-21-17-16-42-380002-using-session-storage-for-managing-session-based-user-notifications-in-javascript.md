@@ -3,7 +3,7 @@ layout: post
 title: "Using session storage for managing session-based user notifications in JavaScript"
 description: " "
 date: 2023-09-21
-tags: [javascript, sessionstorage, webdevelopment]
+tags: [sessionstorage, webdevelopment]
 comments: true
 share: true
 ---

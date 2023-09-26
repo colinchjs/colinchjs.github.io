@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing ES6 Proxy Objects to Intercept and Control Object Operations"
 description: " "
 date: 2023-09-13
-tags: [TechBlog, JavaScript]
+tags: [TechBlog]
 comments: true
 share: true
 ---

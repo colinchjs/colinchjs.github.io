@@ -3,7 +3,7 @@ layout: post
 title: "Building a proxy-based reactive form library in JavaScript"
 description: " "
 date: 2023-09-18
-tags: [javascript, reactiveform]
+tags: [reactiveform]
 comments: true
 share: true
 ---

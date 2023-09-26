@@ -3,7 +3,7 @@ layout: post
 title: "Using session storage for managing user-specific form validation rules in JavaScript"
 description: " "
 date: 2023-09-21
-tags: [JavaScript, FormValidation, SessionStorage]
+tags: [FormValidation, SessionStorage]
 comments: true
 share: true
 ---

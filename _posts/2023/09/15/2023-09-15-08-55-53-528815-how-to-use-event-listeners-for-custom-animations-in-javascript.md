@@ -3,7 +3,7 @@ layout: post
 title: "How to use event listeners for custom animations in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [myElement, myElement, webdevelopment, javascript]
+tags: [myElement, myElement, webdevelopment]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Ternary operators for conditional error handling in JavaScript promises"
 description: " "
 date: 2023-09-19
-tags: [JavaScript, Promises]
+tags: [Promises]
 comments: true
 share: true
 ---

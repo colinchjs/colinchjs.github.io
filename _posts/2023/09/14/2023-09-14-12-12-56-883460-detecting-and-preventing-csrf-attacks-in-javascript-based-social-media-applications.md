@@ -3,7 +3,7 @@ layout: post
 title: "Detecting and preventing CSRF attacks in JavaScript-based social media applications"
 description: " "
 date: 2023-09-14
-tags: [cybersecurity, javascript]
+tags: [cybersecurity]
 comments: true
 share: true
 ---

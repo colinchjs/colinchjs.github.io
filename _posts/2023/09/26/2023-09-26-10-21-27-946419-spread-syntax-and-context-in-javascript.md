@@ -3,7 +3,7 @@ layout: post
 title: "Spread syntax and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, SpreadSyntax]
+tags: [SpreadSyntax]
 comments: true
 share: true
 ---

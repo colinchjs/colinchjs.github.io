@@ -3,7 +3,7 @@ layout: post
 title: "Classes and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [javascript, classes]
+tags: [classes]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using Rollup for JavaScript module bundling"
 description: " "
 date: 2023-09-26
-tags: [babel), JavaScript]
+tags: [babel)]
 comments: true
 share: true
 ---

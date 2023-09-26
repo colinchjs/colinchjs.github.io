@@ -3,7 +3,7 @@ layout: post
 title: "Implementing quantum encryption algorithms with JavaScript iterators"
 description: " "
 date: 2023-09-15
-tags: [encryption, javascript]
+tags: [encryption]
 comments: true
 share: true
 ---

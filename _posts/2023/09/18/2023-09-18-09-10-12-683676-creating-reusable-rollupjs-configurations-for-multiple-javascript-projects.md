@@ -3,7 +3,7 @@ layout: post
 title: "Creating reusable Rollup.js configurations for multiple JavaScript projects"
 description: " "
 date: 2023-09-18
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Serializing and deserializing data in session storage in JavaScript"
 description: " "
 date: 2023-09-21
-tags: [javascript, webdevelopment]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

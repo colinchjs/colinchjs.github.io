@@ -3,7 +3,7 @@ layout: post
 title: "Simplify Your Redux Reducers with ES6 Object Literal Shorthand"
 description: " "
 date: 2023-09-13
-tags: [redux, javascript]
+tags: [redux]
 comments: true
 share: true
 ---

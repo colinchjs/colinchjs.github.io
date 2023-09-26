@@ -3,7 +3,7 @@ layout: post
 title: "Importing from a specific file path in a JavaScript module"
 description: " "
 date: 2023-09-26
-tags: [javascript, importing]
+tags: [importing]
 comments: true
 share: true
 ---

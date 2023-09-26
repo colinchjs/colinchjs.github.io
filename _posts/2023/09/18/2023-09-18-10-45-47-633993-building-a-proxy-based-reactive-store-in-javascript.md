@@ -3,7 +3,7 @@ layout: post
 title: "Building a proxy-based reactive store in JavaScript"
 description: " "
 date: 2023-09-18
-tags: [JavaScript, ReactiveStore]
+tags: [ReactiveStore]
 comments: true
 share: true
 ---

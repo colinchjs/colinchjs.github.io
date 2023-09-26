@@ -3,7 +3,7 @@ layout: post
 title: "Setting up a basic JavaScript MVC project"
 description: " "
 date: 2023-09-23
-tags: [Javascript]
+tags: []
 comments: true
 share: true
 ---

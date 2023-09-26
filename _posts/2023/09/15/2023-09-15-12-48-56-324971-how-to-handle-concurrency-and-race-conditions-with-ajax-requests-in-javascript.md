@@ -3,7 +3,7 @@ layout: post
 title: "How to handle concurrency and race conditions with AJAX requests in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

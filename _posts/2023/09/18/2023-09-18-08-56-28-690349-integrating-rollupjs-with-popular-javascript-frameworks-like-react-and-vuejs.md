@@ -3,7 +3,7 @@ layout: post
 title: "Integrating Rollup.js with popular JavaScript frameworks like React and Vue.js"
 description: " "
 date: 2023-09-18
-tags: [RollupJS, JavaScript]
+tags: [RollupJS]
 comments: true
 share: true
 ---

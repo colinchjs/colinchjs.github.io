@@ -3,7 +3,7 @@ layout: post
 title: "Using session storage for storing user-specific image manipulation history in JavaScript"
 description: " "
 date: 2023-09-21
-tags: [javascript, sessionstorage]
+tags: [sessionstorage]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Promise chaining and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [javascript, promisechaining]
+tags: [promisechaining]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using session storage for managing user preferences in JavaScript applications"
 description: " "
 date: 2023-09-21
-tags: [JavaScript, SessionStorage]
+tags: [SessionStorage]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "The module pattern in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [javascript, modularcode]
+tags: [modularcode]
 comments: true
 share: true
 ---

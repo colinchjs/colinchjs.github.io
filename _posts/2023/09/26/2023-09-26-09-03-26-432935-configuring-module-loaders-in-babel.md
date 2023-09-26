@@ -3,7 +3,7 @@ layout: post
 title: "Configuring module loaders in Babel"
 description: " "
 date: 2023-09-26
-tags: [Babel, JavaScript]
+tags: [Babel]
 comments: true
 share: true
 ---

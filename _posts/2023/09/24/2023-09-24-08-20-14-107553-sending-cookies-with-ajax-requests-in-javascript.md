@@ -3,7 +3,7 @@ layout: post
 title: "Sending cookies with AJAX requests in JavaScript"
 description: " "
 date: 2023-09-24
-tags: [JavaScript, AJAX]
+tags: [AJAX]
 comments: true
 share: true
 ---

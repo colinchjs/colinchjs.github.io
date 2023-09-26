@@ -3,7 +3,7 @@ layout: post
 title: "Using session storage for storing user-specific form autofill information in JavaScript"
 description: " "
 date: 2023-09-21
-tags: [JavaScript, SessionStorage, FormAutofill]
+tags: [SessionStorage, FormAutofill]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Progressive web app development with Javascript Storybook"
 description: " "
 date: 2023-09-22
-tags: [Javascript, ProgressiveWebApp]
+tags: [ProgressiveWebApp]
 comments: true
 share: true
 ---

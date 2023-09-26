@@ -3,7 +3,7 @@ layout: post
 title: "Clearing session storage in JavaScript"
 description: " "
 date: 2023-09-21
-tags: [JavaScript, WebStorage, SessionStorage]
+tags: [WebStorage, SessionStorage]
 comments: true
 share: true
 ---

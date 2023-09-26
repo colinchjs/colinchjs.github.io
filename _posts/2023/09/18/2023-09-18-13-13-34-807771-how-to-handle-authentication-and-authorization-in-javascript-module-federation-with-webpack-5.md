@@ -3,7 +3,7 @@ layout: post
 title: "How to handle authentication and authorization in JavaScript Module Federation with Webpack 5"
 description: " "
 date: 2023-09-18
-tags: [JavaScript, ModuleFederation]
+tags: [ModuleFederation]
 comments: true
 share: true
 ---

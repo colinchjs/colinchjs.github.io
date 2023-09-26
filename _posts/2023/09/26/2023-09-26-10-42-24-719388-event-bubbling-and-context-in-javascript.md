@@ -3,7 +3,7 @@ layout: post
 title: "Event bubbling and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, EventBubbling]
+tags: [EventBubbling]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a proxy-based request deduplication in JavaScript"
 description: " "
 date: 2023-09-18
-tags: [javascript, webdevelopment]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using JavaScript Proxy for automatic event aggregation"
 description: " "
 date: 2023-09-18
-tags: [javascript, eventaggregation]
+tags: [eventaggregation]
 comments: true
 share: true
 ---

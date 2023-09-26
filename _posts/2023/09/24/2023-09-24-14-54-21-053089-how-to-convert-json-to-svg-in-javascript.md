@@ -3,7 +3,7 @@ layout: post
 title: "How to convert JSON to SVG in JavaScript."
 description: " "
 date: 2023-09-24
-tags: [json, javascript]
+tags: [json]
 comments: true
 share: true
 ---

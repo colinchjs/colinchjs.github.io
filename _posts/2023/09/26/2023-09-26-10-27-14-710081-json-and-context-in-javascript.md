@@ -3,7 +3,7 @@ layout: post
 title: "JSON and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JSON, JavaScript]
+tags: [JSON]
 comments: true
 share: true
 ---

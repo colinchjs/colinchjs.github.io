@@ -3,7 +3,7 @@ layout: post
 title: "Styling components with CSS frameworks in Javascript Storybook"
 description: " "
 date: 2023-09-22
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

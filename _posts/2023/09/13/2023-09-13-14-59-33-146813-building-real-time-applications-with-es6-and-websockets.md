@@ -3,7 +3,7 @@ layout: post
 title: "Building Real-time Applications with ES6 and WebSockets"
 description: " "
 date: 2023-09-13
-tags: [RealTimeApps, WebSockets, JavaScript]
+tags: [RealTimeApps, WebSockets]
 comments: true
 share: true
 ---

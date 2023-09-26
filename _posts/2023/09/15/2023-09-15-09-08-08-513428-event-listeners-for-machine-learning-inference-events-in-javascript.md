@@ -3,7 +3,7 @@ layout: post
 title: "Event listeners for machine learning inference events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [machinelearning, javascript]
+tags: [machinelearning]
 comments: true
 share: true
 ---

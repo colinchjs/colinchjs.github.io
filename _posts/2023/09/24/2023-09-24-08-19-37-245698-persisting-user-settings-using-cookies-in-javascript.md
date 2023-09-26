@@ -3,7 +3,7 @@ layout: post
 title: "Persisting user settings using cookies in JavaScript"
 description: " "
 date: 2023-09-24
-tags: [4285f4, JavaScript]
+tags: [4285f4]
 comments: true
 share: true
 ---

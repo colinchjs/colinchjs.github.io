@@ -3,7 +3,7 @@ layout: post
 title: "Building a location-based app with AJAX and JavaScript"
 description: " "
 date: 2023-09-15
-tags: [programming, javascript]
+tags: [programming]
 comments: true
 share: true
 ---

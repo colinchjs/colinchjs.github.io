@@ -3,7 +3,7 @@ layout: post
 title: "Function Scope vs Block Scope in JavaScript"
 description: " "
 date: 2023-09-20
-tags: [javascript, scope]
+tags: [scope]
 comments: true
 share: true
 ---

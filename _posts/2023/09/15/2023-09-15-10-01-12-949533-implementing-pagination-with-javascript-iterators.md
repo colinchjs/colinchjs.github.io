@@ -3,7 +3,7 @@ layout: post
 title: "Implementing pagination with JavaScript iterators"
 description: " "
 date: 2023-09-15
-tags: [pagination, javascript]
+tags: [pagination]
 comments: true
 share: true
 ---

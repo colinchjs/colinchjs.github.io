@@ -3,7 +3,7 @@ layout: post
 title: "Building a scalable and modular architecture with JavaScript Module Federation and Webpack 5"
 description: " "
 date: 2023-09-18
-tags: [techblog, javascript]
+tags: [techblog]
 comments: true
 share: true
 ---

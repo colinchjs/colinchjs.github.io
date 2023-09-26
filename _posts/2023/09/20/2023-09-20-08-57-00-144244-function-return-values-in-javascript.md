@@ -3,7 +3,7 @@ layout: post
 title: "Function Return Values in JavaScript"
 description: " "
 date: 2023-09-20
-tags: [programming, javascript]
+tags: [programming]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Global context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, WebDevelopment]
+tags: [WebDevelopment]
 comments: true
 share: true
 ---

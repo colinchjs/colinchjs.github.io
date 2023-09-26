@@ -3,7 +3,7 @@ layout: post
 title: "Understanding operator precedence with nested ternary operations in JavaScript"
 description: " "
 date: 2023-09-19
-tags: [JavaScript, OperatorPrecedence]
+tags: [OperatorPrecedence]
 comments: true
 share: true
 ---

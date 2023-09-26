@@ -3,7 +3,7 @@ layout: post
 title: "Throttling and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [javascript, webdevelopment]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using session storage for maintaining user states in a JavaScript SPA"
 description: " "
 date: 2023-09-21
-tags: [Tech, JavaScript]
+tags: [Tech]
 comments: true
 share: true
 ---

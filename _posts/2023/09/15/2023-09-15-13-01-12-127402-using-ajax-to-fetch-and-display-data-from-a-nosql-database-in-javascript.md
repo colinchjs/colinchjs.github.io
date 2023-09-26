@@ -3,7 +3,7 @@ layout: post
 title: "Using AJAX to fetch and display data from a NoSQL database in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

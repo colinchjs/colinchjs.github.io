@@ -3,7 +3,7 @@ layout: post
 title: "Context loss in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [javascript, contextloss]
+tags: [contextloss]
 comments: true
 share: true
 ---

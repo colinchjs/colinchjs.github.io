@@ -3,7 +3,7 @@ layout: post
 title: "Ternary operations for handling multiple data types in JavaScript"
 description: " "
 date: 2023-09-19
-tags: [JavaScript, TernaryOperations]
+tags: [TernaryOperations]
 comments: true
 share: true
 ---

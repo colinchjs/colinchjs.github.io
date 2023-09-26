@@ -3,7 +3,7 @@ layout: post
 title: "Exploring different output formats supported by Rollup.js – CJS, ESM, UMD, and more"
 description: " "
 date: 2023-09-18
-tags: [rollup, javascript]
+tags: [rollup]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Exploring different communication patterns in JavaScript Module Federation with Webpack 5"
 description: " "
 date: 2023-09-18
-tags: [webpack, javascript]
+tags: [webpack]
 comments: true
 share: true
 ---

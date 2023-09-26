@@ -3,7 +3,7 @@ layout: post
 title: "Deploying JavaScript MVC applications"
 description: " "
 date: 2023-09-23
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

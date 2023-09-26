@@ -3,7 +3,7 @@ layout: post
 title: "Prototypal inheritance vs classical inheritance and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, Inheritance]
+tags: [Inheritance]
 comments: true
 share: true
 ---

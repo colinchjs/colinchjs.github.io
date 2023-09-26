@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for component naming conventions in Javascript Storybook"
 description: " "
 date: 2023-09-22
-tags: [Javascript, Storybook]
+tags: [Storybook]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Dockerizing emotion detection applications with Docker and Javascript"
 description: " "
 date: 2023-09-21
-tags: [docker, javascript]
+tags: [docker]
 comments: true
 share: true
 ---

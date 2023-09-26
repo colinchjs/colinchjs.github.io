@@ -3,7 +3,7 @@ layout: post
 title: "Using session storage for implementing a remember me functionality in JavaScript"
 description: " "
 date: 2023-09-21
-tags: [Tech, JavaScript]
+tags: [Tech]
 comments: true
 share: true
 ---

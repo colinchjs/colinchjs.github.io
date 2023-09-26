@@ -3,7 +3,7 @@ layout: post
 title: "Named Function Expressions in JavaScript"
 description: " "
 date: 2023-09-20
-tags: [JavaScript, FunctionExpressions]
+tags: [FunctionExpressions]
 comments: true
 share: true
 ---

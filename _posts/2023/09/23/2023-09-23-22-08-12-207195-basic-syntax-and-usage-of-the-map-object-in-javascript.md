@@ -3,7 +3,7 @@ layout: post
 title: "Basic syntax and usage of the Map object in JavaScript"
 description: " "
 date: 2023-09-23
-tags: [JavaScript, MapObject]
+tags: [MapObject]
 comments: true
 share: true
 ---

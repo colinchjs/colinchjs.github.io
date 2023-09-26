@@ -3,7 +3,7 @@ layout: post
 title: "Practical examples of using JavaScript iterators in smart city development"
 description: " "
 date: 2023-09-15
-tags: [smartcity, javascript]
+tags: [smartcity]
 comments: true
 share: true
 ---

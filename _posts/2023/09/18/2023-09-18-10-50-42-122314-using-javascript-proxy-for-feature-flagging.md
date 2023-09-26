@@ -3,7 +3,7 @@ layout: post
 title: "Using JavaScript Proxy for feature flagging"
 description: " "
 date: 2023-09-18
-tags: [javascript, featureflags]
+tags: [featureflags]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing session-based rate limiting with session storage in JavaScript"
 description: " "
 date: 2023-09-21
-tags: [rateLimiting, JavaScript]
+tags: [rateLimiting]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Ternary operators for conditional data fetching in JavaScript applications"
 description: " "
 date: 2023-09-19
-tags: [javascript, webdevelopment]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

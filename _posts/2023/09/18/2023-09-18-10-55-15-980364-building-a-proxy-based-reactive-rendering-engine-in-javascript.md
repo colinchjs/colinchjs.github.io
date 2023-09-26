@@ -3,7 +3,7 @@ layout: post
 title: "Building a proxy-based reactive rendering engine in JavaScript"
 description: " "
 date: 2023-09-18
-tags: [techblog, javascript]
+tags: [techblog]
 comments: true
 share: true
 ---

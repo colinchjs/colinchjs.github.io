@@ -3,7 +3,7 @@ layout: post
 title: "Using Firebase Admin SDK with JavaScript"
 description: " "
 date: 2023-09-22
-tags: [firebase, javascript]
+tags: [firebase]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing file uploads in JavaScript MVC apps"
 description: " "
 date: 2023-09-23
-tags: [javascript, fileuploads]
+tags: [fileuploads]
 comments: true
 share: true
 ---

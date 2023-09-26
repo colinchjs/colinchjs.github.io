@@ -3,7 +3,7 @@ layout: post
 title: "Event listeners for web assembly events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [webassembly, javascript]
+tags: [webassembly]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "How to retrieve a value from session storage using JavaScript"
 description: " "
 date: 2023-09-21
-tags: [JavaScript, SessionStorage]
+tags: [SessionStorage]
 comments: true
 share: true
 ---

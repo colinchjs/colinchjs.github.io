@@ -3,7 +3,7 @@ layout: post
 title: "Dockerizing fraud detection applications with Docker and Javascript"
 description: " "
 date: 2023-09-21
-tags: [Docker, JavaScript]
+tags: [Docker]
 comments: true
 share: true
 ---

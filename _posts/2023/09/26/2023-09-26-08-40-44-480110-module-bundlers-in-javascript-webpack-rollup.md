@@ -3,7 +3,7 @@ layout: post
 title: "Module bundlers in JavaScript (Webpack, Rollup)"
 description: " "
 date: 2023-09-26
-tags: [javascript, modulebundlers]
+tags: [modulebundlers]
 comments: true
 share: true
 ---

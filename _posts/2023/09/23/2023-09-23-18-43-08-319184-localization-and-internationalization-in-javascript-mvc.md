@@ -3,7 +3,7 @@ layout: post
 title: "Localization and internationalization in JavaScript MVC"
 description: " "
 date: 2023-09-23
-tags: [javascript, localization]
+tags: [localization]
 comments: true
 share: true
 ---

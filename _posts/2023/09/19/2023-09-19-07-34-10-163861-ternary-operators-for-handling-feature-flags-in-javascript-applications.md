@@ -3,7 +3,7 @@ layout: post
 title: "Ternary operators for handling feature flags in JavaScript applications"
 description: " "
 date: 2023-09-19
-tags: [javascript, featureflags]
+tags: [featureflags]
 comments: true
 share: true
 ---

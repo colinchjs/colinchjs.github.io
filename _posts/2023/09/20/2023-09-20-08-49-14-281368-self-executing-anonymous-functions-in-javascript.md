@@ -3,7 +3,7 @@ layout: post
 title: "Self-Executing Anonymous Functions in JavaScript"
 description: " "
 date: 2023-09-20
-tags: [javascript, IIFE]
+tags: [IIFE]
 comments: true
 share: true
 ---

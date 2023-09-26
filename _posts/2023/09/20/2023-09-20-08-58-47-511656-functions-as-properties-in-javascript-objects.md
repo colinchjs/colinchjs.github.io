@@ -3,7 +3,7 @@ layout: post
 title: "Functions as Properties in JavaScript Objects"
 description: " "
 date: 2023-09-20
-tags: [javascript, objects]
+tags: [objects]
 comments: true
 share: true
 ---

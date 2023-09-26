@@ -3,7 +3,7 @@ layout: post
 title: "Promisification and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [javascript, promisification]
+tags: [promisification]
 comments: true
 share: true
 ---

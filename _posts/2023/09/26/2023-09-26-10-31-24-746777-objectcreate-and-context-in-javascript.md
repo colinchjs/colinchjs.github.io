@@ -3,7 +3,7 @@ layout: post
 title: "Object.create and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [javascript, objectcreate]
+tags: [objectcreate]
 comments: true
 share: true
 ---

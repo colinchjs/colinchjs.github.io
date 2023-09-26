@@ -3,7 +3,7 @@ layout: post
 title: "Call method in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, MethodCall]
+tags: [MethodCall]
 comments: true
 share: true
 ---

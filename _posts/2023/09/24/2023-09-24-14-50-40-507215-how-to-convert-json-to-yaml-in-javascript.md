@@ -3,7 +3,7 @@ layout: post
 title: "How to convert JSON to YAML in JavaScript."
 description: " "
 date: 2023-09-24
-tags: [JavaScript, JSONtoYAML]
+tags: [JSONtoYAML]
 comments: true
 share: true
 ---

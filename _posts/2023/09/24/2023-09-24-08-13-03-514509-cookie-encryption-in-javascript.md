@@ -3,7 +3,7 @@ layout: post
 title: "Cookie encryption in JavaScript"
 description: " "
 date: 2023-09-24
-tags: [CookieEncryption, JavaScript]
+tags: [CookieEncryption]
 comments: true
 share: true
 ---

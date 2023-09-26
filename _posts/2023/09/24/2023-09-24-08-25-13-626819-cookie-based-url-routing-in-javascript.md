@@ -3,7 +3,7 @@ layout: post
 title: "Cookie-based URL routing in JavaScript"
 description: " "
 date: 2023-09-24
-tags: [javascript, urlrouting]
+tags: [urlrouting]
 comments: true
 share: true
 ---

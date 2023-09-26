@@ -3,7 +3,7 @@ layout: post
 title: "How to Use ES6 Map Objects for Efficient Key-Value Pair Manipulation"
 description: " "
 date: 2023-09-13
-tags: [programming, javascript]
+tags: [programming]
 comments: true
 share: true
 ---

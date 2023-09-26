@@ -3,7 +3,7 @@ layout: post
 title: "Using session storage for managing user-specific password complexity requirements in JavaScript"
 description: " "
 date: 2023-09-21
-tags: [JavaScript, SessionStorage]
+tags: [SessionStorage]
 comments: true
 share: true
 ---

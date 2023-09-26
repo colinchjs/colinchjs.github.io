@@ -3,7 +3,7 @@ layout: post
 title: "Sharing variables between modules in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, ModuleSharing]
+tags: [ModuleSharing]
 comments: true
 share: true
 ---

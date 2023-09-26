@@ -3,7 +3,7 @@ layout: post
 title: "Converting the keys of a Map object to an array"
 description: " "
 date: 2023-09-23
-tags: [JavaScript, Array]
+tags: [Array]
 comments: true
 share: true
 ---

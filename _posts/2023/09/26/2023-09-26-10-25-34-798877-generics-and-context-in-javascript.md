@@ -3,7 +3,7 @@ layout: post
 title: "Generics and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [javascript, generics]
+tags: [generics]
 comments: true
 share: true
 ---

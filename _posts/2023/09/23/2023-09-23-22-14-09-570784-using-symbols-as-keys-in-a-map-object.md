@@ -3,7 +3,7 @@ layout: post
 title: "Using symbols as keys in a Map object"
 description: " "
 date: 2023-09-23
-tags: [javascript, symbols]
+tags: [symbols]
 comments: true
 share: true
 ---

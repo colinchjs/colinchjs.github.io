@@ -3,7 +3,7 @@ layout: post
 title: "Using modules with Web Workers"
 description: " "
 date: 2023-09-26
-tags: [WebWorkers, JavaScript]
+tags: [WebWorkers]
 comments: true
 share: true
 ---

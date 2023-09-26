@@ -3,7 +3,7 @@ layout: post
 title: "Writing modular JavaScript code"
 description: " "
 date: 2023-09-26
-tags: [javascript, modularity]
+tags: [modularity]
 comments: true
 share: true
 ---

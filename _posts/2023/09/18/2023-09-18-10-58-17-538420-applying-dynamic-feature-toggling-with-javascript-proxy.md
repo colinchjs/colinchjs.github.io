@@ -3,7 +3,7 @@ layout: post
 title: "Applying dynamic feature toggling with JavaScript Proxy"
 description: " "
 date: 2023-09-18
-tags: [techblog, javascript]
+tags: [techblog]
 comments: true
 share: true
 ---

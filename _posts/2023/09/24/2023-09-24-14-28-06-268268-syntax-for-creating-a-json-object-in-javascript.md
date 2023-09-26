@@ -3,7 +3,7 @@ layout: post
 title: "Syntax for creating a JSON object in JavaScript."
 description: " "
 date: 2023-09-24
-tags: [javascript, JSON]
+tags: [JSON]
 comments: true
 share: true
 ---

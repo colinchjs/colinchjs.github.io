@@ -3,7 +3,7 @@ layout: post
 title: "Polyfills and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [javascript, polyfills]
+tags: [polyfills]
 comments: true
 share: true
 ---

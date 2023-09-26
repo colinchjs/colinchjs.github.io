@@ -3,7 +3,7 @@ layout: post
 title: "Understanding ES6 Symbols: A Powerful but Lesser-Known Feature"
 description: " "
 date: 2023-09-13
-tags: [techblog, javascript, symbols]
+tags: [techblog, symbols]
 comments: true
 share: true
 ---

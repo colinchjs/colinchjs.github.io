@@ -3,7 +3,7 @@ layout: post
 title: "Securing JavaScript modules"
 description: " "
 date: 2023-09-26
-tags: [javascript, security]
+tags: [security]
 comments: true
 share: true
 ---

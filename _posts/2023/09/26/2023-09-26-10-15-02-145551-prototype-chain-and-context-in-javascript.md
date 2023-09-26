@@ -3,7 +3,7 @@ layout: post
 title: "Prototype chain and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [javascript, prototypes]
+tags: [prototypes]
 comments: true
 share: true
 ---

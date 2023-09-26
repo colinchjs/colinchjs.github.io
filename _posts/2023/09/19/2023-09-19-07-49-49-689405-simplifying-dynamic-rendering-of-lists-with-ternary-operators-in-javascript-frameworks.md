@@ -3,7 +3,7 @@ layout: post
 title: "Simplifying dynamic rendering of lists with ternary operators in JavaScript frameworks"
 description: " "
 date: 2023-09-19
-tags: [JavaScript, WebDevelopment]
+tags: [WebDevelopment]
 comments: true
 share: true
 ---

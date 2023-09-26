@@ -3,7 +3,7 @@ layout: post
 title: "How to handle cross-origin requests with JSON data in JavaScript."
 description: " "
 date: 2023-09-24
-tags: [Tech, JavaScript]
+tags: [Tech]
 comments: true
 share: true
 ---

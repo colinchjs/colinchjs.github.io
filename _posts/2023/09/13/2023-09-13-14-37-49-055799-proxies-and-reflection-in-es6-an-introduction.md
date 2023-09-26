@@ -3,7 +3,7 @@ layout: post
 title: "Proxies and Reflection in ES6: An Introduction"
 description: " "
 date: 2023-09-13
-tags: [programming, javascript, proxies, reflection]
+tags: [programming, proxies, reflection]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Currying in JavaScript Functions"
 description: " "
 date: 2023-09-20
-tags: [JavaScript, Currying]
+tags: [Currying]
 comments: true
 share: true
 ---

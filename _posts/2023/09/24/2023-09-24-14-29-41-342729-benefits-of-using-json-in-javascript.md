@@ -3,7 +3,7 @@ layout: post
 title: "Benefits of using JSON in JavaScript."
 description: " "
 date: 2023-09-24
-tags: [JSON, JavaScript]
+tags: [JSON]
 comments: true
 share: true
 ---

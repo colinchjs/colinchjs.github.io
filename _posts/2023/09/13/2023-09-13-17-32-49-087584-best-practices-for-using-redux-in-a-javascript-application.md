@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for using Redux in a JavaScript application"
 description: " "
 date: 2023-09-13
-tags: [ReduxBestPractices, JavaScript]
+tags: [ReduxBestPractices]
 comments: true
 share: true
 ---

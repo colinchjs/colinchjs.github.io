@@ -3,7 +3,7 @@ layout: post
 title: "Implementing distributed processing with JavaScript iterators"
 description: " "
 date: 2023-09-15
-tags: [distributedprocessing, javascript]
+tags: [distributedprocessing]
 comments: true
 share: true
 ---

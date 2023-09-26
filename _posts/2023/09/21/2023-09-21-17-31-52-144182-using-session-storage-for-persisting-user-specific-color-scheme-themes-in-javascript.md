@@ -3,7 +3,7 @@ layout: post
 title: "Using session storage for persisting user-specific color scheme themes in JavaScript"
 description: " "
 date: 2023-09-21
-tags: [ffffff, f1f1f1, 3366ff, 222222, 333333, ff6600, webdevelopment, javascript]
+tags: [ffffff, f1f1f1, 3366ff, 222222, 333333, ff6600, webdevelopment]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Applying object interception with JavaScript Proxy"
 description: " "
 date: 2023-09-18
-tags: [handler_functions), JavaScript]
+tags: [handler_functions)]
 comments: true
 share: true
 ---

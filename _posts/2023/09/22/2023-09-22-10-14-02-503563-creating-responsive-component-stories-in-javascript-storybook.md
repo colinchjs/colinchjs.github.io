@@ -3,7 +3,7 @@ layout: post
 title: "Creating responsive component stories in Javascript Storybook"
 description: " "
 date: 2023-09-22
-tags: [storybook, javascript]
+tags: [storybook]
 comments: true
 share: true
 ---

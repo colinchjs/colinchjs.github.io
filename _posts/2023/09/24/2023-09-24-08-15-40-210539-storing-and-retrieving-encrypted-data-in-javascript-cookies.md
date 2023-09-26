@@ -3,7 +3,7 @@ layout: post
 title: "Storing and retrieving encrypted data in JavaScript cookies"
 description: " "
 date: 2023-09-24
-tags: [encryption, JavaScript]
+tags: [encryption]
 comments: true
 share: true
 ---

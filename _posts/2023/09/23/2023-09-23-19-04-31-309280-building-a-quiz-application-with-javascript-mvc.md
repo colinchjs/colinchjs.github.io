@@ -3,7 +3,7 @@ layout: post
 title: "Building a quiz application with JavaScript MVC"
 description: " "
 date: 2023-09-23
-tags: [javascript, quiz]
+tags: [quiz]
 comments: true
 share: true
 ---

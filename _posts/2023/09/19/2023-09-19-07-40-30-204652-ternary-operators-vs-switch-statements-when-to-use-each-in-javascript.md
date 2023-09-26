@@ -3,7 +3,7 @@ layout: post
 title: "Ternary operators vs switch statements: when to use each in JavaScript"
 description: " "
 date: 2023-09-19
-tags: [JavaScript, CodingTips]
+tags: [CodingTips]
 comments: true
 share: true
 ---

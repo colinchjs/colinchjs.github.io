@@ -3,7 +3,7 @@ layout: post
 title: "Advanced Redux concepts and techniques in JavaScript"
 description: " "
 date: 2023-09-13
-tags: [redux, javascript]
+tags: [redux]
 comments: true
 share: true
 ---

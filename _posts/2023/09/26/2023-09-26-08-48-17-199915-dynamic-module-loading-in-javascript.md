@@ -3,7 +3,7 @@ layout: post
 title: "Dynamic module loading in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, DynamicModuleLoading]
+tags: [DynamicModuleLoading]
 comments: true
 share: true
 ---

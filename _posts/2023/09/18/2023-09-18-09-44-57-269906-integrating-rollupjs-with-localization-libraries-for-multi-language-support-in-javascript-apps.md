@@ -3,7 +3,7 @@ layout: post
 title: "Integrating Rollup.js with localization libraries for multi-language support in JavaScript apps"
 description: " "
 date: 2023-09-18
-tags: [Localization, JavaScript]
+tags: [Localization]
 comments: true
 share: true
 ---

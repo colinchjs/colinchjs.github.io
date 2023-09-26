@@ -3,7 +3,7 @@ layout: post
 title: "Implementing data caching for offline usage in JavaScript MVC"
 description: " "
 date: 2023-09-23
-tags: [JavaScript]
+tags: []
 comments: true
 share: true
 ---

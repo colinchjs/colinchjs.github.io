@@ -3,7 +3,7 @@ layout: post
 title: "How to handle timeouts and retries with AJAX requests in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

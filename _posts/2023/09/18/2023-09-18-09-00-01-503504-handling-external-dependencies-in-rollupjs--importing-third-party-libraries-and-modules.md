@@ -3,7 +3,7 @@ layout: post
 title: "Handling external dependencies in Rollup.js – importing third-party libraries and modules"
 description: " "
 date: 2023-09-18
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

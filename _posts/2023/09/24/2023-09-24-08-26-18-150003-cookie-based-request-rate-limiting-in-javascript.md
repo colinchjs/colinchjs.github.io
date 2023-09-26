@@ -3,7 +3,7 @@ layout: post
 title: "Cookie-based request rate limiting in JavaScript"
 description: " "
 date: 2023-09-24
-tags: [javascript, ratelimiting]
+tags: [ratelimiting]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a cookie-based user rating system in JavaScript"
 description: " "
 date: 2023-09-24
-tags: [javascript, cookies]
+tags: [cookies]
 comments: true
 share: true
 ---

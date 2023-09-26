@@ -3,7 +3,7 @@ layout: post
 title: "Building a multiplayer game with JavaScript MVC"
 description: " "
 date: 2023-09-23
-tags: [Programming, JavaScript]
+tags: [Programming]
 comments: true
 share: true
 ---

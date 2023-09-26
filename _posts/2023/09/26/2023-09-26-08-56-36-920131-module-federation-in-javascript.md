@@ -3,7 +3,7 @@ layout: post
 title: "Module federation in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

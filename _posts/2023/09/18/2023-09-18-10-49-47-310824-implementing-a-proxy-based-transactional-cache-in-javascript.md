@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a proxy-based transactional cache in JavaScript"
 description: " "
 date: 2023-09-18
-tags: [javascript, caching]
+tags: [caching]
 comments: true
 share: true
 ---

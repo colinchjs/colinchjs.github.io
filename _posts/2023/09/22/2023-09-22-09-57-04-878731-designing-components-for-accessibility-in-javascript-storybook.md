@@ -3,7 +3,7 @@ layout: post
 title: "Designing components for accessibility in Javascript Storybook"
 description: " "
 date: 2023-09-22
-tags: [accessibility, javascript]
+tags: [accessibility]
 comments: true
 share: true
 ---

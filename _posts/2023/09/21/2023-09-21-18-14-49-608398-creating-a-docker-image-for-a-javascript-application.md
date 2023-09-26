@@ -3,7 +3,7 @@ layout: post
 title: "Creating a Docker image for a Javascript application"
 description: " "
 date: 2023-09-21
-tags: [docker, javascript]
+tags: [docker]
 comments: true
 share: true
 ---

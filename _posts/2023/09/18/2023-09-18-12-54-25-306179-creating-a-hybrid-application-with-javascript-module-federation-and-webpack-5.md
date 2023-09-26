@@ -3,7 +3,7 @@ layout: post
 title: "Creating a hybrid application with JavaScript Module Federation and Webpack 5"
 description: " "
 date: 2023-09-18
-tags: [javascript, hybridapp]
+tags: [hybridapp]
 comments: true
 share: true
 ---

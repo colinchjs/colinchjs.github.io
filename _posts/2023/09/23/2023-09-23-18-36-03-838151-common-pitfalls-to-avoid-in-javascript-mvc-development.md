@@ -3,7 +3,7 @@ layout: post
 title: "Common pitfalls to avoid in JavaScript MVC development"
 description: " "
 date: 2023-09-23
-tags: [MVCDevelopment, JavaScript]
+tags: [MVCDevelopment]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Creating a JavaScript module"
 description: " "
 date: 2023-09-26
-tags: [javascript, modules]
+tags: [modules]
 comments: true
 share: true
 ---

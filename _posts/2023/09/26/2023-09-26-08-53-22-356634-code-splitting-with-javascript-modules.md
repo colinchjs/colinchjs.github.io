@@ -3,7 +3,7 @@ layout: post
 title: "Code splitting with JavaScript modules"
 description: " "
 date: 2023-09-26
-tags: [javascript, codesplitting]
+tags: [codesplitting]
 comments: true
 share: true
 ---

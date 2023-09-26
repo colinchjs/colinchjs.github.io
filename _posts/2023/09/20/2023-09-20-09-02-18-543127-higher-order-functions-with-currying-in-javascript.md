@@ -3,7 +3,7 @@ layout: post
 title: "Higher-Order Functions with Currying in JavaScript"
 description: " "
 date: 2023-09-20
-tags: [javascript, currying]
+tags: [currying]
 comments: true
 share: true
 ---

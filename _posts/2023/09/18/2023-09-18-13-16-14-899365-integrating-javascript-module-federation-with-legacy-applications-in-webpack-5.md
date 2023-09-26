@@ -3,7 +3,7 @@ layout: post
 title: "Integrating JavaScript Module Federation with legacy applications in Webpack 5"
 description: " "
 date: 2023-09-18
-tags: [TechBlog, JavaScript]
+tags: [TechBlog]
 comments: true
 share: true
 ---

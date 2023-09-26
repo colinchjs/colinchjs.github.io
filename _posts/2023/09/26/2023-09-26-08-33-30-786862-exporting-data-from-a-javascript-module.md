@@ -3,7 +3,7 @@ layout: post
 title: "Exporting data from a JavaScript module"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, ModuleExports]
+tags: [ModuleExports]
 comments: true
 share: true
 ---

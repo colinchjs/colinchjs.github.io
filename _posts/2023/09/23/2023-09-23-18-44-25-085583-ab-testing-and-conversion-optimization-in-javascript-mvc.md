@@ -3,7 +3,7 @@ layout: post
 title: "A/B testing and conversion optimization in JavaScript MVC"
 description: " "
 date: 2023-09-23
-tags: [javascript, ABtesting]
+tags: [ABtesting]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Async/await and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [javascript, asyncawait]
+tags: [asyncawait]
 comments: true
 share: true
 ---

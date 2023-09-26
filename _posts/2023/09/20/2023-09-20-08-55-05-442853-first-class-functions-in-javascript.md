@@ -3,7 +3,7 @@ layout: post
 title: "First-Class Functions in JavaScript"
 description: " "
 date: 2023-09-20
-tags: [JavaScript, FirstClassFunctions]
+tags: [FirstClassFunctions]
 comments: true
 share: true
 ---

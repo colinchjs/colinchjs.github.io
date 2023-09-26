@@ -3,7 +3,7 @@ layout: post
 title: "Callback hell and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [javascript, asynchronousprogramming]
+tags: [asynchronousprogramming]
 comments: true
 share: true
 ---

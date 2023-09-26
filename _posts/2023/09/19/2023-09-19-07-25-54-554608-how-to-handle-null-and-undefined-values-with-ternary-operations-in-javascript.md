@@ -3,7 +3,7 @@ layout: post
 title: "How to handle null and undefined values with ternary operations in JavaScript"
 description: " "
 date: 2023-09-19
-tags: [javascript, null, undefined]
+tags: [null, undefined]
 comments: true
 share: true
 ---

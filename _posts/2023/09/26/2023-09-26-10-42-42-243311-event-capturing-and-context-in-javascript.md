@@ -3,7 +3,7 @@ layout: post
 title: "Event capturing and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [webdevelopment, Javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Vue.js and its support for JavaScript MVC development"
 description: " "
 date: 2023-09-23
-tags: [javascript, vuejs]
+tags: [vuejs]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Integrating third-party libraries with Javascript Storybook"
 description: " "
 date: 2023-09-22
-tags: [javascript, storybook]
+tags: [storybook]
 comments: true
 share: true
 ---

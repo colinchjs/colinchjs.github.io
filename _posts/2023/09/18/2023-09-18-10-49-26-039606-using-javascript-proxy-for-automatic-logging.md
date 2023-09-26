@@ -3,7 +3,7 @@ layout: post
 title: "Using JavaScript Proxy for automatic logging"
 description: " "
 date: 2023-09-18
-tags: [JavaScript, Proxy]
+tags: [Proxy]
 comments: true
 share: true
 ---

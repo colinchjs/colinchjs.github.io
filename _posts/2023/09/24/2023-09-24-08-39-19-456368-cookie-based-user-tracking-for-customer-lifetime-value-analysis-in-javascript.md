@@ -3,7 +3,7 @@ layout: post
 title: "Cookie-based user tracking for customer lifetime value analysis in JavaScript"
 description: " "
 date: 2023-09-24
-tags: [Tech, JavaScript]
+tags: [Tech]
 comments: true
 share: true
 ---

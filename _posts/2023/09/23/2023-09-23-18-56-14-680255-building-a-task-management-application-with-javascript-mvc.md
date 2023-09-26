@@ -3,7 +3,7 @@ layout: post
 title: "Building a task management application with JavaScript MVC"
 description: " "
 date: 2023-09-23
-tags: [javascript, taskmanagement]
+tags: [taskmanagement]
 comments: true
 share: true
 ---

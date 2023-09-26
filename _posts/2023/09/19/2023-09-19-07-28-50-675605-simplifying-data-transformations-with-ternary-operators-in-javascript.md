@@ -3,7 +3,7 @@ layout: post
 title: "Simplifying data transformations with ternary operators in JavaScript"
 description: " "
 date: 2023-09-19
-tags: [javascript, dataTransformations]
+tags: [dataTransformations]
 comments: true
 share: true
 ---

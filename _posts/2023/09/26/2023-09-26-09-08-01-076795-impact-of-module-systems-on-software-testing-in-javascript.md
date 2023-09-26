@@ -3,7 +3,7 @@ layout: post
 title: "Impact of module systems on software testing in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, SoftwareTesting]
+tags: [SoftwareTesting]
 comments: true
 share: true
 ---

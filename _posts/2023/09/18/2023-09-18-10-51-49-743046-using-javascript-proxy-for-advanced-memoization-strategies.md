@@ -3,7 +3,7 @@ layout: post
 title: "Using JavaScript Proxy for advanced memoization strategies"
 description: " "
 date: 2023-09-18
-tags: [JavaScript, Memoization]
+tags: [Memoization]
 comments: true
 share: true
 ---

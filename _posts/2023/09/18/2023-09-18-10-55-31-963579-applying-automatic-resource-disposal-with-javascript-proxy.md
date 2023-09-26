@@ -3,7 +3,7 @@ layout: post
 title: "Applying automatic resource disposal with JavaScript Proxy"
 description: " "
 date: 2023-09-18
-tags: [javascript, proxy]
+tags: [proxy]
 comments: true
 share: true
 ---

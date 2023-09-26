@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a cookie-based session timeout in JavaScript"
 description: " "
 date: 2023-09-24
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

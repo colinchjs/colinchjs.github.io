@@ -3,7 +3,7 @@ layout: post
 title: "An in-depth guide to JavaScript event listeners"
 description: " "
 date: 2023-09-15
-tags: [myButton, myButton, webdevelopment, javascript]
+tags: [myButton, myButton, webdevelopment]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the Fetch API as an alternative to traditional AJAX in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

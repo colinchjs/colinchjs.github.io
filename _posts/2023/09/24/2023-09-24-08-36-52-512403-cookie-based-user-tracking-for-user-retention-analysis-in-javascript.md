@@ -3,7 +3,7 @@ layout: post
 title: "Cookie-based user tracking for user retention analysis in JavaScript"
 description: " "
 date: 2023-09-24
-tags: [JavaScript, UserRetention]
+tags: [UserRetention]
 comments: true
 share: true
 ---

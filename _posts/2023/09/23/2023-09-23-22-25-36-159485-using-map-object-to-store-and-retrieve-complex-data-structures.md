@@ -3,7 +3,7 @@ layout: post
 title: "Using Map object to store and retrieve complex data structures"
 description: " "
 date: 2023-09-23
-tags: [JavaScript, DataStructures]
+tags: [DataStructures]
 comments: true
 share: true
 ---

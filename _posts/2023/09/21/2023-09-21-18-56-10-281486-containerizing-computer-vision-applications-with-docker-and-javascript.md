@@ -3,7 +3,7 @@ layout: post
 title: "Containerizing computer vision applications with Docker and Javascript"
 description: " "
 date: 2023-09-21
-tags: [containerization, computer, Docker, JavaScript]
+tags: [containerization, computer, Docker]
 comments: true
 share: true
 ---

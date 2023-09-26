@@ -3,7 +3,7 @@ layout: post
 title: "Checking if a cookie exists in JavaScript"
 description: " "
 date: 2023-09-24
-tags: [javascript, cookies]
+tags: [cookies]
 comments: true
 share: true
 ---

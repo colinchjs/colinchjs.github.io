@@ -3,7 +3,7 @@ layout: post
 title: "Handling session expiration in JavaScript"
 description: " "
 date: 2023-09-21
-tags: [sessionexpiration, javascript]
+tags: [sessionexpiration]
 comments: true
 share: true
 ---

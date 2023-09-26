@@ -3,7 +3,7 @@ layout: post
 title: "Implementing real-time data updates with websockets in JavaScript MVC"
 description: " "
 date: 2023-09-23
-tags: [javascript, websockets]
+tags: [websockets]
 comments: true
 share: true
 ---

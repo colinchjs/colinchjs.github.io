@@ -3,7 +3,7 @@ layout: post
 title: "Using Map object to implement a cache system"
 description: " "
 date: 2023-09-23
-tags: [Cache, JavaScript]
+tags: [Cache]
 comments: true
 share: true
 ---

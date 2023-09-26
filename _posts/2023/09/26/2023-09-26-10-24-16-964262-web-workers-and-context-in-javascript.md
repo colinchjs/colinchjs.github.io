@@ -3,7 +3,7 @@ layout: post
 title: "Web Workers and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [webworkers, javascript]
+tags: [webworkers]
 comments: true
 share: true
 ---

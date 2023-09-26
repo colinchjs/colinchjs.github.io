@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to React.js"
 description: " "
 date: 2023-09-25
-tags: [react, javascript]
+tags: [react]
 comments: true
 share: true
 ---

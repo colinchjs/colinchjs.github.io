@@ -3,7 +3,7 @@ layout: post
 title: "Auto-Currying in JavaScript Functions"
 description: " "
 date: 2023-09-20
-tags: [JavaScript, FunctionalProgramming]
+tags: [FunctionalProgramming]
 comments: true
 share: true
 ---

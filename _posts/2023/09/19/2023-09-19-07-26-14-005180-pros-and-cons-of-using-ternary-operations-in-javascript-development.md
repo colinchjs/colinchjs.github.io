@@ -3,7 +3,7 @@ layout: post
 title: "Pros and cons of using ternary operations in JavaScript development"
 description: " "
 date: 2023-09-19
-tags: [javascript, development]
+tags: [development]
 comments: true
 share: true
 ---

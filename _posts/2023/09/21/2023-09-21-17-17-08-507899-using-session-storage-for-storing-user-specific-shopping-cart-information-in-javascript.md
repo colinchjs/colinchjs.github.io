@@ -3,7 +3,7 @@ layout: post
 title: "Using session storage for storing user-specific shopping cart information in JavaScript"
 description: " "
 date: 2023-09-21
-tags: [techblog, javascript]
+tags: [techblog]
 comments: true
 share: true
 ---

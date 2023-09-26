@@ -3,7 +3,7 @@ layout: post
 title: "Implementing AJAX in JavaScript MVC applications"
 description: " "
 date: 2023-09-23
-tags: [ajax, javascript]
+tags: [ajax]
 comments: true
 share: true
 ---

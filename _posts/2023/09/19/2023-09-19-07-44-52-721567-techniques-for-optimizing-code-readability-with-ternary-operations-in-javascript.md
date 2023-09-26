@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for optimizing code readability with ternary operations in JavaScript"
 description: " "
 date: 2023-09-19
-tags: [javascript, codeoptimization]
+tags: [codeoptimization]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Dockerizing recommendation systems built with Javascript"
 description: " "
 date: 2023-09-21
-tags: [javascript, docker]
+tags: [docker]
 comments: true
 share: true
 ---

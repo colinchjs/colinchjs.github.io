@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging ternary operators for error handling in JavaScript"
 description: " "
 date: 2023-09-19
-tags: [JavaScript, ErrorHandling]
+tags: [ErrorHandling]
 comments: true
 share: true
 ---

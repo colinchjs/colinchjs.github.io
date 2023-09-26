@@ -3,7 +3,7 @@ layout: post
 title: "Using Docker Volumes for persistent data storage in Javascript applications"
 description: " "
 date: 2023-09-21
-tags: [docker, javascript]
+tags: [docker]
 comments: true
 share: true
 ---

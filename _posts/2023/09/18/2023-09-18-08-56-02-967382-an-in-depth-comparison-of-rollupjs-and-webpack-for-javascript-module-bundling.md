@@ -3,7 +3,7 @@ layout: post
 title: "An in-depth comparison of Rollup.js and Webpack for JavaScript module bundling"
 description: " "
 date: 2023-09-18
-tags: [techblog, javascript]
+tags: [techblog]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Cookie-based user tracking for user churn analysis in JavaScript"
 description: " "
 date: 2023-09-24
-tags: [userchurn, javascript]
+tags: [userchurn]
 comments: true
 share: true
 ---

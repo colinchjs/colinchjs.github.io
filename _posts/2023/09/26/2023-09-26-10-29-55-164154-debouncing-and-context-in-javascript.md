@@ -3,7 +3,7 @@ layout: post
 title: "Debouncing and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, Debouncing]
+tags: [Debouncing]
 comments: true
 share: true
 ---

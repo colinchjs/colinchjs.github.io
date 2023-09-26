@@ -3,7 +3,7 @@ layout: post
 title: "Lazy loading modules in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, LazyLoading]
+tags: [LazyLoading]
 comments: true
 share: true
 ---

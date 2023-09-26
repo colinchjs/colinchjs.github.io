@@ -3,7 +3,7 @@ layout: post
 title: "Event listeners for biometric authentication events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [biometricauthentication, javascript]
+tags: [biometricauthentication]
 comments: true
 share: true
 ---

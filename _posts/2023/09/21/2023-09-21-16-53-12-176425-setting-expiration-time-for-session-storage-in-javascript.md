@@ -3,7 +3,7 @@ layout: post
 title: "Setting expiration time for session storage in JavaScript"
 description: " "
 date: 2023-09-21
-tags: [JavaScript, SessionStorageExpiration]
+tags: [SessionStorageExpiration]
 comments: true
 share: true
 ---

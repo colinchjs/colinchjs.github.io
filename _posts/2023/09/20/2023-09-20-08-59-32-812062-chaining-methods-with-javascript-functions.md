@@ -3,7 +3,7 @@ layout: post
 title: "Chaining Methods with JavaScript Functions"
 description: " "
 date: 2023-09-20
-tags: [javascript, methodchaining]
+tags: [methodchaining]
 comments: true
 share: true
 ---

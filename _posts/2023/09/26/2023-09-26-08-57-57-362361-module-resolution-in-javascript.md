@@ -3,7 +3,7 @@ layout: post
 title: "Module resolution in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, ModuleResolution]
+tags: [ModuleResolution]
 comments: true
 share: true
 ---

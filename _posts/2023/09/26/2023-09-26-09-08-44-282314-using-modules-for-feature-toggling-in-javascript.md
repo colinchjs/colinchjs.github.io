@@ -3,7 +3,7 @@ layout: post
 title: "Using modules for feature toggling in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [featuretoggling, javascript]
+tags: [featuretoggling]
 comments: true
 share: true
 ---

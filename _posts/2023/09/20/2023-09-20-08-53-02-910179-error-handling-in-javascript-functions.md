@@ -3,7 +3,7 @@ layout: post
 title: "Error Handling in JavaScript Functions"
 description: " "
 date: 2023-09-20
-tags: [JavaScript, ErrorHandling]
+tags: [ErrorHandling]
 comments: true
 share: true
 ---

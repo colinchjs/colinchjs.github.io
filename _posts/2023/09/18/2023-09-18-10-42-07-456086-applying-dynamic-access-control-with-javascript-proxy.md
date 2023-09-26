@@ -3,7 +3,7 @@ layout: post
 title: "Applying dynamic access control with JavaScript Proxy"
 description: " "
 date: 2023-09-18
-tags: [development, javascript]
+tags: [development]
 comments: true
 share: true
 ---

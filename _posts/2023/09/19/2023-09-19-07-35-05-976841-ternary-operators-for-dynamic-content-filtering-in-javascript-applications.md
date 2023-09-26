@@ -3,7 +3,7 @@ layout: post
 title: "Ternary operators for dynamic content filtering in JavaScript applications"
 description: " "
 date: 2023-09-19
-tags: [javascript, webdev]
+tags: [webdev]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using Webpack for JavaScript module bundling"
 description: " "
 date: 2023-09-26
-tags: [javascript, webpack]
+tags: [webpack]
 comments: true
 share: true
 ---

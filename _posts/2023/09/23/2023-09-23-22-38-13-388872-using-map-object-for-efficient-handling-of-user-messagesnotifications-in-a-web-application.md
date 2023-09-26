@@ -3,7 +3,7 @@ layout: post
 title: "Using Map object for efficient handling of user messages/notifications in a web application"
 description: " "
 date: 2023-09-23
-tags: [JavaScript, WebDevelopment]
+tags: [WebDevelopment]
 comments: true
 share: true
 ---

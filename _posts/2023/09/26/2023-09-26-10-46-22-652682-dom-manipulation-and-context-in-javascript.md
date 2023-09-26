@@ -3,7 +3,7 @@ layout: post
 title: "DOM manipulation and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [javascript, context]
+tags: [context]
 comments: true
 share: true
 ---

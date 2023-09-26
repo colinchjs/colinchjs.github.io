@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the power of nested ternary operations in JavaScript"
 description: " "
 date: 2023-09-19
-tags: [JavaScript, NestedTernaries]
+tags: [NestedTernaries]
 comments: true
 share: true
 ---

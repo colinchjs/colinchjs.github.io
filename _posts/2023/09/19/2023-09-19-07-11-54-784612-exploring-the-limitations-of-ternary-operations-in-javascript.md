@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the limitations of ternary operations in JavaScript"
 description: " "
 date: 2023-09-19
-tags: [javascript, conditional]
+tags: [conditional]
 comments: true
 share: true
 ---

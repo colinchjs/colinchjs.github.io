@@ -3,7 +3,7 @@ layout: post
 title: "Converting an object literal to a Map object"
 description: " "
 date: 2023-09-23
-tags: [javascript, object]
+tags: [object]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Removing key-value pairs from a Map object"
 description: " "
 date: 2023-09-23
-tags: [javascript, python]
+tags: [python]
 comments: true
 share: true
 ---

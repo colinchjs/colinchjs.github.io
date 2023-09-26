@@ -3,7 +3,7 @@ layout: post
 title: "Function as Values in JavaScript"
 description: " "
 date: 2023-09-20
-tags: [JavaScript, FunctionsAsValues]
+tags: [FunctionsAsValues]
 comments: true
 share: true
 ---

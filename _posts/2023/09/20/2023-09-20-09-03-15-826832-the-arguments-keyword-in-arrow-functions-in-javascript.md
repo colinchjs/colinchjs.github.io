@@ -3,7 +3,7 @@ layout: post
 title: "The arguments Keyword in Arrow Functions in JavaScript"
 description: " "
 date: 2023-09-20
-tags: [JavaScript, ArrowFunctions]
+tags: [ArrowFunctions]
 comments: true
 share: true
 ---

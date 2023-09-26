@@ -3,7 +3,7 @@ layout: post
 title: "Garbage collection and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [javascript, garbagecollection]
+tags: [garbagecollection]
 comments: true
 share: true
 ---

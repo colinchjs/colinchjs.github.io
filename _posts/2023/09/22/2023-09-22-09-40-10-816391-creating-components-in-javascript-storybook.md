@@ -3,7 +3,7 @@ layout: post
 title: "Creating components in Javascript Storybook"
 description: " "
 date: 2023-09-22
-tags: [javascript, storybook]
+tags: [storybook]
 comments: true
 share: true
 ---

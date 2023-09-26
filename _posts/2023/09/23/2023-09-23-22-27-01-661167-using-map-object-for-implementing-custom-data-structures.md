@@ -3,7 +3,7 @@ layout: post
 title: "Using Map object for implementing custom data structures"
 description: " "
 date: 2023-09-23
-tags: [techblog, javascript]
+tags: [techblog]
 comments: true
 share: true
 ---

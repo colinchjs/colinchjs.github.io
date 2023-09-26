@@ -3,7 +3,7 @@ layout: post
 title: "Cookie-based user tracking for user segmentation analysis in JavaScript"
 description: " "
 date: 2023-09-24
-tags: [tech, javascript]
+tags: [tech]
 comments: true
 share: true
 ---

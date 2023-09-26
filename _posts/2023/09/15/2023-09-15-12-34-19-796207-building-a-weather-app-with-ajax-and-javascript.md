@@ -3,7 +3,7 @@ layout: post
 title: "Building a weather app with AJAX and JavaScript"
 description: " "
 date: 2023-09-15
-tags: [weatherapp, javascript]
+tags: [weatherapp]
 comments: true
 share: true
 ---

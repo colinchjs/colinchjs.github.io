@@ -3,7 +3,7 @@ layout: post
 title: "The Benefits of Using ES6 in AngularJS Development"
 description: " "
 date: 2023-09-13
-tags: [AngularJS, Development, JavaScript]
+tags: [AngularJS, Development]
 comments: true
 share: true
 ---

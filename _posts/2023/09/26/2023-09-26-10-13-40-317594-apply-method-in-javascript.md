@@ -3,7 +3,7 @@ layout: post
 title: "Apply method in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, Method]
+tags: [Method]
 comments: true
 share: true
 ---

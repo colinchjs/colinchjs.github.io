@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for JavaScript MVC development"
 description: " "
 date: 2023-09-23
-tags: [javascript]
+tags: []
 comments: true
 share: true
 ---

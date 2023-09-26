@@ -3,7 +3,7 @@ layout: post
 title: "Using session storage to implement multi-step forms in JavaScript"
 description: " "
 date: 2023-09-21
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

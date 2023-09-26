@@ -3,7 +3,7 @@ layout: post
 title: "Currying and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [hashtags, javascript]
+tags: [hashtags]
 comments: true
 share: true
 ---

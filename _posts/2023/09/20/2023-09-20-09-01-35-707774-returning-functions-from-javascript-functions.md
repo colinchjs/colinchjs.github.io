@@ -3,7 +3,7 @@ layout: post
 title: "Returning Functions from JavaScript Functions"
 description: " "
 date: 2023-09-20
-tags: [javascript, functions]
+tags: [functions]
 comments: true
 share: true
 ---

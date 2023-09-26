@@ -3,7 +3,7 @@ layout: post
 title: "Deep Dive into ES6 Generators: From Synchronous to Asynchronous"
 description: " "
 date: 2023-09-13
-tags: [Programming, JavaScript, Generators, AsynchronousProgramming]
+tags: [Programming, Generators, AsynchronousProgramming]
 comments: true
 share: true
 ---

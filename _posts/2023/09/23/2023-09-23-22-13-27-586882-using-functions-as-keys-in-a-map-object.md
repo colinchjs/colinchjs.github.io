@@ -3,7 +3,7 @@ layout: post
 title: "Using functions as keys in a Map object"
 description: " "
 date: 2023-09-23
-tags: [programming, javascript]
+tags: [programming]
 comments: true
 share: true
 ---

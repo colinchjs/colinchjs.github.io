@@ -3,7 +3,7 @@ layout: post
 title: "Running end-to-end tests for Dockerized Javascript applications"
 description: " "
 date: 2023-09-21
-tags: [javascript, docker]
+tags: [docker]
 comments: true
 share: true
 ---

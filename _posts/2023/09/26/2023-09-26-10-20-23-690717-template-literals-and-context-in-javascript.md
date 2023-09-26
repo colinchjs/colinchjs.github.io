@@ -3,7 +3,7 @@ layout: post
 title: "Template literals and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [javascript, templateliterals]
+tags: [templateliterals]
 comments: true
 share: true
 ---

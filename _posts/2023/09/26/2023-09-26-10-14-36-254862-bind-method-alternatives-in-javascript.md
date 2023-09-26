@@ -3,7 +3,7 @@ layout: post
 title: "Bind method alternatives in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, Binding]
+tags: [Binding]
 comments: true
 share: true
 ---

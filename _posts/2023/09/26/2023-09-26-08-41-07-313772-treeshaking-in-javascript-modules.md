@@ -3,7 +3,7 @@ layout: post
 title: "Treeshaking in JavaScript modules"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, Treeshaking]
+tags: [Treeshaking]
 comments: true
 share: true
 ---

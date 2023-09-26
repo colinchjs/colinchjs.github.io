@@ -3,7 +3,7 @@ layout: post
 title: "Analyzing Rollup.js bundle size and optimizing for faster page load times"
 description: " "
 date: 2023-09-18
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

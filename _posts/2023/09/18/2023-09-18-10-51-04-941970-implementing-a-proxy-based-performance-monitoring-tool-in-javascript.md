@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a proxy-based performance monitoring tool in JavaScript"
 description: " "
 date: 2023-09-18
-tags: [JavaScript, PerformanceMonitoring]
+tags: [PerformanceMonitoring]
 comments: true
 share: true
 ---

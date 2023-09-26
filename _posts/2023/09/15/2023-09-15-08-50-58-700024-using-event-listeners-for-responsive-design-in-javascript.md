@@ -3,7 +3,7 @@ layout: post
 title: "Using event listeners for responsive design in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

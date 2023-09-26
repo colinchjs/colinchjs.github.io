@@ -3,7 +3,7 @@ layout: post
 title: "Async functions and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [javascript, asyncfunctions]
+tags: [asyncfunctions]
 comments: true
 share: true
 ---

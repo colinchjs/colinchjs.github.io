@@ -3,7 +3,7 @@ layout: post
 title: "Using cookies for real-time data synchronization in JavaScript"
 description: " "
 date: 2023-09-24
-tags: [JavaScript, RealTimeSync]
+tags: [RealTimeSync]
 comments: true
 share: true
 ---

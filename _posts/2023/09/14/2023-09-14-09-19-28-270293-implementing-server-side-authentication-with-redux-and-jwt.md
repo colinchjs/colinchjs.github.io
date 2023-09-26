@@ -3,7 +3,7 @@ layout: post
 title: "Implementing server-side authentication with Redux and JWT"
 description: " "
 date: 2023-09-14
-tags: [TechBlog, Redux, Authentication, JavaScript]
+tags: [TechBlog, Redux, Authentication]
 comments: true
 share: true
 ---

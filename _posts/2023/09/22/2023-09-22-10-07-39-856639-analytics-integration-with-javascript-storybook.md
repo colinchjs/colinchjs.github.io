@@ -3,7 +3,7 @@ layout: post
 title: "Analytics integration with Javascript Storybook"
 description: " "
 date: 2023-09-22
-tags: [analytics, javascript]
+tags: [analytics]
 comments: true
 share: true
 ---

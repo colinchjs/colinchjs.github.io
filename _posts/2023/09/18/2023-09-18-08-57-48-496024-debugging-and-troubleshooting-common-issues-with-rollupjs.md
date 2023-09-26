@@ -3,7 +3,7 @@ layout: post
 title: "Debugging and troubleshooting common issues with Rollup.js"
 description: " "
 date: 2023-09-18
-tags: [rollupjs, javascript]
+tags: [rollupjs]
 comments: true
 share: true
 ---

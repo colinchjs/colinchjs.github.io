@@ -3,7 +3,7 @@ layout: post
 title: "Generator Functions in JavaScript"
 description: " "
 date: 2023-09-20
-tags: [JavaScript, Generators]
+tags: [Generators]
 comments: true
 share: true
 ---

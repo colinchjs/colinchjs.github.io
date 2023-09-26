@@ -3,7 +3,7 @@ layout: post
 title: "Building a ride-sharing app with AJAX and JavaScript"
 description: " "
 date: 2023-09-15
-tags: [ridesharing, javascript]
+tags: [ridesharing]
 comments: true
 share: true
 ---

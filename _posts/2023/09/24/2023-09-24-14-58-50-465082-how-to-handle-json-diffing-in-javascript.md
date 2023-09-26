@@ -3,7 +3,7 @@ layout: post
 title: "How to handle JSON diffing in JavaScript."
 description: " "
 date: 2023-09-24
-tags: [javascript, JSONdiffing]
+tags: [JSONdiffing]
 comments: true
 share: true
 ---

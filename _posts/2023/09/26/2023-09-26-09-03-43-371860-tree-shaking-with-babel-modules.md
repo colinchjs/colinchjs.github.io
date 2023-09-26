@@ -3,7 +3,7 @@ layout: post
 title: "Tree shaking with Babel modules"
 description: " "
 date: 2023-09-26
-tags: [javascript, babel]
+tags: [babel]
 comments: true
 share: true
 ---

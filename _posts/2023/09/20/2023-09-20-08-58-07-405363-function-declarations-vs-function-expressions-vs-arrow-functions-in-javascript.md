@@ -3,7 +3,7 @@ layout: post
 title: "Function Declarations vs Function Expressions vs Arrow Functions in JavaScript"
 description: " "
 date: 2023-09-20
-tags: [JavaScript, Functions]
+tags: [Functions]
 comments: true
 share: true
 ---

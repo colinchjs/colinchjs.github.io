@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a proxy-based data transformation in JavaScript"
 description: " "
 date: 2023-09-18
-tags: [hashtags, JavaScript]
+tags: [hashtags]
 comments: true
 share: true
 ---

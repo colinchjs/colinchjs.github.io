@@ -3,7 +3,7 @@ layout: post
 title: "How to use ternary operators for dynamic routing in JavaScript frameworks"
 description: " "
 date: 2023-09-19
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

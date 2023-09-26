@@ -3,7 +3,7 @@ layout: post
 title: "Using cookies for A/B testing in JavaScript"
 description: " "
 date: 2023-09-24
-tags: [ABTesting, JavaScript]
+tags: [ABTesting]
 comments: true
 share: true
 ---

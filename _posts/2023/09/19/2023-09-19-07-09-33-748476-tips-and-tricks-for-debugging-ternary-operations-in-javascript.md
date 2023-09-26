@@ -3,7 +3,7 @@ layout: post
 title: "Tips and tricks for debugging ternary operations in JavaScript"
 description: " "
 date: 2023-09-19
-tags: [JavaScript, Debugging]
+tags: [Debugging]
 comments: true
 share: true
 ---

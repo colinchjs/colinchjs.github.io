@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for version control and code collaboration with JavaScript Module Federation in Webpack 5"
 description: " "
 date: 2023-09-18
-tags: [123), javascript]
+tags: [123)]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Function Expression vs Function Declaration Hoisting in JavaScript"
 description: " "
 date: 2023-09-20
-tags: [javascript, hoisting]
+tags: [hoisting]
 comments: true
 share: true
 ---

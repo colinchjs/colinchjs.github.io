@@ -3,7 +3,7 @@ layout: post
 title: "Enforcing data validation in JavaScript MVC"
 description: " "
 date: 2023-09-23
-tags: [javascript, datavalidation]
+tags: [datavalidation]
 comments: true
 share: true
 ---

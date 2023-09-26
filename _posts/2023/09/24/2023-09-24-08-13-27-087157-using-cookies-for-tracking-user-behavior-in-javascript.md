@@ -3,7 +3,7 @@ layout: post
 title: "Using cookies for tracking user behavior in JavaScript"
 description: " "
 date: 2023-09-24
-tags: [development, javascript]
+tags: [development]
 comments: true
 share: true
 ---

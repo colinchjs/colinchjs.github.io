@@ -3,7 +3,7 @@ layout: post
 title: "Scaling Javascript applications with Docker Swarm"
 description: " "
 date: 2023-09-21
-tags: [docker, swarm, scaling, javascript]
+tags: [docker, swarm, scaling]
 comments: true
 share: true
 ---

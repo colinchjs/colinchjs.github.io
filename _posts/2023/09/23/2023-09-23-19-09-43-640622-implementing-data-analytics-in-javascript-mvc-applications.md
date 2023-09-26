@@ -3,7 +3,7 @@ layout: post
 title: "Implementing data analytics in JavaScript MVC applications"
 description: " "
 date: 2023-09-23
-tags: [javascript, dataanalytics]
+tags: [dataanalytics]
 comments: true
 share: true
 ---

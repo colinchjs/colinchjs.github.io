@@ -3,7 +3,7 @@ layout: post
 title: "Recursion in JavaScript Functions"
 description: " "
 date: 2023-09-20
-tags: [javascript, recursion]
+tags: [recursion]
 comments: true
 share: true
 ---

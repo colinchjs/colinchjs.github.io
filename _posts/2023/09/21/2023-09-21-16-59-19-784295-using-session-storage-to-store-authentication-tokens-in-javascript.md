@@ -3,7 +3,7 @@ layout: post
 title: "Using session storage to store authentication tokens in JavaScript"
 description: " "
 date: 2023-09-21
-tags: [javascript, sessionstorage]
+tags: [sessionstorage]
 comments: true
 share: true
 ---

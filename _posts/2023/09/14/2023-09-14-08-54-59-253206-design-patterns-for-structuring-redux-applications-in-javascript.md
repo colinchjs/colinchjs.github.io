@@ -3,7 +3,7 @@ layout: post
 title: "Design patterns for structuring Redux applications in JavaScript"
 description: " "
 date: 2023-09-14
-tags: [Redux, JavaScript]
+tags: [Redux]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Exploring different AJAX libraries and frameworks in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

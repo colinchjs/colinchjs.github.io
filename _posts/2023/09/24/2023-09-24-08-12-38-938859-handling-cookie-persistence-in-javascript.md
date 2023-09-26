@@ -3,7 +3,7 @@ layout: post
 title: "Handling cookie persistence in JavaScript"
 description: " "
 date: 2023-09-24
-tags: [cookies, JavaScript]
+tags: [cookies]
 comments: true
 share: true
 ---

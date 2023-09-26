@@ -3,7 +3,7 @@ layout: post
 title: "How to handle JSON parsing and manipulating in JavaScript."
 description: " "
 date: 2023-09-24
-tags: [javascript, json]
+tags: [json]
 comments: true
 share: true
 ---

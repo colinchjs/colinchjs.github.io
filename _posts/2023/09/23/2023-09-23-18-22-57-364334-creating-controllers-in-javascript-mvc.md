@@ -3,7 +3,7 @@ layout: post
 title: "Creating controllers in JavaScript MVC"
 description: " "
 date: 2023-09-23
-tags: [myButton, javascript]
+tags: [myButton]
 comments: true
 share: true
 ---

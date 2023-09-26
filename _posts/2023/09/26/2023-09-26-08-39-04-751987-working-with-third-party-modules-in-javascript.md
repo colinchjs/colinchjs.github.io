@@ -3,7 +3,7 @@ layout: post
 title: "Working with third-party modules in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [javascript, thirdparty]
+tags: [thirdparty]
 comments: true
 share: true
 ---

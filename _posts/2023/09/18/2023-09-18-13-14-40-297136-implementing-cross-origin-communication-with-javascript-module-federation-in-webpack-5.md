@@ -3,7 +3,7 @@ layout: post
 title: "Implementing cross-origin communication with JavaScript Module Federation in Webpack 5"
 description: " "
 date: 2023-09-18
-tags: [hashtags, JavaScript]
+tags: [hashtags]
 comments: true
 share: true
 ---

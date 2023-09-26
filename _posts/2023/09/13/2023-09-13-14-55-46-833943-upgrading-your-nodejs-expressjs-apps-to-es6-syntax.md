@@ -3,7 +3,7 @@ layout: post
 title: "Upgrading Your Node.js Express.js Apps to ES6 Syntax"
 description: " "
 date: 2023-09-13
-tags: [NodeJS, ExpressJS, JavaScript, Babel]
+tags: [NodeJS, ExpressJS, Babel]
 comments: true
 share: true
 ---

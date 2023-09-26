@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for optimizing performance with ternary operations in JavaScript"
 description: " "
 date: 2023-09-19
-tags: [javascript, performance]
+tags: [performance]
 comments: true
 share: true
 ---

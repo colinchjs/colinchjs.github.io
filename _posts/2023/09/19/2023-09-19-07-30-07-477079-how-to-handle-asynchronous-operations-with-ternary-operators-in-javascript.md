@@ -3,7 +3,7 @@ layout: post
 title: "How to handle asynchronous operations with ternary operators in JavaScript"
 description: " "
 date: 2023-09-19
-tags: [javascript, asynchronous]
+tags: [asynchronous]
 comments: true
 share: true
 ---

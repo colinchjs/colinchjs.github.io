@@ -3,7 +3,7 @@ layout: post
 title: "Named Function Expression vs Anonymous Function Expression in JavaScript"
 description: " "
 date: 2023-09-20
-tags: [javascript, functionexpression]
+tags: [functionexpression]
 comments: true
 share: true
 ---

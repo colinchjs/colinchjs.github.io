@@ -3,7 +3,7 @@ layout: post
 title: "Using Map object instead of an object literal for performance improvements"
 description: " "
 date: 2023-09-23
-tags: [JavaScript, PerformanceImprovement]
+tags: [PerformanceImprovement]
 comments: true
 share: true
 ---

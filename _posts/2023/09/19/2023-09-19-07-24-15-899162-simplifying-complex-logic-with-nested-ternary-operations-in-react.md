@@ -3,7 +3,7 @@ layout: post
 title: "Simplifying complex logic with nested ternary operations in React"
 description: " "
 date: 2023-09-19
-tags: [React, JavaScript]
+tags: [React]
 comments: true
 share: true
 ---

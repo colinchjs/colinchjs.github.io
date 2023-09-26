@@ -3,7 +3,7 @@ layout: post
 title: "Asynchronous context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, AsynchronousProgramming]
+tags: [AsynchronousProgramming]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Prototypal inheritance and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, PrototypalInheritance]
+tags: [PrototypalInheritance]
 comments: true
 share: true
 ---

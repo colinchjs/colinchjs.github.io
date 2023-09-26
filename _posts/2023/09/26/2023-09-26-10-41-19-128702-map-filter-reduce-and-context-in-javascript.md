@@ -3,7 +3,7 @@ layout: post
 title: "Map, filter, reduce and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, FunctionalProgramming]
+tags: [FunctionalProgramming]
 comments: true
 share: true
 ---

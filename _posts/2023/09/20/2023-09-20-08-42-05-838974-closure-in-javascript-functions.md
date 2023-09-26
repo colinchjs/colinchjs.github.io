@@ -3,7 +3,7 @@ layout: post
 title: "Closure in JavaScript Functions"
 description: " "
 date: 2023-09-20
-tags: [JavaScript, Closures]
+tags: [Closures]
 comments: true
 share: true
 ---

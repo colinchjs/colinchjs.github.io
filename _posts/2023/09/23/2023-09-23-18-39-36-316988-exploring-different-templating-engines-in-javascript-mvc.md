@@ -3,7 +3,7 @@ layout: post
 title: "Exploring different templating engines in JavaScript MVC"
 description: " "
 date: 2023-09-23
-tags: [javascript, templatingengines]
+tags: [templatingengines]
 comments: true
 share: true
 ---

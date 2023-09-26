@@ -3,7 +3,7 @@ layout: post
 title: "Using Map object for efficient handling of user messages/notifications in a desktop application"
 description: " "
 date: 2023-09-23
-tags: [programming, javascript]
+tags: [programming]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Event loop and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [javascript, eventloop]
+tags: [eventloop]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing session timeout functionality with session storage in JavaScript"
 description: " "
 date: 2023-09-21
-tags: [sessiontimeout, javascript]
+tags: [sessiontimeout]
 comments: true
 share: true
 ---

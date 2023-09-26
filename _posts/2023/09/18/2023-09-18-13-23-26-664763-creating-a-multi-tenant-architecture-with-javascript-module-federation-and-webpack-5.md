@@ -3,7 +3,7 @@ layout: post
 title: "Creating a multi-tenant architecture with JavaScript Module Federation and Webpack 5"
 description: " "
 date: 2023-09-18
-tags: [javascript, webpack5]
+tags: [webpack5]
 comments: true
 share: true
 ---

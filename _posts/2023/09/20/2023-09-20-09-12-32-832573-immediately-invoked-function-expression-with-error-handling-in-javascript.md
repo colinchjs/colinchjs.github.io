@@ -3,7 +3,7 @@ layout: post
 title: "Immediately Invoked Function Expression with Error Handling in JavaScript"
 description: " "
 date: 2023-09-20
-tags: [javascript, errorhandling]
+tags: [errorhandling]
 comments: true
 share: true
 ---

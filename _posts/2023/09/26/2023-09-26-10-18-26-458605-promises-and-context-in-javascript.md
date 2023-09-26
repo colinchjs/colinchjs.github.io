@@ -3,7 +3,7 @@ layout: post
 title: "Promises and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [javascript, promises]
+tags: [promises]
 comments: true
 share: true
 ---

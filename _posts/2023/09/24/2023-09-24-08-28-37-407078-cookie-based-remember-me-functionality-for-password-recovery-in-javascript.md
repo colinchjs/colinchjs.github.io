@@ -3,7 +3,7 @@ layout: post
 title: "Cookie-based remember me functionality for password recovery in JavaScript"
 description: " "
 date: 2023-09-24
-tags: [Technology, JavaScript]
+tags: [Technology]
 comments: true
 share: true
 ---

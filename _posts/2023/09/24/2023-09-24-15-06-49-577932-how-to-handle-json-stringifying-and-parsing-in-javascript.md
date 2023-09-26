@@ -3,7 +3,7 @@ layout: post
 title: "How to handle JSON stringifying and parsing in JavaScript."
 description: " "
 date: 2023-09-24
-tags: [programming, JavaScript]
+tags: [programming]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Module architecture design patterns in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [javascript, moduledesignpatterns]
+tags: [moduledesignpatterns]
 comments: true
 share: true
 ---

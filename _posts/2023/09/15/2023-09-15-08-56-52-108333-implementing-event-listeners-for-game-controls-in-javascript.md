@@ -3,7 +3,7 @@ layout: post
 title: "Implementing event listeners for game controls in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [gameDevelopment, JavaScript]
+tags: [gameDevelopment]
 comments: true
 share: true
 ---

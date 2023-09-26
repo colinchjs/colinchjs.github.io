@@ -3,7 +3,7 @@ layout: post
 title: "Lexical context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [javascript, lexicalcontext]
+tags: [lexicalcontext]
 comments: true
 share: true
 ---

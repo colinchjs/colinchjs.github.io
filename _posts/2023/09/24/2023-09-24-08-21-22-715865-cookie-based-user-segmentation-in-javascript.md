@@ -3,7 +3,7 @@ layout: post
 title: "Cookie-based user segmentation in JavaScript"
 description: " "
 date: 2023-09-24
-tags: [JavaScript, UserSegmentation]
+tags: [UserSegmentation]
 comments: true
 share: true
 ---

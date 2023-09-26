@@ -3,7 +3,7 @@ layout: post
 title: "Async Callback Functions in JavaScript"
 description: " "
 date: 2023-09-20
-tags: [javascript, asynchronous]
+tags: [asynchronous]
 comments: true
 share: true
 ---

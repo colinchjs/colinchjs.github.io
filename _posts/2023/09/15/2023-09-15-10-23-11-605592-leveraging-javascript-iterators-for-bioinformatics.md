@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging JavaScript iterators for bioinformatics"
 description: " "
 date: 2023-09-15
-tags: [bioinformatics, javascript]
+tags: [bioinformatics]
 comments: true
 share: true
 ---

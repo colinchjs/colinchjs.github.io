@@ -3,7 +3,7 @@ layout: post
 title: "Using session storage for managing user-specific email signature templates in JavaScript"
 description: " "
 date: 2023-09-21
-tags: [javascript, webdevelopment]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

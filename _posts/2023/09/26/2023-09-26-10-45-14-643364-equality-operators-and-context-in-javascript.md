@@ -3,7 +3,7 @@ layout: post
 title: "Equality operators and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, EqualityOperators]
+tags: [EqualityOperators]
 comments: true
 share: true
 ---

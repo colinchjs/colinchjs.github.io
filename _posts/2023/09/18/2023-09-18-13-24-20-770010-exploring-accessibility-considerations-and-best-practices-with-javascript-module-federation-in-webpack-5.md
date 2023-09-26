@@ -3,7 +3,7 @@ layout: post
 title: "Exploring accessibility considerations and best practices with JavaScript Module Federation in Webpack 5"
 description: " "
 date: 2023-09-18
-tags: [javascript, modulefederation]
+tags: [modulefederation]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Ternary operators for conditional error handling in JavaScript APIs"
 description: " "
 date: 2023-09-19
-tags: [javascript, APIs]
+tags: [APIs]
 comments: true
 share: true
 ---

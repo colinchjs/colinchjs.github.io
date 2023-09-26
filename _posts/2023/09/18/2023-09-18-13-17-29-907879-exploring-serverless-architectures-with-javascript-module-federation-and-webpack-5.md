@@ -3,7 +3,7 @@ layout: post
 title: "Exploring serverless architectures with JavaScript Module Federation and Webpack 5"
 description: " "
 date: 2023-09-18
-tags: [serverless, JavaScript]
+tags: [serverless]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Storing user preferences in cookies with JavaScript"
 description: " "
 date: 2023-09-24
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

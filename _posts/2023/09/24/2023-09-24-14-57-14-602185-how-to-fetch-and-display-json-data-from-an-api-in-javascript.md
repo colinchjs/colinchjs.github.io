@@ -3,7 +3,7 @@ layout: post
 title: "How to fetch and display JSON data from an API in JavaScript."
 description: " "
 date: 2023-09-24
-tags: [JavaScript]
+tags: []
 comments: true
 share: true
 ---

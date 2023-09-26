@@ -3,7 +3,7 @@ layout: post
 title: "Implementing geolocation in JavaScript MVC apps"
 description: " "
 date: 2023-09-23
-tags: [javascript]
+tags: []
 comments: true
 share: true
 ---

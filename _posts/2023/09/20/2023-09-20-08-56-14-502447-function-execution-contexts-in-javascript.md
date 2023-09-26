@@ -3,7 +3,7 @@ layout: post
 title: "Function Execution Contexts in JavaScript"
 description: " "
 date: 2023-09-20
-tags: [JavaScript, ExecutionContext]
+tags: [ExecutionContext]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using cookies for language selection in JavaScript"
 description: " "
 date: 2023-09-24
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

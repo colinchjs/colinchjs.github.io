@@ -3,7 +3,7 @@ layout: post
 title: "Understanding the lifespan of session storage in JavaScript"
 description: " "
 date: 2023-09-21
-tags: [JavaScript, WebStorage]
+tags: [WebStorage]
 comments: true
 share: true
 ---

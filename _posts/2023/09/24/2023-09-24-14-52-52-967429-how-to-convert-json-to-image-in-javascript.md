@@ -3,7 +3,7 @@ layout: post
 title: "How to convert JSON to Image in JavaScript."
 description: " "
 date: 2023-09-24
-tags: [coding, javascript]
+tags: [coding]
 comments: true
 share: true
 ---

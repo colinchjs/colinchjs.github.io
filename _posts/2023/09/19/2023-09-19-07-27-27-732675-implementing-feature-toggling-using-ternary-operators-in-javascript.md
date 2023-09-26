@@ -3,7 +3,7 @@ layout: post
 title: "Implementing feature toggling using ternary operators in JavaScript"
 description: " "
 date: 2023-09-19
-tags: [JavaScript, FeatureToggling]
+tags: [FeatureToggling]
 comments: true
 share: true
 ---

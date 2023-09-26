@@ -3,7 +3,7 @@ layout: post
 title: "Function Scope in JavaScript Modules"
 description: " "
 date: 2023-09-20
-tags: [programming, javascript]
+tags: [programming]
 comments: true
 share: true
 ---

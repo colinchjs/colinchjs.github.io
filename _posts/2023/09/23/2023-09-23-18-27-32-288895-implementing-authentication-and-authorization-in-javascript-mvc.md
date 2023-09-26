@@ -3,7 +3,7 @@ layout: post
 title: "Implementing authentication and authorization in JavaScript MVC"
 description: " "
 date: 2023-09-23
-tags: [javascript, authentication]
+tags: [authentication]
 comments: true
 share: true
 ---

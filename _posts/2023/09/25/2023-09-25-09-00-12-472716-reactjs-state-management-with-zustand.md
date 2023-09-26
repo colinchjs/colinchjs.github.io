@@ -3,7 +3,7 @@ layout: post
 title: "React.js state management with Zustand"
 description: " "
 date: 2023-09-25
-tags: [react, javascript]
+tags: [react]
 comments: true
 share: true
 ---

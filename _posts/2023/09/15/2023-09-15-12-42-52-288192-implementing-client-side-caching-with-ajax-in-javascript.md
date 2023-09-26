@@ -3,7 +3,7 @@ layout: post
 title: "Implementing client-side caching with AJAX in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

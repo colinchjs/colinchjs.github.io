@@ -3,7 +3,7 @@ layout: post
 title: "How to generate a chart from JSON data in JavaScript."
 description: " "
 date: 2023-09-24
-tags: [javascript, dataVisualization]
+tags: [dataVisualization]
 comments: true
 share: true
 ---

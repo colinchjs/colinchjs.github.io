@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for error handling and fallbacks in JavaScript Module Federation with Webpack 5"
 description: " "
 date: 2023-09-18
-tags: [javascript, modulefederation]
+tags: [modulefederation]
 comments: true
 share: true
 ---

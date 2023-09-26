@@ -3,7 +3,7 @@ layout: post
 title: "Investigating the impact of insecure server-side request forgery (SSRF) on CSRF protection in JavaScript applications"
 description: " "
 date: 2023-09-14
-tags: [cybersecurity, javascript]
+tags: [cybersecurity]
 comments: true
 share: true
 ---

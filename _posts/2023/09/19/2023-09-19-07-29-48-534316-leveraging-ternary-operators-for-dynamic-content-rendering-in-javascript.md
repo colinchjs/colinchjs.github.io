@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging ternary operators for dynamic content rendering in JavaScript"
 description: " "
 date: 2023-09-19
-tags: [JavaScript, DynamicRendering]
+tags: [DynamicRendering]
 comments: true
 share: true
 ---

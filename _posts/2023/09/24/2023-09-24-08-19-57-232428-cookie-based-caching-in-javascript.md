@@ -3,7 +3,7 @@ layout: post
 title: "Cookie-based caching in JavaScript"
 description: " "
 date: 2023-09-24
-tags: [webdevelopment, JavaScript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

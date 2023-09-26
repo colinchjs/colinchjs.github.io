@@ -3,7 +3,7 @@ layout: post
 title: "Cookie-based CSRF protection in JavaScript"
 description: " "
 date: 2023-09-24
-tags: [security, javascript]
+tags: [security]
 comments: true
 share: true
 ---

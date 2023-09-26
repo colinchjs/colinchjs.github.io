@@ -3,7 +3,7 @@ layout: post
 title: "Using Docker to containerize headless browser testing for Javascript applications"
 description: " "
 date: 2023-09-21
-tags: [docker, headlessbrowsertesting, javascript]
+tags: [docker, headlessbrowsertesting]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Cookie-based user tracking for conversion rate optimization in JavaScript"
 description: " "
 date: 2023-09-24
-tags: [JavaScript]
+tags: []
 comments: true
 share: true
 ---

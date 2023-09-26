@@ -3,7 +3,7 @@ layout: post
 title: "Implementing form validation in JavaScript MVC"
 description: " "
 date: 2023-09-23
-tags: [javascript, formvalidation]
+tags: [formvalidation]
 comments: true
 share: true
 ---

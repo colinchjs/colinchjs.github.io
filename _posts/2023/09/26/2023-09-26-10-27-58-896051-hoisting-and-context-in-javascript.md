@@ -3,7 +3,7 @@ layout: post
 title: "Hoisting and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [javascript, hoisting]
+tags: [hoisting]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Simplified data manipulation with ternary operators in JavaScript objects"
 description: " "
 date: 2023-09-19
-tags: [JavaScript, TernaryOperators, DataManipulation]
+tags: [TernaryOperators, DataManipulation]
 comments: true
 share: true
 ---

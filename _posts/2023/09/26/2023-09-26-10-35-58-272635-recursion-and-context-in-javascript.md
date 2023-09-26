@@ -3,7 +3,7 @@ layout: post
 title: "Recursion and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, Recursion]
+tags: [Recursion]
 comments: true
 share: true
 ---

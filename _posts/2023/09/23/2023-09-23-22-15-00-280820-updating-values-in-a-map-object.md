@@ -3,7 +3,7 @@ layout: post
 title: "Updating values in a Map object"
 description: " "
 date: 2023-09-23
-tags: [javascript, maps]
+tags: [maps]
 comments: true
 share: true
 ---

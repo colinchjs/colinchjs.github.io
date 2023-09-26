@@ -3,7 +3,7 @@ layout: post
 title: "Reflect API and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, ObjectManipulation]
+tags: [ObjectManipulation]
 comments: true
 share: true
 ---

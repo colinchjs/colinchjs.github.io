@@ -3,7 +3,7 @@ layout: post
 title: "Implementing lazy loading of assets in JavaScript MVC"
 description: " "
 date: 2023-09-23
-tags: [javascript, webdevelopment]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

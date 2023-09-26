@@ -3,7 +3,7 @@ layout: post
 title: "The Power of ES6 Sets: Immutable Collections with Unique Values"
 description: " "
 date: 2023-09-13
-tags: [programming, javascript, Sets]
+tags: [programming, Sets]
 comments: true
 share: true
 ---

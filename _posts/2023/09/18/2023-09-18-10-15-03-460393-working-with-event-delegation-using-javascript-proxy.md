@@ -3,7 +3,7 @@ layout: post
 title: "Working with event delegation using JavaScript Proxy"
 description: " "
 date: 2023-09-18
-tags: [parent, javascript]
+tags: [parent]
 comments: true
 share: true
 ---

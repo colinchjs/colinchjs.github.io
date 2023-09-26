@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for handling complex form state with ternary operators in React"
 description: " "
 date: 2023-09-19
-tags: [react, javascript]
+tags: [react]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Closures with Event Listeners in JavaScript"
 description: " "
 date: 2023-09-20
-tags: [javascript, closures]
+tags: [closures]
 comments: true
 share: true
 ---

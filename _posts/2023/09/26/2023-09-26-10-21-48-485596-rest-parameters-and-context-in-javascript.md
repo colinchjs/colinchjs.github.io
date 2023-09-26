@@ -3,7 +3,7 @@ layout: post
 title: "Rest parameters and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [hashtags, JavaScript]
+tags: [hashtags]
 comments: true
 share: true
 ---

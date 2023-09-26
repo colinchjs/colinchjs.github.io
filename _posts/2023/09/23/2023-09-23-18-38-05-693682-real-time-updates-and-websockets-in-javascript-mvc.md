@@ -3,7 +3,7 @@ layout: post
 title: "Real-time updates and websockets in JavaScript MVC"
 description: " "
 date: 2023-09-23
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

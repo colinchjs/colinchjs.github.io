@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging build optimizations with JavaScript Module Federation in Webpack 5"
 description: " "
 date: 2023-09-18
-tags: [webpack, javascript]
+tags: [webpack]
 comments: true
 share: true
 ---

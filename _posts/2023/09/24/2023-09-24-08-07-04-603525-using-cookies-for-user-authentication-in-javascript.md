@@ -3,7 +3,7 @@ layout: post
 title: "Using cookies for user authentication in JavaScript"
 description: " "
 date: 2023-09-24
-tags: [Javascript, WebDevelopment]
+tags: [WebDevelopment]
 comments: true
 share: true
 ---

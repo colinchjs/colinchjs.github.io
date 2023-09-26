@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for code organization and modularization in JavaScript Module Federation with Webpack 5"
 description: " "
 date: 2023-09-18
-tags: [javascript, webpack5]
+tags: [webpack5]
 comments: true
 share: true
 ---

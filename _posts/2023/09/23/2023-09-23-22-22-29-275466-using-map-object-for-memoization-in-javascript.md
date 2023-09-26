@@ -3,7 +3,7 @@ layout: post
 title: "Using Map object for memoization in JavaScript"
 description: " "
 date: 2023-09-23
-tags: [javascript, memoization]
+tags: [memoization]
 comments: true
 share: true
 ---

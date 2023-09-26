@@ -3,7 +3,7 @@ layout: post
 title: "Dockerizing sentiment analysis applications with Docker and Javascript"
 description: " "
 date: 2023-09-21
-tags: [docker, javascript, docker, javascript]
+tags: [docker, javascript, docker]
 comments: true
 share: true
 ---

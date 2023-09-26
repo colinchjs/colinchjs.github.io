@@ -3,7 +3,7 @@ layout: post
 title: "Pass by reference and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, Programming]
+tags: [Programming]
 comments: true
 share: true
 ---

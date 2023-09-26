@@ -3,7 +3,7 @@ layout: post
 title: "Implementing data compression and decompression with AJAX and JavaScript"
 description: " "
 date: 2023-09-15
-tags: [datacompression, javascript]
+tags: [datacompression]
 comments: true
 share: true
 ---

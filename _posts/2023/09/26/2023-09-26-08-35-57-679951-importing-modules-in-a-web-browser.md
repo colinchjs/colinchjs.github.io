@@ -3,7 +3,7 @@ layout: post
 title: "Importing modules in a web browser"
 description: " "
 date: 2023-09-26
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

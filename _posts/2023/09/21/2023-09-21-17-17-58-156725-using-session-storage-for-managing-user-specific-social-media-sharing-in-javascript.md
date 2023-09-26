@@ -3,7 +3,7 @@ layout: post
 title: "Using session storage for managing user-specific social media sharing in JavaScript"
 description: " "
 date: 2023-09-21
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

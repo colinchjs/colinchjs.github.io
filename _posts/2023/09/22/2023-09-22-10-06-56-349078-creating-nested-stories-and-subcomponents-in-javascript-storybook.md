@@ -3,7 +3,7 @@ layout: post
 title: "Creating nested stories and subcomponents in Javascript Storybook"
 description: " "
 date: 2023-09-22
-tags: [Storybook, JavaScript]
+tags: [Storybook]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Optimizing performance and load times with JavaScript Module Federation in Webpack 5"
 description: " "
 date: 2023-09-18
-tags: [JavaScript, Webpack]
+tags: [Webpack]
 comments: true
 share: true
 ---

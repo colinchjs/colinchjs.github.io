@@ -3,7 +3,7 @@ layout: post
 title: "Understanding the role of swarm robotics in JavaScript iterators"
 description: " "
 date: 2023-09-15
-tags: [swarmrobotics, javascript]
+tags: [swarmrobotics]
 comments: true
 share: true
 ---

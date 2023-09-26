@@ -3,7 +3,7 @@ layout: post
 title: "Module bundling strategies in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [javascript, modulebundling]
+tags: [modulebundling]
 comments: true
 share: true
 ---

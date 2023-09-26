@@ -3,7 +3,7 @@ layout: post
 title: "Debugging JavaScript MVC applications"
 description: " "
 date: 2023-09-23
-tags: [javascript, debugging]
+tags: [debugging]
 comments: true
 share: true
 ---

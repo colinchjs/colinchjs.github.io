@@ -3,7 +3,7 @@ layout: post
 title: "Using JavaScript Proxy for data transformation pipelines"
 description: " "
 date: 2023-09-18
-tags: [JavaScript, Proxies]
+tags: [Proxies]
 comments: true
 share: true
 ---

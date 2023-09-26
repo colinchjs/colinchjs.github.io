@@ -3,7 +3,7 @@ layout: post
 title: "Event listeners for offline and online status events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [WebDevelopment, JavaScript]
+tags: [WebDevelopment]
 comments: true
 share: true
 ---

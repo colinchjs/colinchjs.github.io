@@ -3,7 +3,7 @@ layout: post
 title: "Implementing search suggestions with AJAX and JavaScript"
 description: " "
 date: 2023-09-15
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

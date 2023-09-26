@@ -3,7 +3,7 @@ layout: post
 title: "How to handle JSON querying and filtering in JavaScript."
 description: " "
 date: 2023-09-24
-tags: [JavaScript, JSON]
+tags: [JSON]
 comments: true
 share: true
 ---

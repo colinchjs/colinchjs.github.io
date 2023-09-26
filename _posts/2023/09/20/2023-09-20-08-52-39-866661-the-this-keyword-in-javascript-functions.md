@@ -3,7 +3,7 @@ layout: post
 title: "The this keyword in JavaScript Functions"
 description: " "
 date: 2023-09-20
-tags: [JavaScript, thisKeyword]
+tags: [thisKeyword]
 comments: true
 share: true
 ---

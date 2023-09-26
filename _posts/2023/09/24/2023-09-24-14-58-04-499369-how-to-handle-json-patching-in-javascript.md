@@ -3,7 +3,7 @@ layout: post
 title: "How to handle JSON patching in JavaScript."
 description: " "
 date: 2023-09-24
-tags: [techblogs, javascript]
+tags: [techblogs]
 comments: true
 share: true
 ---

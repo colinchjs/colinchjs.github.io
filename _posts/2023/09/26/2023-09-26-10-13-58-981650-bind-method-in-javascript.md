@@ -3,7 +3,7 @@ layout: post
 title: "Bind method in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, BindMethod]
+tags: [BindMethod]
 comments: true
 share: true
 ---

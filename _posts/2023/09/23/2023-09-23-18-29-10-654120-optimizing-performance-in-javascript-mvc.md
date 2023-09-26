@@ -3,7 +3,7 @@ layout: post
 title: "Optimizing performance in JavaScript MVC"
 description: " "
 date: 2023-09-23
-tags: [javascript, performance]
+tags: [performance]
 comments: true
 share: true
 ---

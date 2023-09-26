@@ -3,7 +3,7 @@ layout: post
 title: "Cookie-based language translation in JavaScript"
 description: " "
 date: 2023-09-24
-tags: [code, javascript]
+tags: [code]
 comments: true
 share: true
 ---

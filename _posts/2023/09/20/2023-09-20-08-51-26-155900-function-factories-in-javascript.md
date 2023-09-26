@@ -3,7 +3,7 @@ layout: post
 title: "Function Factories in JavaScript"
 description: " "
 date: 2023-09-20
-tags: [javascript, functionfactories]
+tags: [functionfactories]
 comments: true
 share: true
 ---

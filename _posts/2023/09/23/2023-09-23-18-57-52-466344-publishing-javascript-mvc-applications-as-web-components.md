@@ -3,7 +3,7 @@ layout: post
 title: "Publishing JavaScript MVC applications as web components"
 description: " "
 date: 2023-09-23
-tags: [webcomponents, javascript]
+tags: [webcomponents]
 comments: true
 share: true
 ---

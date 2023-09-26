@@ -3,7 +3,7 @@ layout: post
 title: "Creating design systems with Javascript Storybook"
 description: " "
 date: 2023-09-22
-tags: [designsystems, javascript]
+tags: [designsystems]
 comments: true
 share: true
 ---

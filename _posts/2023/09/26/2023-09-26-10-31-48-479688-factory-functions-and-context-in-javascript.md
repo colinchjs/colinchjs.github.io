@@ -3,7 +3,7 @@ layout: post
 title: "Factory functions and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [javascript, factoryfunctions]
+tags: [factoryfunctions]
 comments: true
 share: true
 ---

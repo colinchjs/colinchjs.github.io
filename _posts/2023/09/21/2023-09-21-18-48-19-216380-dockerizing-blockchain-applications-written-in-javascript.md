@@ -3,7 +3,7 @@ layout: post
 title: "Dockerizing blockchain applications written in Javascript"
 description: " "
 date: 2023-09-21
-tags: [blockchain, javascript]
+tags: [blockchain]
 comments: true
 share: true
 ---

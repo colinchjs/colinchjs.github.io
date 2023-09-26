@@ -3,7 +3,7 @@ layout: post
 title: "Multi-level module hierarchies in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, Modules]
+tags: [Modules]
 comments: true
 share: true
 ---

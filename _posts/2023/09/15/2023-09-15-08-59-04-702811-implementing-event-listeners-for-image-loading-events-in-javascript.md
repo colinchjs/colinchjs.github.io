@@ -3,7 +3,7 @@ layout: post
 title: "Implementing event listeners for image loading events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

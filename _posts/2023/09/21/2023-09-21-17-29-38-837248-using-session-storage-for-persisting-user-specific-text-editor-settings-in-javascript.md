@@ -3,7 +3,7 @@ layout: post
 title: "Using session storage for persisting user-specific text editor settings in JavaScript"
 description: " "
 date: 2023-09-21
-tags: [WebDevelopment, JavaScript]
+tags: [WebDevelopment]
 comments: true
 share: true
 ---

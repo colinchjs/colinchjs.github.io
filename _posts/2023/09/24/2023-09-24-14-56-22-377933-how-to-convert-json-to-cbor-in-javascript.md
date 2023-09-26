@@ -3,7 +3,7 @@ layout: post
 title: "How to convert JSON to CBOR in JavaScript."
 description: " "
 date: 2023-09-24
-tags: [JSONtoCBOR, JavaScript]
+tags: [JSONtoCBOR]
 comments: true
 share: true
 ---

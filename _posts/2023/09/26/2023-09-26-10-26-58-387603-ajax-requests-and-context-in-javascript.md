@@ -3,7 +3,7 @@ layout: post
 title: "AJAX requests and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [AJAX, JavaScript]
+tags: [AJAX]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using JavaScript Proxy for promise chaining enhancement"
 description: " "
 date: 2023-09-18
-tags: [javascript, promises]
+tags: [promises]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Currying vs Partial Application in JavaScript Functions"
 description: " "
 date: 2023-09-20
-tags: [javascript, functionalprogramming]
+tags: [functionalprogramming]
 comments: true
 share: true
 ---

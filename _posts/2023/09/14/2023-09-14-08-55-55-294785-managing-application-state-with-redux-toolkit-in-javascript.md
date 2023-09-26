@@ -3,7 +3,7 @@ layout: post
 title: "Managing application state with Redux Toolkit in JavaScript"
 description: " "
 date: 2023-09-14
-tags: [Tech, JavaScript]
+tags: [Tech]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a proxy-based event sourcing system in JavaScript"
 description: " "
 date: 2023-09-18
-tags: [eventSourcing, JavaScript]
+tags: [eventSourcing]
 comments: true
 share: true
 ---

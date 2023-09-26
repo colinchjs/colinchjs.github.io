@@ -3,7 +3,7 @@ layout: post
 title: "Applying dynamic form validation with JavaScript Proxy"
 description: " "
 date: 2023-09-18
-tags: [javascript, webdevelopment]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

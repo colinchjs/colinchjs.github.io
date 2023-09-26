@@ -3,7 +3,7 @@ layout: post
 title: "Optimizing JavaScript modules for performance"
 description: " "
 date: 2023-09-26
-tags: [javascript, performance]
+tags: [performance]
 comments: true
 share: true
 ---

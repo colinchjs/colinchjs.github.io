@@ -3,7 +3,7 @@ layout: post
 title: "Using Map object to implement a message queue in a web application"
 description: " "
 date: 2023-09-23
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

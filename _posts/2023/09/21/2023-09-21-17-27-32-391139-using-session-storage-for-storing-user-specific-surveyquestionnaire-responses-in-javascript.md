@@ -3,7 +3,7 @@ layout: post
 title: "Using session storage for storing user-specific survey/questionnaire responses in JavaScript"
 description: " "
 date: 2023-09-21
-tags: [TechBlog, JavaScript]
+tags: [TechBlog]
 comments: true
 share: true
 ---

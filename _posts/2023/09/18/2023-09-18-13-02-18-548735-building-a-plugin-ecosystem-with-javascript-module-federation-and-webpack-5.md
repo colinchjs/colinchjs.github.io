@@ -3,7 +3,7 @@ layout: post
 title: "Building a plugin ecosystem with JavaScript Module Federation and Webpack 5"
 description: " "
 date: 2023-09-18
-tags: [javascript, modulefederation]
+tags: [modulefederation]
 comments: true
 share: true
 ---

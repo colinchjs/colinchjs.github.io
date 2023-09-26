@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a proxy-based event logging in JavaScript"
 description: " "
 date: 2023-09-18
-tags: [eventlogging, javascript]
+tags: [eventlogging]
 comments: true
 share: true
 ---

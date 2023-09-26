@@ -3,7 +3,7 @@ layout: post
 title: "Nested Functions in JavaScript"
 description: " "
 date: 2023-09-20
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

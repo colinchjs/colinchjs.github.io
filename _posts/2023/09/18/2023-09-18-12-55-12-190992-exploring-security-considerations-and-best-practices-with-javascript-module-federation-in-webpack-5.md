@@ -3,7 +3,7 @@ layout: post
 title: "Exploring security considerations and best practices with JavaScript Module Federation in Webpack 5"
 description: " "
 date: 2023-09-18
-tags: [JavaScript, Webpack5]
+tags: [Webpack5]
 comments: true
 share: true
 ---

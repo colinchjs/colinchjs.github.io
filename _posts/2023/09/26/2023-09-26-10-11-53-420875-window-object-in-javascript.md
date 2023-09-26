@@ -3,7 +3,7 @@ layout: post
 title: "Window object in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [javascript, webdevelopment]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

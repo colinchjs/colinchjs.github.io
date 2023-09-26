@@ -3,7 +3,7 @@ layout: post
 title: "Exploring performance monitoring and profiling techniques in JavaScript Module Federation with Webpack 5"
 description: " "
 date: 2023-09-18
-tags: [JavaScript, Webpack5]
+tags: [Webpack5]
 comments: true
 share: true
 ---

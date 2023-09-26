@@ -3,7 +3,7 @@ layout: post
 title: "Cookie-based user tracking for customer satisfaction analysis in JavaScript"
 description: " "
 date: 2023-09-24
-tags: [JavaScript, CustomerSatisfactionAnalysis]
+tags: [CustomerSatisfactionAnalysis]
 comments: true
 share: true
 ---

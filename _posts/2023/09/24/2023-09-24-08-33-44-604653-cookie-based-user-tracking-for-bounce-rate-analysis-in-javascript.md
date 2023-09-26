@@ -3,7 +3,7 @@ layout: post
 title: "Cookie-based user tracking for bounce rate analysis in JavaScript"
 description: " "
 date: 2023-09-24
-tags: [JavaScript, BounceRate]
+tags: [BounceRate]
 comments: true
 share: true
 ---

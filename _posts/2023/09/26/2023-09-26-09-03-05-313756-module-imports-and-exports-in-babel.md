@@ -3,7 +3,7 @@ layout: post
 title: "Module imports and exports in Babel"
 description: " "
 date: 2023-09-26
-tags: [babel, javascript]
+tags: [babel]
 comments: true
 share: true
 ---

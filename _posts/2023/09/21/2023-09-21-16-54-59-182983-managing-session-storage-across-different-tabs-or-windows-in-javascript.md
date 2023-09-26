@@ -3,7 +3,7 @@ layout: post
 title: "Managing session storage across different tabs or windows in JavaScript"
 description: " "
 date: 2023-09-21
-tags: [javascript, sessionstorage]
+tags: [sessionstorage]
 comments: true
 share: true
 ---

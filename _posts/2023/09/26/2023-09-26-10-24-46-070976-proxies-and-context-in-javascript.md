@@ -3,7 +3,7 @@ layout: post
 title: "Proxies and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [programming, JavaScript]
+tags: [programming]
 comments: true
 share: true
 ---

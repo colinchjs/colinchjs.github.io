@@ -3,7 +3,7 @@ layout: post
 title: "Strategies for securely handling browser storage mechanisms in JavaScript to prevent CSRF vulnerabilities"
 description: " "
 date: 2023-09-14
-tags: [Cybersecurity, JavaScript]
+tags: [Cybersecurity]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Managing Rollup.js configurations for large-scale projects with multiple modules"
 description: " "
 date: 2023-09-18
-tags: [Rollup, Javascript]
+tags: [Rollup]
 comments: true
 share: true
 ---

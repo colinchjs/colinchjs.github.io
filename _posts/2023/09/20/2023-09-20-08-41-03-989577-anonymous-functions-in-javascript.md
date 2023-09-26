@@ -3,7 +3,7 @@ layout: post
 title: "Anonymous Functions in JavaScript"
 description: " "
 date: 2023-09-20
-tags: [JavaScript, AnonymousFunctions]
+tags: [AnonymousFunctions]
 comments: true
 share: true
 ---

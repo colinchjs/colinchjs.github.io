@@ -3,7 +3,7 @@ layout: post
 title: "How to check if a value exists in session storage using JavaScript"
 description: " "
 date: 2023-09-21
-tags: [javascript, sessionstorage]
+tags: [sessionstorage]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Ternary operators for dynamic input validation in JavaScript frameworks"
 description: " "
 date: 2023-09-19
-tags: [javascript, validation]
+tags: [validation]
 comments: true
 share: true
 ---

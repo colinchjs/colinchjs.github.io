@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for using Javascript Storybook effectively"
 description: " "
 date: 2023-09-22
-tags: [javascript, storybook]
+tags: [storybook]
 comments: true
 share: true
 ---

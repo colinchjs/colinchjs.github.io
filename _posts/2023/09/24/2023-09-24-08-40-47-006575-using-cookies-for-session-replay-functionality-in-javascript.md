@@ -3,7 +3,7 @@ layout: post
 title: "Using cookies for session replay functionality in JavaScript"
 description: " "
 date: 2023-09-24
-tags: [DevTips, JavaScript]
+tags: [DevTips]
 comments: true
 share: true
 ---

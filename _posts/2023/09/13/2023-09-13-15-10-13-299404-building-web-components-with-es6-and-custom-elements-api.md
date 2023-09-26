@@ -3,7 +3,7 @@ layout: post
 title: "Building Web Components with ES6 and Custom Elements API"
 description: " "
 date: 2023-09-13
-tags: [webcomponents, javascript]
+tags: [webcomponents]
 comments: true
 share: true
 ---

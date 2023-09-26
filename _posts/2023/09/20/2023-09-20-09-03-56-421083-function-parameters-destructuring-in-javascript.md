@@ -3,7 +3,7 @@ layout: post
 title: "Function Parameters Destructuring in JavaScript"
 description: " "
 date: 2023-09-20
-tags: [javascript, destructuring]
+tags: [destructuring]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Building a podcast streaming app using AJAX and JavaScript"
 description: " "
 date: 2023-09-15
-tags: [podcast, javascript]
+tags: [podcast]
 comments: true
 share: true
 ---

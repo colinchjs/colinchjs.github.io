@@ -3,7 +3,7 @@ layout: post
 title: "Using objects as keys in a Map object"
 description: " "
 date: 2023-09-23
-tags: [JavaScript, Objects]
+tags: [Objects]
 comments: true
 share: true
 ---

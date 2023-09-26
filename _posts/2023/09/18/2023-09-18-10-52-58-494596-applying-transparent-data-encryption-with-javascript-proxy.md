@@ -3,7 +3,7 @@ layout: post
 title: "Applying transparent data encryption with JavaScript Proxy"
 description: " "
 date: 2023-09-18
-tags: [encryption, javascript]
+tags: [encryption]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Event-driven programming and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [coding, JavaScript]
+tags: [coding]
 comments: true
 share: true
 ---

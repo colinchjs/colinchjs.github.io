@@ -3,7 +3,7 @@ layout: post
 title: "Using Map object to count the occurrences of values in an array"
 description: " "
 date: 2023-09-23
-tags: [programming, javascript]
+tags: [programming]
 comments: true
 share: true
 ---

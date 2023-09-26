@@ -3,7 +3,7 @@ layout: post
 title: "Using session storage for persisting user-specific sorting preferences in JavaScript"
 description: " "
 date: 2023-09-21
-tags: [sortingSelect, sortingSelect, webdevelopment, javascript]
+tags: [sortingSelect, sortingSelect, webdevelopment]
 comments: true
 share: true
 ---

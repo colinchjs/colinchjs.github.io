@@ -3,7 +3,7 @@ layout: post
 title: "Managing cookie size and browser limitations in JavaScript"
 description: " "
 date: 2023-09-24
-tags: [JavaScript, CookieManagement]
+tags: [CookieManagement]
 comments: true
 share: true
 ---

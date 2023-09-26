@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a proxy-based load balancing system in JavaScript"
 description: " "
 date: 2023-09-18
-tags: [loadbalancing, javascript]
+tags: [loadbalancing]
 comments: true
 share: true
 ---

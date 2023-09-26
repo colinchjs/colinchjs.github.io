@@ -3,7 +3,7 @@ layout: post
 title: "Function Prototypes vs Classes in JavaScript"
 description: " "
 date: 2023-09-20
-tags: [javascript]
+tags: []
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Memoization and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [javascript, memoization]
+tags: [memoization]
 comments: true
 share: true
 ---

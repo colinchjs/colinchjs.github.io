@@ -3,7 +3,7 @@ layout: post
 title: "Immediately Invoked Function Expressions with Closure in JavaScript"
 description: " "
 date: 2023-09-20
-tags: [JavaScript, Closures]
+tags: [Closures]
 comments: true
 share: true
 ---

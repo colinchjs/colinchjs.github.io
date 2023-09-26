@@ -3,7 +3,7 @@ layout: post
 title: "Implementing data visualization in JavaScript MVC"
 description: " "
 date: 2023-09-23
-tags: [javascript, datavisualization]
+tags: [datavisualization]
 comments: true
 share: true
 ---

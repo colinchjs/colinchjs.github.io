@@ -3,7 +3,7 @@ layout: post
 title: "Syntax of a JavaScript Function"
 description: " "
 date: 2023-09-20
-tags: [javascript, programming]
+tags: [programming]
 comments: true
 share: true
 ---

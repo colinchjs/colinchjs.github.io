@@ -3,7 +3,7 @@ layout: post
 title: "Module caching in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, ModuleCaching]
+tags: [ModuleCaching]
 comments: true
 share: true
 ---

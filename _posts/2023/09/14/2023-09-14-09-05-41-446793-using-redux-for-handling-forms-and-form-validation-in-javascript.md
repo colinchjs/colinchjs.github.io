@@ -3,7 +3,7 @@ layout: post
 title: "Using Redux for handling forms and form validation in JavaScript"
 description: " "
 date: 2023-09-14
-tags: [TechBlog, JavaScript]
+tags: [TechBlog]
 comments: true
 share: true
 ---

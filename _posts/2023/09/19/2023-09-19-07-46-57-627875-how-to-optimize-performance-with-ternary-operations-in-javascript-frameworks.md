@@ -3,7 +3,7 @@ layout: post
 title: "How to optimize performance with ternary operations in JavaScript frameworks"
 description: " "
 date: 2023-09-19
-tags: [JavaScript, PerformanceOptimization]
+tags: [PerformanceOptimization]
 comments: true
 share: true
 ---

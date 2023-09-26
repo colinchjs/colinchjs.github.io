@@ -3,7 +3,7 @@ layout: post
 title: "Using session storage for storing user-specific analytics tracking preferences in JavaScript"
 description: " "
 date: 2023-09-21
-tags: [JavaScript, SessionStorage, Analytics, UserPreferences]
+tags: [SessionStorage, Analytics, UserPreferences]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Tail Call Optimization in JavaScript Functions"
 description: " "
 date: 2023-09-20
-tags: [JavaScript, TailCallOptimization]
+tags: [TailCallOptimization]
 comments: true
 share: true
 ---

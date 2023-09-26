@@ -3,7 +3,7 @@ layout: post
 title: "Ternary operations for handling edge cases in JavaScript development"
 description: " "
 date: 2023-09-19
-tags: [JavaScript, EdgeCases]
+tags: [EdgeCases]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Creating a proxy-based code generation tool in JavaScript"
 description: " "
 date: 2023-09-18
-tags: [programming, javascript]
+tags: [programming]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Exploring progressive enhancement and graceful degradation strategies with JavaScript Module Federation in Webpack 5"
 description: " "
 date: 2023-09-18
-tags: [techblog, javascript]
+tags: [techblog]
 comments: true
 share: true
 ---

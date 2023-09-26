@@ -3,7 +3,7 @@ layout: post
 title: "Implementing session-based CSRF protection with session storage in JavaScript"
 description: " "
 date: 2023-09-21
-tags: [javascript, csrf, security]
+tags: [csrf, security]
 comments: true
 share: true
 ---

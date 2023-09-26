@@ -3,7 +3,7 @@ layout: post
 title: "Using JavaScript Proxy for API mocking"
 description: " "
 date: 2023-09-18
-tags: [javascript, apimocking]
+tags: [apimocking]
 comments: true
 share: true
 ---

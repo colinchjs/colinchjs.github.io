@@ -3,7 +3,7 @@ layout: post
 title: "Using session storage for implementing user-based recommendations in JavaScript"
 description: " "
 date: 2023-09-21
-tags: [javascript, sessionstorage, recommendations]
+tags: [sessionstorage, recommendations]
 comments: true
 share: true
 ---

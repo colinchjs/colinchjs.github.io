@@ -3,7 +3,7 @@ layout: post
 title: "Using Docker for speech recognition in Javascript applications"
 description: " "
 date: 2023-09-21
-tags: [javascript, docker]
+tags: [docker]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using Promises for Asynchronous Programming in ES6"
 description: " "
 date: 2023-09-13
-tags: [TechBlog, JavaScript, Promises]
+tags: [TechBlog, Promises]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "How to handle pagination in JSON data using JavaScript."
 description: " "
 date: 2023-09-24
-tags: [javascript, pagination]
+tags: [pagination]
 comments: true
 share: true
 ---

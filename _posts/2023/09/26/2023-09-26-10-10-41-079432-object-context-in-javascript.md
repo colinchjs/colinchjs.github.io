@@ -3,7 +3,7 @@ layout: post
 title: "Object context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, ObjectContext]
+tags: [ObjectContext]
 comments: true
 share: true
 ---

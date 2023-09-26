@@ -3,7 +3,7 @@ layout: post
 title: "Working with session cookies in JavaScript"
 description: " "
 date: 2023-09-24
-tags: [javascript, sessioncookies]
+tags: [sessioncookies]
 comments: true
 share: true
 ---

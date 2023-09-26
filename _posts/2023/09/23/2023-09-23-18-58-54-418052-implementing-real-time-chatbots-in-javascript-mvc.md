@@ -3,7 +3,7 @@ layout: post
 title: "Implementing real-time chatbots in JavaScript MVC"
 description: " "
 date: 2023-09-23
-tags: [chatbots, JavaScript]
+tags: [chatbots]
 comments: true
 share: true
 ---

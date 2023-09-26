@@ -3,7 +3,7 @@ layout: post
 title: "Importing and using classes from a JavaScript module"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, Modules]
+tags: [Modules]
 comments: true
 share: true
 ---

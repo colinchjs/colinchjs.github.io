@@ -3,7 +3,7 @@ layout: post
 title: "How to handle AJAX errors in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [error, javascript]
+tags: [error]
 comments: true
 share: true
 ---

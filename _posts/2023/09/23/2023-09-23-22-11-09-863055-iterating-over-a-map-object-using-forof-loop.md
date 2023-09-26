@@ -3,7 +3,7 @@ layout: post
 title: "Iterating over a Map object using for...of loop"
 description: " "
 date: 2023-09-23
-tags: [JavaScript, MapObject]
+tags: [MapObject]
 comments: true
 share: true
 ---

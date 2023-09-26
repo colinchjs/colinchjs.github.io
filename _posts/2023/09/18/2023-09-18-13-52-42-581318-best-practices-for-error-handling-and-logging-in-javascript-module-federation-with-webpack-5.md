@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for error handling and logging in JavaScript Module Federation with Webpack 5"
 description: " "
 date: 2023-09-18
-tags: [JavaScript, ErrorHandling]
+tags: [ErrorHandling]
 comments: true
 share: true
 ---

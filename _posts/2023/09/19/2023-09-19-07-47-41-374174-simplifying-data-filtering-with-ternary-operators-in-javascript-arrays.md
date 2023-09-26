@@ -3,7 +3,7 @@ layout: post
 title: "Simplifying data filtering with ternary operators in JavaScript arrays"
 description: " "
 date: 2023-09-19
-tags: [javascript, datafiltering, javascriptarrays]
+tags: [datafiltering, javascriptarrays]
 comments: true
 share: true
 ---

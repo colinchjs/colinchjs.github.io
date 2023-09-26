@@ -3,7 +3,7 @@ layout: post
 title: "Handling errors and exceptions in JavaScript MVC"
 description: " "
 date: 2023-09-23
-tags: [TechBlog, JavaScript]
+tags: [TechBlog]
 comments: true
 share: true
 ---

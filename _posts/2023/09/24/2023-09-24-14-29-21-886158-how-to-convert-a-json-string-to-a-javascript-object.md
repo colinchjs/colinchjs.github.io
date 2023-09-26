@@ -3,7 +3,7 @@ layout: post
 title: "How to convert a JSON string to a JavaScript object."
 description: " "
 date: 2023-09-24
-tags: [JSON, Javascript]
+tags: [JSON]
 comments: true
 share: true
 ---

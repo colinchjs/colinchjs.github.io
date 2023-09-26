@@ -3,7 +3,7 @@ layout: post
 title: "An overview of the current limitations and challenges of JavaScript Module Federation in Webpack 5"
 description: " "
 date: 2023-09-18
-tags: [webpack, javascript]
+tags: [webpack]
 comments: true
 share: true
 ---

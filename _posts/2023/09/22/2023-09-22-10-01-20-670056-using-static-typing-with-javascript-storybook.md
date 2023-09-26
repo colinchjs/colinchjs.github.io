@@ -3,7 +3,7 @@ layout: post
 title: "Using static typing with Javascript Storybook"
 description: " "
 date: 2023-09-22
-tags: [Tech, JavaScript]
+tags: [Tech]
 comments: true
 share: true
 ---

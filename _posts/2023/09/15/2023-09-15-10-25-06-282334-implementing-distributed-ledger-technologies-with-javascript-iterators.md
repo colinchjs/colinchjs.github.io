@@ -3,7 +3,7 @@ layout: post
 title: "Implementing distributed ledger technologies with JavaScript iterators"
 description: " "
 date: 2023-09-15
-tags: [blockchain, JavaScript]
+tags: [blockchain]
 comments: true
 share: true
 ---

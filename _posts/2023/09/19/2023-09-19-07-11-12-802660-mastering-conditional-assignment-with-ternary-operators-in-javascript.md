@@ -3,7 +3,7 @@ layout: post
 title: "Mastering conditional assignment with ternary operators in JavaScript"
 description: " "
 date: 2023-09-19
-tags: [javascript, conditionalassignment]
+tags: [conditionalassignment]
 comments: true
 share: true
 ---

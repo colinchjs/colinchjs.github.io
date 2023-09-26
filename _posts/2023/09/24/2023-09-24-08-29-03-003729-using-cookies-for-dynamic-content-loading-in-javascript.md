@@ -3,7 +3,7 @@ layout: post
 title: "Using cookies for dynamic content loading in JavaScript"
 description: " "
 date: 2023-09-24
-tags: [WebDevelopment, JavaScript]
+tags: [WebDevelopment]
 comments: true
 share: true
 ---

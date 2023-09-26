@@ -3,7 +3,7 @@ layout: post
 title: "React and its approach to JavaScript MVC"
 description: " "
 date: 2023-09-23
-tags: [React, JavaScript]
+tags: [React]
 comments: true
 share: true
 ---

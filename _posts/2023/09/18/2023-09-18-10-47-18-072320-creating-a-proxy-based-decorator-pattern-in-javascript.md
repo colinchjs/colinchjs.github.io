@@ -3,7 +3,7 @@ layout: post
 title: "Creating a proxy-based decorator pattern in JavaScript"
 description: " "
 date: 2023-09-18
-tags: [JavaScript, DecoratorPattern]
+tags: [DecoratorPattern]
 comments: true
 share: true
 ---

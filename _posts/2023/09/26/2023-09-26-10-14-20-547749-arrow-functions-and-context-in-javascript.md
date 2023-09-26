@@ -3,7 +3,7 @@ layout: post
 title: "Arrow functions and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [javascript, arrowfunctions]
+tags: [arrowfunctions]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for avoiding nested ternary operations in JavaScript code"
 description: " "
 date: 2023-09-19
-tags: [JavaScript, ConditionalLogic]
+tags: [ConditionalLogic]
 comments: true
 share: true
 ---

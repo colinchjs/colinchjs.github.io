@@ -3,7 +3,7 @@ layout: post
 title: "Applying rate limit enforcement with JavaScript Proxy"
 description: " "
 date: 2023-09-18
-tags: [hashtags, JavaScript]
+tags: [hashtags]
 comments: true
 share: true
 ---

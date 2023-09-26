@@ -3,7 +3,7 @@ layout: post
 title: "Using session storage for managing user-specific offline mode settings in JavaScript"
 description: " "
 date: 2023-09-21
-tags: [javascript, sessionstorage, offlinemode]
+tags: [sessionstorage, offlinemode]
 comments: true
 share: true
 ---

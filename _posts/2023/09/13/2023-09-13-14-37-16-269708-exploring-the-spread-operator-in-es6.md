@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the Spread Operator in ES6"
 description: " "
 date: 2023-09-13
-tags: [SpreadOperator, JavaScript]
+tags: [SpreadOperator]
 comments: true
 share: true
 ---

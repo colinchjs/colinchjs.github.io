@@ -3,7 +3,7 @@ layout: post
 title: "Implementing server-side rendering with JavaScript Module Federation and Webpack 5"
 description: " "
 date: 2023-09-18
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

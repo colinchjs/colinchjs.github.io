@@ -3,7 +3,7 @@ layout: post
 title: "Deploying virtual assistants with Docker and Javascript"
 description: " "
 date: 2023-09-21
-tags: [VirtualAssistants, Docker, JavaScript]
+tags: [VirtualAssistants, Docker]
 comments: true
 share: true
 ---

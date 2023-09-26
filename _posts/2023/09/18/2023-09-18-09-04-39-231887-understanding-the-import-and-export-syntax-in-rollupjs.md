@@ -3,7 +3,7 @@ layout: post
 title: "Understanding the import and export syntax in Rollup.js"
 description: " "
 date: 2023-09-18
-tags: [rollupjs, javascript]
+tags: [rollupjs]
 comments: true
 share: true
 ---

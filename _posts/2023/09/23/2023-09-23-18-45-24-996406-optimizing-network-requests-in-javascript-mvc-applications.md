@@ -3,7 +3,7 @@ layout: post
 title: "Optimizing network requests in JavaScript MVC applications"
 description: " "
 date: 2023-09-23
-tags: [javascript, networkrequests]
+tags: [networkrequests]
 comments: true
 share: true
 ---

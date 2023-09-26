@@ -3,7 +3,7 @@ layout: post
 title: "Exploring dynamic module loading with JavaScript Module Federation and Webpack 5"
 description: " "
 date: 2023-09-18
-tags: [JavaScript, ModuleFederation]
+tags: [ModuleFederation]
 comments: true
 share: true
 ---

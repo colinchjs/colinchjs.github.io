@@ -3,7 +3,7 @@ layout: post
 title: "Monorepo organization with JavaScript modules"
 description: " "
 date: 2023-09-26
-tags: [javascript, monorepo]
+tags: [monorepo]
 comments: true
 share: true
 ---

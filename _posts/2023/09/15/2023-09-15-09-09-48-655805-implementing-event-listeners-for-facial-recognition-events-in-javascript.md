@@ -3,7 +3,7 @@ layout: post
 title: "Implementing event listeners for facial recognition events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [facialrecognition, javascript]
+tags: [facialrecognition]
 comments: true
 share: true
 ---

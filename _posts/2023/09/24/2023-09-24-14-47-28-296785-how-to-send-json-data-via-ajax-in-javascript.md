@@ -3,7 +3,7 @@ layout: post
 title: "How to send JSON data via AJAX in JavaScript."
 description: " "
 date: 2023-09-24
-tags: [javascript, ajax]
+tags: [ajax]
 comments: true
 share: true
 ---

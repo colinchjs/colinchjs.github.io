@@ -3,7 +3,7 @@ layout: post
 title: "Implementing event listeners for touch events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [mobilewebdevelopment, JavaScript]
+tags: [mobilewebdevelopment]
 comments: true
 share: true
 ---

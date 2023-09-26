@@ -3,7 +3,7 @@ layout: post
 title: "Clearing all key-value pairs from a Map object"
 description: " "
 date: 2023-09-23
-tags: [JavaScript, DataStructure]
+tags: [DataStructure]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Disadvantages of using JavaScript modules"
 description: " "
 date: 2023-09-26
-tags: [javascript, webdevelopment]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

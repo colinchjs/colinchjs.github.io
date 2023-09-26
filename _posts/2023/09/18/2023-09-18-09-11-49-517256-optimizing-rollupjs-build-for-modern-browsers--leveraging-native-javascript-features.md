@@ -3,7 +3,7 @@ layout: post
 title: "Optimizing Rollup.js build for modern browsers – leveraging native JavaScript features"
 description: " "
 date: 2023-09-18
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Setting expiration date for a JavaScript cookie"
 description: " "
 date: 2023-09-24
-tags: [JavaScript, cookies]
+tags: [cookies]
 comments: true
 share: true
 ---

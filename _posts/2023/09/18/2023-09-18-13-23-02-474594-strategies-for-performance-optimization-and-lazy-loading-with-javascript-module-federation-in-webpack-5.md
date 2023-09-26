@@ -3,7 +3,7 @@ layout: post
 title: "Strategies for performance optimization and lazy loading with JavaScript Module Federation in Webpack 5"
 description: " "
 date: 2023-09-18
-tags: [JavaScript, Webpack5]
+tags: [Webpack5]
 comments: true
 share: true
 ---

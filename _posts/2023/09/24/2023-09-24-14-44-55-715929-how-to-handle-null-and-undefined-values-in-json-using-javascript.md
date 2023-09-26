@@ -3,7 +3,7 @@ layout: post
 title: "How to handle null and undefined values in JSON using JavaScript."
 description: " "
 date: 2023-09-24
-tags: [JavaScript, JSONHandling]
+tags: [JSONHandling]
 comments: true
 share: true
 ---

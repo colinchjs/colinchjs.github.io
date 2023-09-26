@@ -3,7 +3,7 @@ layout: post
 title: "Examples of using ternary operators for data manipulation in JavaScript"
 description: " "
 date: 2023-09-19
-tags: [javascript, data]
+tags: [data]
 comments: true
 share: true
 ---

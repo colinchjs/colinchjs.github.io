@@ -3,7 +3,7 @@ layout: post
 title: "Using JavaScript Proxy for object pooling"
 description: " "
 date: 2023-09-18
-tags: [ObjectPooling, JavaScript]
+tags: [ObjectPooling]
 comments: true
 share: true
 ---

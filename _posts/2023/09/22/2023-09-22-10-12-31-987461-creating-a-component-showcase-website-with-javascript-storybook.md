@@ -3,7 +3,7 @@ layout: post
 title: "Creating a component showcase website with Javascript Storybook"
 description: " "
 date: 2023-09-22
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

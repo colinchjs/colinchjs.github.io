@@ -3,7 +3,7 @@ layout: post
 title: "Validating JSON data in JavaScript."
 description: " "
 date: 2023-09-24
-tags: [JSON, JavaScript]
+tags: [JSON]
 comments: true
 share: true
 ---

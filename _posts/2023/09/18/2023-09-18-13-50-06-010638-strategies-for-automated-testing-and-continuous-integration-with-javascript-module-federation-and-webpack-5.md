@@ -3,7 +3,7 @@ layout: post
 title: "Strategies for automated testing and continuous integration with JavaScript Module Federation and Webpack 5"
 description: " "
 date: 2023-09-18
-tags: [JavaScript, Webpack5]
+tags: [Webpack5]
 comments: true
 share: true
 ---

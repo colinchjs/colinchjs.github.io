@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging reactive programming with JavaScript Module Federation and Webpack 5"
 description: " "
 date: 2023-09-18
-tags: [reactiveprogramming, javascript]
+tags: [reactiveprogramming]
 comments: true
 share: true
 ---

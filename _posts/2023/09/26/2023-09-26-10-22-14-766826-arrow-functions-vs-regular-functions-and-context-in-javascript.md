@@ -3,7 +3,7 @@ layout: post
 title: "Arrow functions vs regular functions and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [programming, javascript]
+tags: [programming]
 comments: true
 share: true
 ---

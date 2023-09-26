@@ -3,7 +3,7 @@ layout: post
 title: "Memoization vs Caching in JavaScript Functions"
 description: " "
 date: 2023-09-20
-tags: [javascript, performance]
+tags: [performance]
 comments: true
 share: true
 ---

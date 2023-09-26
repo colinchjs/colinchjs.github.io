@@ -3,7 +3,7 @@ layout: post
 title: "Using session storage for storing user activity logs in JavaScript"
 description: " "
 date: 2023-09-21
-tags: [JavaScript, UserActivityLogs]
+tags: [UserActivityLogs]
 comments: true
 share: true
 ---

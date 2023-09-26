@@ -3,7 +3,7 @@ layout: post
 title: "Using session storage to store temporary user data in JavaScript"
 description: " "
 date: 2023-09-21
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

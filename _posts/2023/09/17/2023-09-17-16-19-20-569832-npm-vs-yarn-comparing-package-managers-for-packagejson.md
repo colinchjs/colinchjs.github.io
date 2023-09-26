@@ -3,7 +3,7 @@ layout: post
 title: "NPM vs Yarn: Comparing package managers for package.json"
 description: " "
 date: 2023-09-17
-tags: [yarn, package, javascript]
+tags: [yarn, package]
 comments: true
 share: true
 ---

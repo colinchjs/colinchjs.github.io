@@ -3,7 +3,7 @@ layout: post
 title: "Dockerizing GraphQL servers for Javascript applications"
 description: " "
 date: 2023-09-21
-tags: [hashtags, docker, graphql, javascript]
+tags: [hashtags, docker, graphql]
 comments: true
 share: true
 ---

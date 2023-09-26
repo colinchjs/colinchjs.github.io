@@ -3,7 +3,7 @@ layout: post
 title: "IIFE and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [javascript, IIFE]
+tags: [IIFE]
 comments: true
 share: true
 ---

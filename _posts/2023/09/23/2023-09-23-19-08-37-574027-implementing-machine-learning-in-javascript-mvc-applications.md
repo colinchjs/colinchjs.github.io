@@ -3,7 +3,7 @@ layout: post
 title: "Implementing machine learning in JavaScript MVC applications"
 description: " "
 date: 2023-09-23
-tags: [machinelearning, javascript]
+tags: [machinelearning]
 comments: true
 share: true
 ---

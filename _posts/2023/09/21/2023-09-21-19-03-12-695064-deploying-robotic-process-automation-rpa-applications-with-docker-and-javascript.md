@@ -3,7 +3,7 @@ layout: post
 title: "Deploying robotic process automation (RPA) applications with Docker and Javascript"
 description: " "
 date: 2023-09-21
-tags: [Docker, Javascript]
+tags: [Docker]
 comments: true
 share: true
 ---

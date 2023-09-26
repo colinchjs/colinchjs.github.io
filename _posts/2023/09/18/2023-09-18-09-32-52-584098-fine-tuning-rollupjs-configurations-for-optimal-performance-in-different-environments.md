@@ -3,7 +3,7 @@ layout: post
 title: "Fine-tuning Rollup.js configurations for optimal performance in different environments"
 description: " "
 date: 2023-09-18
-tags: [rollup, JavaScript]
+tags: [rollup]
 comments: true
 share: true
 ---

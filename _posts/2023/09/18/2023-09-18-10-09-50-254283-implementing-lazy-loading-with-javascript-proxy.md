@@ -3,7 +3,7 @@ layout: post
 title: "Implementing lazy loading with JavaScript Proxy"
 description: " "
 date: 2023-09-18
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

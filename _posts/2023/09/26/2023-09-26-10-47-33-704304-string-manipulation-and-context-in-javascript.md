@@ -3,7 +3,7 @@ layout: post
 title: "String manipulation and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, StringManipulation]
+tags: [StringManipulation]
 comments: true
 share: true
 ---

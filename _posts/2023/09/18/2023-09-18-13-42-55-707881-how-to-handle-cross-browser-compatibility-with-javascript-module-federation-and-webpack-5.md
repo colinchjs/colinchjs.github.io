@@ -3,7 +3,7 @@ layout: post
 title: "How to handle cross-browser compatibility with JavaScript Module Federation and Webpack 5"
 description: " "
 date: 2023-09-18
-tags: [hashtags, JavaScript]
+tags: [hashtags]
 comments: true
 share: true
 ---

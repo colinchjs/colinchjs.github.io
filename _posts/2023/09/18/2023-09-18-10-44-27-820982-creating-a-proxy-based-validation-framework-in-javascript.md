@@ -3,7 +3,7 @@ layout: post
 title: "Creating a proxy-based validation framework in JavaScript"
 description: " "
 date: 2023-09-18
-tags: [javascript, programming]
+tags: [programming]
 comments: true
 share: true
 ---

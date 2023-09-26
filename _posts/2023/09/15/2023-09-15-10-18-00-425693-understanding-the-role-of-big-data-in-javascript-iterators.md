@@ -3,7 +3,7 @@ layout: post
 title: "Understanding the role of big data in JavaScript iterators"
 description: " "
 date: 2023-09-15
-tags: [bigdata, javascript]
+tags: [bigdata]
 comments: true
 share: true
 ---

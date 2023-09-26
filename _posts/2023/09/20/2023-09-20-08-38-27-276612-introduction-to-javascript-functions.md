@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to JavaScript Functions"
 description: " "
 date: 2023-09-20
-tags: [javascript, coding]
+tags: [coding]
 comments: true
 share: true
 ---

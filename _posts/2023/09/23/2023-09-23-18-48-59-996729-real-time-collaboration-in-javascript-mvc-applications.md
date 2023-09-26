@@ -3,7 +3,7 @@ layout: post
 title: "Real-time collaboration in JavaScript MVC applications"
 description: " "
 date: 2023-09-23
-tags: [javascript, realtimecollaboration]
+tags: [realtimecollaboration]
 comments: true
 share: true
 ---

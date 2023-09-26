@@ -3,7 +3,7 @@ layout: post
 title: "Handling state management with ternary operators in JavaScript frameworks"
 description: " "
 date: 2023-09-19
-tags: [JavaScript, StateManagement]
+tags: [StateManagement]
 comments: true
 share: true
 ---

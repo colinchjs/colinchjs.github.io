@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for chaining ternary operators in JavaScript"
 description: " "
 date: 2023-09-19
-tags: [javascript, codetips]
+tags: [codetips]
 comments: true
 share: true
 ---

@@ -3,14 +3,14 @@ layout: post
 title: "Dynamic context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, WebDevelopment]
+tags: [WebDevelopment]
 comments: true
 share: true
 ---
 title: Dynamic Context in JavaScript
 author: [Your Name]
 date: [Current Date]
-tags: [JavaScript, Web Development]
+tags: [Web Development]
 ---
 
 In JavaScript, the execution context determines how variables, functions, and objects are accessed and executed within a given scope. There are mainly three types of execution contexts: global, function, and eval contexts. While the global and function contexts are static and can be easily determined, the eval context is dynamically created during the execution of code in the eval() function.

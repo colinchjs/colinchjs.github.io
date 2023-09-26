@@ -3,7 +3,7 @@ layout: post
 title: "Organizing modules in JavaScript projects"
 description: " "
 date: 2023-09-26
-tags: [javascript, modularprogramming]
+tags: [modularprogramming]
 comments: true
 share: true
 ---

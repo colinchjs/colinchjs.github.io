@@ -3,7 +3,7 @@ layout: post
 title: "Limitations of JavaScript cookies"
 description: " "
 date: 2023-09-24
-tags: [JavaScript, WebDevelopment]
+tags: [WebDevelopment]
 comments: true
 share: true
 ---

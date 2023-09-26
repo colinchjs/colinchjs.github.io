@@ -3,7 +3,7 @@ layout: post
 title: "Polyfilling JavaScript modules"
 description: " "
 date: 2023-09-26
-tags: [polyfill, JavaScript]
+tags: [polyfill]
 comments: true
 share: true
 ---

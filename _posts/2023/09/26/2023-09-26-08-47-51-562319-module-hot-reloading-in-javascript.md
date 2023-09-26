@@ -3,7 +3,7 @@ layout: post
 title: "Module hot reloading in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, HotReloading]
+tags: [HotReloading]
 comments: true
 share: true
 ---

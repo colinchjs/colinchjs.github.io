@@ -3,7 +3,7 @@ layout: post
 title: "Implementing environment-specific configurations with Rollup.js"
 description: " "
 date: 2023-09-18
-tags: [RollupJS, JavaScript]
+tags: [RollupJS]
 comments: true
 share: true
 ---

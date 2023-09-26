@@ -3,7 +3,7 @@ layout: post
 title: "Creating a proxy-based data binding system in JavaScript"
 description: " "
 date: 2023-09-18
-tags: [javascript, databinding]
+tags: [databinding]
 comments: true
 share: true
 ---

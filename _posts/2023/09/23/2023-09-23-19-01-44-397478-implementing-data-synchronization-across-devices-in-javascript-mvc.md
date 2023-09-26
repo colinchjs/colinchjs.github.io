@@ -3,7 +3,7 @@ layout: post
 title: "Implementing data synchronization across devices in JavaScript MVC"
 description: " "
 date: 2023-09-23
-tags: [JavaScript, DataSync]
+tags: [DataSync]
 comments: true
 share: true
 ---

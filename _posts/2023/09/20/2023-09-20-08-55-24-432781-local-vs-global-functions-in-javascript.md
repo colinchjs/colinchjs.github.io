@@ -3,7 +3,7 @@ layout: post
 title: "Local vs Global Functions in JavaScript"
 description: " "
 date: 2023-09-20
-tags: [javascript, functions]
+tags: [functions]
 comments: true
 share: true
 ---

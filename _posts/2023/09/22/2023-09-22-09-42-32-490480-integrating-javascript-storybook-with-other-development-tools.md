@@ -3,7 +3,7 @@ layout: post
 title: "Integrating Javascript Storybook with other development tools"
 description: " "
 date: 2023-09-22
-tags: [storybook, javascript]
+tags: [storybook]
 comments: true
 share: true
 ---

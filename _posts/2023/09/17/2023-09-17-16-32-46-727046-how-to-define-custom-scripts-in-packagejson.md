@@ -3,7 +3,7 @@ layout: post
 title: "How to define custom scripts in package.json"
 description: " "
 date: 2023-09-17
-tags: [tags, NodeJS, JavaScript]
+tags: [tags, NodeJS]
 comments: true
 share: true
 ---

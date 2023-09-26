@@ -3,7 +3,7 @@ layout: post
 title: "Converting a Map object to an object literal"
 description: " "
 date: 2023-09-23
-tags: [JavaScript, MapToObjectLiteral]
+tags: [MapToObjectLiteral]
 comments: true
 share: true
 ---

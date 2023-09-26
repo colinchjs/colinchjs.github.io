@@ -3,7 +3,7 @@ layout: post
 title: "Dynamic Function Invocation in JavaScript"
 description: " "
 date: 2023-09-20
-tags: [javascript, dynamicinvocation]
+tags: [dynamicinvocation]
 comments: true
 share: true
 ---

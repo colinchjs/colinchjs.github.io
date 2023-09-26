@@ -3,7 +3,7 @@ layout: post
 title: "Using arrays as keys in a Map object"
 description: " "
 date: 2023-09-23
-tags: [JavaScript]
+tags: []
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Advantages of using JavaScript modules"
 description: " "
 date: 2023-09-26
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

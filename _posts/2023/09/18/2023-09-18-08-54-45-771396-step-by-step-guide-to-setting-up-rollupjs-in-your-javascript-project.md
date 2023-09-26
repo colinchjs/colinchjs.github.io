@@ -3,7 +3,7 @@ layout: post
 title: "Step-by-step guide to setting up Rollup.js in your JavaScript project"
 description: " "
 date: 2023-09-18
-tags: [Rollup, JavaScript]
+tags: [Rollup]
 comments: true
 share: true
 ---

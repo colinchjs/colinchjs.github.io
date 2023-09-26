@@ -3,7 +3,7 @@ layout: post
 title: "Promises and Async/Await in JavaScript Functions"
 description: " "
 date: 2023-09-20
-tags: [javascript, promises]
+tags: [promises]
 comments: true
 share: true
 ---

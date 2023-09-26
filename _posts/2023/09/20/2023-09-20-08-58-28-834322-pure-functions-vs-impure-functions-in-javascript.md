@@ -3,7 +3,7 @@ layout: post
 title: "Pure Functions vs Impure Functions in JavaScript"
 description: " "
 date: 2023-09-20
-tags: [javascript, purefunctions]
+tags: [purefunctions]
 comments: true
 share: true
 ---

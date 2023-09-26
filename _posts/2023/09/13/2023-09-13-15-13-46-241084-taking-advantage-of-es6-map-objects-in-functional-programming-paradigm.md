@@ -3,7 +3,7 @@ layout: post
 title: "Taking Advantage of ES6 Map Objects in Functional Programming Paradigm"
 description: " "
 date: 2023-09-13
-tags: [functionalprogramming, javascript]
+tags: [functionalprogramming]
 comments: true
 share: true
 ---

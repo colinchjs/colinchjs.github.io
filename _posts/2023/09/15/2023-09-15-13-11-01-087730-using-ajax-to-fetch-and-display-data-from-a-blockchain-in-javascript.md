@@ -3,7 +3,7 @@ layout: post
 title: "Using AJAX to fetch and display data from a blockchain in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [blockchain, javascript]
+tags: [blockchain]
 comments: true
 share: true
 ---

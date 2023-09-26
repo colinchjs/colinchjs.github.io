@@ -3,7 +3,7 @@ layout: post
 title: "Ternary operators for handling dynamic redirects in JavaScript applications"
 description: " "
 date: 2023-09-19
-tags: [JavaScript, WebDevelopment]
+tags: [WebDevelopment]
 comments: true
 share: true
 ---

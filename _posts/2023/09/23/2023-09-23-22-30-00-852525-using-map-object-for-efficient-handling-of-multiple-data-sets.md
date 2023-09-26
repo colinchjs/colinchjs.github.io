@@ -3,7 +3,7 @@ layout: post
 title: "Using Map object for efficient handling of multiple data sets"
 description: " "
 date: 2023-09-23
-tags: [Tech, JavaScript]
+tags: [Tech]
 comments: true
 share: true
 ---

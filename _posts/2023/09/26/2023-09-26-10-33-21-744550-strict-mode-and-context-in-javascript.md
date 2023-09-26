@@ -3,7 +3,7 @@ layout: post
 title: "Strict mode and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [javascript, strictmode]
+tags: [strictmode]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Synchronous context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, SynchronousContext]
+tags: [SynchronousContext]
 comments: true
 share: true
 ---

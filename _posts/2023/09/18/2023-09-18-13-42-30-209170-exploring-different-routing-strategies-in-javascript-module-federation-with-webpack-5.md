@@ -3,7 +3,7 @@ layout: post
 title: "Exploring different routing strategies in JavaScript Module Federation with Webpack 5"
 description: " "
 date: 2023-09-18
-tags: [javascript, modularfrontend]
+tags: [modularfrontend]
 comments: true
 share: true
 ---

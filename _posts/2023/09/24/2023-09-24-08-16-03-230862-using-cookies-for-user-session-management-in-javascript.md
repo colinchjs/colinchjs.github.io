@@ -3,7 +3,7 @@ layout: post
 title: "Using cookies for user session management in JavaScript"
 description: " "
 date: 2023-09-24
-tags: [JavaScript, Cookies]
+tags: [Cookies]
 comments: true
 share: true
 ---

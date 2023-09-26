@@ -3,7 +3,7 @@ layout: post
 title: "Using modules with Babel"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, Babel]
+tags: [Babel]
 comments: true
 share: true
 ---

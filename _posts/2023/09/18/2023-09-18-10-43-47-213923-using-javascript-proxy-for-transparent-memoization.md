@@ -3,7 +3,7 @@ layout: post
 title: "Using JavaScript Proxy for transparent memoization"
 description: " "
 date: 2023-09-18
-tags: [programming, javascript]
+tags: [programming]
 comments: true
 share: true
 ---

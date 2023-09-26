@@ -3,7 +3,7 @@ layout: post
 title: "Using immediately-invoked function expressions (IIFEs) as modules"
 description: " "
 date: 2023-09-26
-tags: [javascript, modules]
+tags: [modules]
 comments: true
 share: true
 ---

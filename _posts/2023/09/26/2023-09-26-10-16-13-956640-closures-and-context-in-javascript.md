@@ -3,7 +3,7 @@ layout: post
 title: "Closures and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, ClosuresAndContext]
+tags: [ClosuresAndContext]
 comments: true
 share: true
 ---

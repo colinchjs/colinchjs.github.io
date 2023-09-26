@@ -3,7 +3,7 @@ layout: post
 title: "Applying rate limiting with JavaScript Proxy for API consumption"
 description: " "
 date: 2023-09-18
-tags: [JavaScript, RateLimiting]
+tags: [RateLimiting]
 comments: true
 share: true
 ---

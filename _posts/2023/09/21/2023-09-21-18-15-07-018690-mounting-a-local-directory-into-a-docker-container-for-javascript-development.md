@@ -3,7 +3,7 @@ layout: post
 title: "Mounting a local directory into a Docker container for Javascript development"
 description: " "
 date: 2023-09-21
-tags: [JavaScript, Docker]
+tags: [Docker]
 comments: true
 share: true
 ---

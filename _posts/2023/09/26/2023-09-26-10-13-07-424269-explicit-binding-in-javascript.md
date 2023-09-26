@@ -3,7 +3,7 @@ layout: post
 title: "Explicit binding in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, ExplicitBinding]
+tags: [ExplicitBinding]
 comments: true
 share: true
 ---

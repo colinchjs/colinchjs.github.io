@@ -3,7 +3,7 @@ layout: post
 title: "Using Map object for efficient lookup operations"
 description: " "
 date: 2023-09-23
-tags: [javascript, datastructures]
+tags: [datastructures]
 comments: true
 share: true
 ---

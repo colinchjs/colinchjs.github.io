@@ -3,7 +3,7 @@ layout: post
 title: "Local context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, LocalContext]
+tags: [LocalContext]
 comments: true
 share: true
 ---

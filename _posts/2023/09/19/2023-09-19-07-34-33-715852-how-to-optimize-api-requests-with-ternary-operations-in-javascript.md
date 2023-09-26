@@ -3,7 +3,7 @@ layout: post
 title: "How to optimize API requests with ternary operations in JavaScript"
 description: " "
 date: 2023-09-19
-tags: [javascript]
+tags: []
 comments: true
 share: true
 ---

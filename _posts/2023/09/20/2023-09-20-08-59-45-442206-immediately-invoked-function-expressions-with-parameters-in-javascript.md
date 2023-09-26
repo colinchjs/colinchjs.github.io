@@ -3,7 +3,7 @@ layout: post
 title: "Immediately Invoked Function Expressions with Parameters in JavaScript"
 description: " "
 date: 2023-09-20
-tags: [JavaScript, IIFE]
+tags: [IIFE]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing data filtering and sorting in JavaScript MVC"
 description: " "
 date: 2023-09-23
-tags: [javascript]
+tags: []
 comments: true
 share: true
 ---

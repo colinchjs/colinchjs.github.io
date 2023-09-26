@@ -3,7 +3,7 @@ layout: post
 title: "Building extensible and customizable applications with JavaScript Module Federation and Webpack 5"
 description: " "
 date: 2023-09-18
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

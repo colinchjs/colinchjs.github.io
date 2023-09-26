@@ -3,7 +3,7 @@ layout: post
 title: "Dynamic imports in JavaScript modules"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, DynamicImports]
+tags: [DynamicImports]
 comments: true
 share: true
 ---

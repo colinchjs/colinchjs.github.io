@@ -3,7 +3,7 @@ layout: post
 title: "Using Map object to implement a cache for computed values in a web application"
 description: " "
 date: 2023-09-23
-tags: [cache, JavaScript]
+tags: [cache]
 comments: true
 share: true
 ---

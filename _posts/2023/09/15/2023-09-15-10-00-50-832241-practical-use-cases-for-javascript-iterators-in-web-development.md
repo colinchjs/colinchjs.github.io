@@ -3,7 +3,7 @@ layout: post
 title: "Practical use cases for JavaScript iterators in web development"
 description: " "
 date: 2023-09-15
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

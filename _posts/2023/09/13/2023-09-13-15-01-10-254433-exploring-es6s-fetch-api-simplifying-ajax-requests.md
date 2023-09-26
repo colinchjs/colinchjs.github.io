@@ -3,7 +3,7 @@ layout: post
 title: "Exploring ES6's Fetch API: Simplifying AJAX Requests"
 description: " "
 date: 2023-09-13
-tags: [Tech, JavaScript, FetchAPI, AJAX]
+tags: [Tech, FetchAPI, AJAX]
 comments: true
 share: true
 ---

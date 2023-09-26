@@ -3,7 +3,7 @@ layout: post
 title: "Implementing dynamic form validation with ternary operators in JavaScript"
 description: " "
 date: 2023-09-19
-tags: [javascript, webdevelopment]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

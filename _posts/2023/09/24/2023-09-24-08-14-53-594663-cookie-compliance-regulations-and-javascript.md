@@ -3,7 +3,7 @@ layout: post
 title: "Cookie compliance regulations and JavaScript"
 description: " "
 date: 2023-09-24
-tags: [cookiecompliance, javascript]
+tags: [cookiecompliance]
 comments: true
 share: true
 ---

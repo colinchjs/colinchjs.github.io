@@ -3,7 +3,7 @@ layout: post
 title: "How to handle nested JSON data in JavaScript."
 description: " "
 date: 2023-09-24
-tags: [programming, javascript]
+tags: [programming]
 comments: true
 share: true
 ---

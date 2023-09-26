@@ -3,7 +3,7 @@ layout: post
 title: "Decorators with Function Declarations in JavaScript"
 description: " "
 date: 2023-09-20
-tags: [JavaScript, Decorators]
+tags: [Decorators]
 comments: true
 share: true
 ---

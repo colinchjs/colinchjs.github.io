@@ -3,7 +3,7 @@ layout: post
 title: "Storing shopping cart data in cookies with JavaScript"
 description: " "
 date: 2023-09-24
-tags: [javascript, ecommerce]
+tags: [ecommerce]
 comments: true
 share: true
 ---

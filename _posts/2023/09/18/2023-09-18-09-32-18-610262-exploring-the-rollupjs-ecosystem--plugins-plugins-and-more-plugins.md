@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the Rollup.js Ecosystem – plugins, plugins and more plugins"
 description: " "
 date: 2023-09-18
-tags: [rollupjs, javascript]
+tags: [rollupjs]
 comments: true
 share: true
 ---

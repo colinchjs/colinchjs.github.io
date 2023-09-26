@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the role of quantum computing in JavaScript iterators"
 description: " "
 date: 2023-09-15
-tags: [quantumcomputing, javascript]
+tags: [quantumcomputing]
 comments: true
 share: true
 ---

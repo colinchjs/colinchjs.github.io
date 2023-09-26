@@ -3,7 +3,7 @@ layout: post
 title: "Lazy loading with chunk-based JavaScript modules"
 description: " "
 date: 2023-09-26
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

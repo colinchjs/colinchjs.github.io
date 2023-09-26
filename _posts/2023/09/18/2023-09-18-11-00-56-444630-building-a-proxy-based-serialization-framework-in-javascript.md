@@ -3,7 +3,7 @@ layout: post
 title: "Building a proxy-based serialization framework in JavaScript"
 description: " "
 date: 2023-09-18
-tags: [programming, javascript]
+tags: [programming]
 comments: true
 share: true
 ---

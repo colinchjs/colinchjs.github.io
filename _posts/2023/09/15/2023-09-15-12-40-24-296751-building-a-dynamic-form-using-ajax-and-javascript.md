@@ -3,7 +3,7 @@ layout: post
 title: "Building a dynamic form using AJAX and JavaScript"
 description: " "
 date: 2023-09-15
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

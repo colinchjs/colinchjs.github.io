@@ -3,7 +3,7 @@ layout: post
 title: "Publishing JavaScript modules to npm"
 description: " "
 date: 2023-09-26
-tags: [JavaScript]
+tags: []
 comments: true
 share: true
 ---

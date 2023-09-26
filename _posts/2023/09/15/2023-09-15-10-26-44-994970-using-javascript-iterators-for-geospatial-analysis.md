@@ -3,7 +3,7 @@ layout: post
 title: "Using JavaScript iterators for geospatial analysis"
 description: " "
 date: 2023-09-15
-tags: [geospatial, javascript]
+tags: [geospatial]
 comments: true
 share: true
 ---

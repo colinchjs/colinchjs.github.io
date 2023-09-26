@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a proxy-based cache eviction strategy in JavaScript"
 description: " "
 date: 2023-09-18
-tags: [programming, javascript]
+tags: [programming]
 comments: true
 share: true
 ---

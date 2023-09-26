@@ -3,7 +3,7 @@ layout: post
 title: "Debugging and troubleshooting package.json issues"
 description: " "
 date: 2023-09-17
-tags: [NodeJS, JavaScript]
+tags: [NodeJS]
 comments: true
 share: true
 ---

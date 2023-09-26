@@ -3,7 +3,7 @@ layout: post
 title: "Advanced techniques for nesting ternary operators in JavaScript"
 description: " "
 date: 2023-09-19
-tags: [JavaScript, TernaryOperators]
+tags: [TernaryOperators]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Ternary operators in JavaScript: a comprehensive guide"
 description: " "
 date: 2023-09-19
-tags: [javascript, ternaryoperators]
+tags: [ternaryoperators]
 comments: true
 share: true
 ---

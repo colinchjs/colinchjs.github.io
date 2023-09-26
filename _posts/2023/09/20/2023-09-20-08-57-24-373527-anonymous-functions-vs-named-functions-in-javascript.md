@@ -3,7 +3,7 @@ layout: post
 title: "Anonymous Functions vs Named Functions in JavaScript"
 description: " "
 date: 2023-09-20
-tags: [javascript, programming]
+tags: [programming]
 comments: true
 share: true
 ---

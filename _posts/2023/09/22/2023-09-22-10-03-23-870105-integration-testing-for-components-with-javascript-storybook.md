@@ -3,7 +3,7 @@ layout: post
 title: "Integration testing for components with Javascript Storybook"
 description: " "
 date: 2023-09-22
-tags: [integrationtesting, javascript]
+tags: [integrationtesting]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Applying dynamic routing with JavaScript Proxy"
 description: " "
 date: 2023-09-18
-tags: [javascript, dynamicrouting]
+tags: [dynamicrouting]
 comments: true
 share: true
 ---

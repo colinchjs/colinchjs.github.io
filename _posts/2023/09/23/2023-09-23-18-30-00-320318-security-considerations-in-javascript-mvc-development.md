@@ -3,7 +3,7 @@ layout: post
 title: "Security considerations in JavaScript MVC development"
 description: " "
 date: 2023-09-23
-tags: [javascript, security]
+tags: [security]
 comments: true
 share: true
 ---

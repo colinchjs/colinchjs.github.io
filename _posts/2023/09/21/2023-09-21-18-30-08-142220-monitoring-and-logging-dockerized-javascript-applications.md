@@ -3,7 +3,7 @@ layout: post
 title: "Monitoring and logging Dockerized Javascript applications"
 description: " "
 date: 2023-09-21
-tags: [javascript, docker, monitoring, logging]
+tags: [docker, monitoring, logging]
 comments: true
 share: true
 ---

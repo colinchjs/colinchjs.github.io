@@ -3,7 +3,7 @@ layout: post
 title: "Building a proxy-based caching framework in JavaScript"
 description: " "
 date: 2023-09-18
-tags: [javascript, cachingframework]
+tags: [cachingframework]
 comments: true
 share: true
 ---

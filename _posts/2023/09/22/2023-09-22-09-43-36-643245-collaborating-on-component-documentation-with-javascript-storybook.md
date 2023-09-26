@@ -3,7 +3,7 @@ layout: post
 title: "Collaborating on component documentation with Javascript Storybook"
 description: " "
 date: 2023-09-22
-tags: [TechDocumentation, JavaScript]
+tags: [TechDocumentation]
 comments: true
 share: true
 ---

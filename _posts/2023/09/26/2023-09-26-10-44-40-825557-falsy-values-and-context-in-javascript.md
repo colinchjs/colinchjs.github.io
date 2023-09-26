@@ -3,7 +3,7 @@ layout: post
 title: "Falsy values and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [JavaScript, FalsyValues]
+tags: [FalsyValues]
 comments: true
 share: true
 ---

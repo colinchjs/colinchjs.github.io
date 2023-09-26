@@ -3,7 +3,7 @@ layout: post
 title: "Functional programming and context in JavaScript"
 description: " "
 date: 2023-09-26
-tags: [functionalprogramming, javascript]
+tags: [functionalprogramming]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Function Composing in JavaScript"
 description: " "
 date: 2023-09-20
-tags: [javascript, functioncomposition]
+tags: [functioncomposition]
 comments: true
 share: true
 ---

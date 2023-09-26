@@ -3,7 +3,7 @@ layout: post
 title: "Creating reusable components in JavaScript MVC"
 description: " "
 date: 2023-09-23
-tags: [JavaScript, ReusableComponents]
+tags: [ReusableComponents]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Cookie consent management using JavaScript"
 description: " "
 date: 2023-09-24
-tags: [Tech, JavaScript]
+tags: [Tech]
 comments: true
 share: true
 ---

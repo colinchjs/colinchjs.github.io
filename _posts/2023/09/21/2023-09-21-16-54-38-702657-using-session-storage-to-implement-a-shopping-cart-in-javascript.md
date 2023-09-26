@@ -3,7 +3,7 @@ layout: post
 title: "Using session storage to implement a shopping cart in JavaScript"
 description: " "
 date: 2023-09-21
-tags: [javascript, shoppingcart]
+tags: [shoppingcart]
 comments: true
 share: true
 ---

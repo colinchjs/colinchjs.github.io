@@ -3,7 +3,7 @@ layout: post
 title: "Using AJAX to retrieve and display data from a database in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [ajax, javascript]
+tags: [ajax]
 comments: true
 share: true
 ---

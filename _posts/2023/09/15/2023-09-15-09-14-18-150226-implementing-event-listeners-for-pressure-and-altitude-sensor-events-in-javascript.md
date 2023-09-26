@@ -3,7 +3,7 @@ layout: post
 title: "Implementing event listeners for pressure and altitude sensor events in JavaScript"
 description: " "
 date: 2023-09-15
-tags: [TechTips, JavaScript]
+tags: [TechTips]
 comments: true
 share: true
 ---

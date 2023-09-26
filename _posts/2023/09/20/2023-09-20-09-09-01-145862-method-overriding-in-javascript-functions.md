@@ -3,7 +3,7 @@ layout: post
 title: "Method Overriding in JavaScript Functions"
 description: " "
 date: 2023-09-20
-tags: [JavaScript, MethodOverriding]
+tags: [MethodOverriding]
 comments: true
 share: true
 ---

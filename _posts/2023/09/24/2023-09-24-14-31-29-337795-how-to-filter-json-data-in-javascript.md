@@ -3,7 +3,7 @@ layout: post
 title: "How to filter JSON data in JavaScript."
 description: " "
 date: 2023-09-24
-tags: [javascript, JSON]
+tags: [JSON]
 comments: true
 share: true
 ---

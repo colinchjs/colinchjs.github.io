@@ -3,7 +3,7 @@ layout: post
 title: "Improving Rollup.js build speed with parallel builds and caching techniques"
 description: " "
 date: 2023-09-18
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

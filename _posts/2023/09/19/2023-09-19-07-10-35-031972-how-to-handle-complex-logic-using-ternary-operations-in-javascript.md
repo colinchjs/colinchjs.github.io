@@ -3,7 +3,7 @@ layout: post
 title: "How to handle complex logic using ternary operations in JavaScript"
 description: " "
 date: 2023-09-19
-tags: [javascript, codingtips]
+tags: [codingtips]
 comments: true
 share: true
 ---

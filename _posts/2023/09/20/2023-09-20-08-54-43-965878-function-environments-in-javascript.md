@@ -3,7 +3,7 @@ layout: post
 title: "Function Environments in JavaScript"
 description: " "
 date: 2023-09-20
-tags: [JavaScript, FunctionEnvironments]
+tags: [FunctionEnvironments]
 comments: true
 share: true
 ---

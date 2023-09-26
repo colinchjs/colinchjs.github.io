@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for using session storage in JavaScript"
 description: " "
 date: 2023-09-21
-tags: [JavaScript, SessionStorage]
+tags: [SessionStorage]
 comments: true
 share: true
 ---

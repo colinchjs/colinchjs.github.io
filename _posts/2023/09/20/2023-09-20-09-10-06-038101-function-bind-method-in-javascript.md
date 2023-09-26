@@ -3,7 +3,7 @@ layout: post
 title: "Function Bind Method in JavaScript"
 description: " "
 date: 2023-09-20
-tags: [JavaScript, FunctionBinding]
+tags: [FunctionBinding]
 comments: true
 share: true
 ---

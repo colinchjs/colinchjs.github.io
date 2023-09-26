@@ -3,7 +3,7 @@ layout: post
 title: "Function Declarations within Loops in JavaScript"
 description: " "
 date: 2023-09-20
-tags: [JavaScript, BestPractices]
+tags: [BestPractices]
 comments: true
 share: true
 ---

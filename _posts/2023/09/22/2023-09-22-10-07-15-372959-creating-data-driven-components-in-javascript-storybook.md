@@ -3,7 +3,7 @@ layout: post
 title: "Creating data-driven components in Javascript Storybook"
 description: " "
 date: 2023-09-22
-tags: [javascript, components]
+tags: [components]
 comments: true
 share: true
 ---

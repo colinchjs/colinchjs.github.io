@@ -3,7 +3,7 @@ layout: post
 title: "Implementing custom Rollup.js plugins for specific application needs and transformations"
 description: " "
 date: 2023-09-18
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---
