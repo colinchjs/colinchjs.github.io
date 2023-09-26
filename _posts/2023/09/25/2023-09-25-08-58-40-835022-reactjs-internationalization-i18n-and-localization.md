@@ -3,7 +3,7 @@ layout: post
 title: "React.js internationalization (i18n) and localization"
 description: " "
 date: 2023-09-25
-tags: [React, #What]
+tags: [React, What]
 comments: true
 share: true
 ---

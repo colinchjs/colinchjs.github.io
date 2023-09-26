@@ -3,7 +3,7 @@ layout: post
 title: "Building a location-based app with Firebase Firestore"
 description: " "
 date: 2023-09-22
-tags: [Building, #Why]
+tags: [Building, Why]
 comments: true
 share: true
 ---
