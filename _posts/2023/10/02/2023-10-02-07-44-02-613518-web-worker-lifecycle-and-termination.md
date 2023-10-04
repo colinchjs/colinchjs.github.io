@@ -3,7 +3,7 @@ layout: post
 title: "Web Worker lifecycle and termination"
 description: " "
 date: 2023-10-02
-tags: [webworkers, javascript]
+tags: [webworkers]
 comments: true
 share: true
 ---

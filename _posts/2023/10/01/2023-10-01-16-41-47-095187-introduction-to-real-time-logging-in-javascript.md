@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to real-time logging in JavaScript"
 description: " "
 date: 2023-10-01
-tags: [javascript, logging]
+tags: [logging]
 comments: true
 share: true
 ---

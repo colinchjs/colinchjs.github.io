@@ -3,7 +3,7 @@ layout: post
 title: "Implementing lazy evaluation in JavaScript with promises"
 description: " "
 date: 2023-09-27
-tags: [JavaScript, Promises]
+tags: [Promises]
 comments: true
 share: true
 ---

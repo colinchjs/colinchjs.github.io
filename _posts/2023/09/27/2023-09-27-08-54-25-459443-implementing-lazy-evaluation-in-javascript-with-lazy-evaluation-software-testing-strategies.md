@@ -3,7 +3,7 @@ layout: post
 title: "Implementing lazy evaluation in JavaScript with lazy evaluation software testing strategies"
 description: " "
 date: 2023-09-27
-tags: [JavaScript, SoftwareTesting]
+tags: [SoftwareTesting]
 comments: true
 share: true
 ---

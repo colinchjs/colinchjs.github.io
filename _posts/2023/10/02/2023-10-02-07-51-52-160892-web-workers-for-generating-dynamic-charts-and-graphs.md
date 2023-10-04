@@ -3,7 +3,7 @@ layout: post
 title: "Web Workers for generating dynamic charts and graphs"
 description: " "
 date: 2023-10-02
-tags: [programming, javascript]
+tags: [programming]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Understanding the draft state concept in Immer"
 description: " "
 date: 2023-09-28
-tags: [Immer, JavaScript]
+tags: [Immer]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing batched and deferred GraphQL queries in Javascript"
 description: " "
 date: 2023-09-27
-tags: [GraphQL, JavaScript]
+tags: [GraphQL]
 comments: true
 share: true
 ---

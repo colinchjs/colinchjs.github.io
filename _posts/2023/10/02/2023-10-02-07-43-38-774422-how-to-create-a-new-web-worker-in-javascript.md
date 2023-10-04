@@ -3,7 +3,7 @@ layout: post
 title: "How to create a new Web Worker in JavaScript"
 description: " "
 date: 2023-10-02
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

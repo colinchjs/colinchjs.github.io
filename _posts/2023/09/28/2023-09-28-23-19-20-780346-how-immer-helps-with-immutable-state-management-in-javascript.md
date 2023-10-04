@@ -3,7 +3,7 @@ layout: post
 title: "How Immer helps with immutable state management in JavaScript"
 description: " "
 date: 2023-09-28
-tags: [javascript, immutable]
+tags: [immutable]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Securing a Javascript GraphQL server with JWT"
 description: " "
 date: 2023-09-27
-tags: [GraphQL, JavaScript]
+tags: [GraphQL]
 comments: true
 share: true
 ---

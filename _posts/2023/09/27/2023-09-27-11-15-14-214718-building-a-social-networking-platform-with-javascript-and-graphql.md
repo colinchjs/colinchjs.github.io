@@ -3,7 +3,7 @@ layout: post
 title: "Building a social networking platform with Javascript and GraphQL"
 description: " "
 date: 2023-09-27
-tags: [Javascript, GraphQL]
+tags: [GraphQL]
 comments: true
 share: true
 ---

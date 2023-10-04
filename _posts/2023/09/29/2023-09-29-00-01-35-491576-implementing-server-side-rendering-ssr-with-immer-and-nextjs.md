@@ -3,7 +3,7 @@ layout: post
 title: "Implementing server-side rendering (SSR) with Immer and Next.js"
 description: " "
 date: 2023-09-29
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

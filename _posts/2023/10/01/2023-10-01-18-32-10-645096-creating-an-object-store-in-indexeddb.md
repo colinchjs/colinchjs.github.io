@@ -3,7 +3,7 @@ layout: post
 title: "Creating an object store in IndexedDB"
 description: " "
 date: 2023-10-01
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

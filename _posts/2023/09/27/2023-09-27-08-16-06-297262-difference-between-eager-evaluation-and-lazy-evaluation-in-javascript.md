@@ -3,7 +3,7 @@ layout: post
 title: "Difference between eager evaluation and lazy evaluation in JavaScript"
 description: " "
 date: 2023-09-27
-tags: [TechBlog, JavaScript]
+tags: [TechBlog]
 comments: true
 share: true
 ---

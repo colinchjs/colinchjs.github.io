@@ -3,7 +3,7 @@ layout: post
 title: "Web Workers and inter-worker communication"
 description: " "
 date: 2023-10-02
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

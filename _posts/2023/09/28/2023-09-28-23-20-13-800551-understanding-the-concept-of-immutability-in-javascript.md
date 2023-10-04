@@ -3,7 +3,7 @@ layout: post
 title: "Understanding the concept of immutability in JavaScript"
 description: " "
 date: 2023-09-28
-tags: [hashtags, JavaScript]
+tags: [hashtags]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Handling errors in Web Workers"
 description: " "
 date: 2023-10-02
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

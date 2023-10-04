@@ -3,7 +3,7 @@ layout: post
 title: "Lazy evaluation in JavaScript with the RxJS library"
 description: " "
 date: 2023-09-27
-tags: [JavaScript, RxJS]
+tags: [RxJS]
 comments: true
 share: true
 ---

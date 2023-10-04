@@ -3,7 +3,7 @@ layout: post
 title: "Handling geolocation errors in JavaScript"
 description: " "
 date: 2023-09-29
-tags: [JavaScript, Geolocation]
+tags: [Geolocation]
 comments: true
 share: true
 ---

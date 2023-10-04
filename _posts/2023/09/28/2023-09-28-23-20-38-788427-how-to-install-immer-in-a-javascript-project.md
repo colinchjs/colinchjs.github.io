@@ -3,7 +3,7 @@ layout: post
 title: "How to install Immer in a JavaScript project"
 description: " "
 date: 2023-09-28
-tags: [javascript, programming]
+tags: [programming]
 comments: true
 share: true
 ---

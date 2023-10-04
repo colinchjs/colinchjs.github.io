@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for JWT authentication in JavaScript"
 description: " "
 date: 2023-10-03
-tags: [javascript, authentication]
+tags: [authentication]
 comments: true
 share: true
 ---

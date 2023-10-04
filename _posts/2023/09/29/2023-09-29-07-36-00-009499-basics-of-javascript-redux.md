@@ -3,7 +3,7 @@ layout: post
 title: "Basics of JavaScript Redux"
 description: " "
 date: 2023-09-29
-tags: [javascript, redux]
+tags: [redux]
 comments: true
 share: true
 ---

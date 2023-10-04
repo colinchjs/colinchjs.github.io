@@ -3,7 +3,7 @@ layout: post
 title: "Tips and best practices for using Immer in JavaScript projects"
 description: " "
 date: 2023-09-28
-tags: [JavaScript, Immer]
+tags: [Immer]
 comments: true
 share: true
 ---

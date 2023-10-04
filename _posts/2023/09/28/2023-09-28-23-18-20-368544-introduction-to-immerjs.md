@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to Immer.js"
 description: " "
 date: 2023-09-28
-tags: [ImmerJS, Javascript]
+tags: [ImmerJS]
 comments: true
 share: true
 ---

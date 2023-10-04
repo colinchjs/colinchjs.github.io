@@ -3,7 +3,7 @@ layout: post
 title: "How Immer improves the developer experience in JavaScript projects"
 description: " "
 date: 2023-09-28
-tags: [JavaScript, Immer]
+tags: [Immer]
 comments: true
 share: true
 ---

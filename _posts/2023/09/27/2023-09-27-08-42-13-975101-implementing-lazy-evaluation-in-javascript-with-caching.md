@@ -3,7 +3,7 @@ layout: post
 title: "Implementing lazy evaluation in JavaScript with caching"
 description: " "
 date: 2023-09-27
-tags: [JavaScript, LazyEvaluation]
+tags: [LazyEvaluation]
 comments: true
 share: true
 ---

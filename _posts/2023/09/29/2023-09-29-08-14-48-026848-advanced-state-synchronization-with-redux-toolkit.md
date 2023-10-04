@@ -3,7 +3,7 @@ layout: post
 title: "Advanced state synchronization with Redux Toolkit"
 description: " "
 date: 2023-09-29
-tags: [redux, javascript]
+tags: [redux]
 comments: true
 share: true
 ---

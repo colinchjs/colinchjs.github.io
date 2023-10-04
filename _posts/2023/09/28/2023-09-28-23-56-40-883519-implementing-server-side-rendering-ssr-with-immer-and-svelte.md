@@ -3,7 +3,7 @@ layout: post
 title: "Implementing server-side rendering (SSR) with Immer and Svelte"
 description: " "
 date: 2023-09-28
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Lazy evaluation in JavaScript frameworks like Angular"
 description: " "
 date: 2023-09-27
-tags: [JavaScript, Angular]
+tags: [Angular]
 comments: true
 share: true
 ---

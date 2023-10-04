@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for using Redux Toolkit in JavaScript projects"
 description: " "
 date: 2023-09-29
-tags: [JavaScript, ReduxToolkit]
+tags: [ReduxToolkit]
 comments: true
 share: true
 ---

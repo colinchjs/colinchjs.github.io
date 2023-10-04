@@ -3,7 +3,7 @@ layout: post
 title: "Working with derived state in Immer"
 description: " "
 date: 2023-09-28
-tags: [Tech, JavaScript]
+tags: [Tech]
 comments: true
 share: true
 ---

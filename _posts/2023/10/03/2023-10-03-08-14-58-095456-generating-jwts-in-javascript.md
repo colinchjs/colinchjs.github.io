@@ -3,7 +3,7 @@ layout: post
 title: "Generating JWTs in JavaScript"
 description: " "
 date: 2023-10-03
-tags: [webdevelopment, javascript]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

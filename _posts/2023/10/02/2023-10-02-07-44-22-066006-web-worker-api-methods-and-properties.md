@@ -3,7 +3,7 @@ layout: post
 title: "Web Worker API methods and properties"
 description: " "
 date: 2023-10-02
-tags: [WebDevelopment, JavaScript]
+tags: [WebDevelopment]
 comments: true
 share: true
 ---

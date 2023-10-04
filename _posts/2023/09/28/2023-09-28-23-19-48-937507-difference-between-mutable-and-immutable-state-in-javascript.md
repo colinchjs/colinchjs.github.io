@@ -3,7 +3,7 @@ layout: post
 title: "Difference between mutable and immutable state in JavaScript"
 description: " "
 date: 2023-09-28
-tags: [javascript, mutablestate]
+tags: [mutablestate]
 comments: true
 share: true
 ---

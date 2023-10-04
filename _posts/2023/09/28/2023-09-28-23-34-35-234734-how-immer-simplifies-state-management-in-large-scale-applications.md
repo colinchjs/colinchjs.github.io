@@ -3,7 +3,7 @@ layout: post
 title: "How Immer simplifies state management in large-scale applications"
 description: " "
 date: 2023-09-28
-tags: [stateManagement, JavaScript]
+tags: [stateManagement]
 comments: true
 share: true
 ---

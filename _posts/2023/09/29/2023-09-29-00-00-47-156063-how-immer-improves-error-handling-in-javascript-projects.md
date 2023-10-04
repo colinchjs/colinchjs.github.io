@@ -3,7 +3,7 @@ layout: post
 title: "How Immer improves error handling in JavaScript projects"
 description: " "
 date: 2023-09-29
-tags: [Immer, JavaScript]
+tags: [Immer]
 comments: true
 share: true
 ---

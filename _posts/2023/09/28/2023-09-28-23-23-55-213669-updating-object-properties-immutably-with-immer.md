@@ -3,7 +3,7 @@ layout: post
 title: "Updating object properties immutably with Immer"
 description: " "
 date: 2023-09-28
-tags: [Tech, JavaScript]
+tags: [Tech]
 comments: true
 share: true
 ---

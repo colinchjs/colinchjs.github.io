@@ -3,7 +3,7 @@ layout: post
 title: "Updating deeply nested object properties immutably with Immer"
 description: " "
 date: 2023-09-28
-tags: [programming, javascript]
+tags: [programming]
 comments: true
 share: true
 ---

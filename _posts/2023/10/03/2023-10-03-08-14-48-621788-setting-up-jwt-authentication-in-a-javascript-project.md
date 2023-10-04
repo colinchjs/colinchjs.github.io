@@ -3,7 +3,7 @@ layout: post
 title: "Setting up JWT authentication in a JavaScript project"
 description: " "
 date: 2023-10-03
-tags: [authentication, JavaScript]
+tags: [authentication]
 comments: true
 share: true
 ---

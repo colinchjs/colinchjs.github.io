@@ -3,7 +3,7 @@ layout: post
 title: "Pros and cons of using Redux Toolkit in JavaScript projects"
 description: " "
 date: 2023-09-29
-tags: [Redux, JavaScript]
+tags: [Redux]
 comments: true
 share: true
 ---

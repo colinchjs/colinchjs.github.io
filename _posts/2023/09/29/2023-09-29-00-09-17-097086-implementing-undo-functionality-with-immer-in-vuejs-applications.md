@@ -3,7 +3,7 @@ layout: post
 title: "Implementing undo functionality with Immer in Vue.js applications"
 description: " "
 date: 2023-09-29
-tags: [vuejs, javascript]
+tags: [vuejs]
 comments: true
 share: true
 ---

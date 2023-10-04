@@ -3,7 +3,7 @@ layout: post
 title: "Handling JWT token refreshing in a JavaScript app"
 description: " "
 date: 2023-10-03
-tags: [javascript, tokenrefreshing]
+tags: [tokenrefreshing]
 comments: true
 share: true
 ---

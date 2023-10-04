@@ -3,7 +3,7 @@ layout: post
 title: "Building a realtime chat application with Javascript and GraphQL"
 description: " "
 date: 2023-09-27
-tags: [hashtags, Javascript]
+tags: [hashtags]
 comments: true
 share: true
 ---

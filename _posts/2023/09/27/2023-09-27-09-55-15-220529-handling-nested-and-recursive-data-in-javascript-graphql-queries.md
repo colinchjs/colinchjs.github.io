@@ -3,7 +3,7 @@ layout: post
 title: "Handling nested and recursive data in Javascript GraphQL queries"
 description: " "
 date: 2023-09-27
-tags: [GraphQL, JavaScript]
+tags: [GraphQL]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing data validation with Joi in Javascript GraphQL mutations"
 description: " "
 date: 2023-09-27
-tags: [graphql, JavaScript]
+tags: [graphql]
 comments: true
 share: true
 ---

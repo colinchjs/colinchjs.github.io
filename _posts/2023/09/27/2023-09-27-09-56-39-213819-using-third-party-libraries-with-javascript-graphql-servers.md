@@ -3,7 +3,7 @@ layout: post
 title: "Using third-party libraries with Javascript GraphQL servers"
 description: " "
 date: 2023-09-27
-tags: [GraphQL, JavaScript]
+tags: [GraphQL]
 comments: true
 share: true
 ---

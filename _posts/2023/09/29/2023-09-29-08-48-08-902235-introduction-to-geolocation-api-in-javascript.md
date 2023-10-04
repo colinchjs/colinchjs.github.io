@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to Geolocation API in JavaScript"
 description: " "
 date: 2023-09-29
-tags: [javascript, geolocation]
+tags: [geolocation]
 comments: true
 share: true
 ---

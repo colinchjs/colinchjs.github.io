@@ -3,7 +3,7 @@ layout: post
 title: "Implementing GraphQL queries in Javascript"
 description: " "
 date: 2023-09-27
-tags: [GraphQL, Javascript]
+tags: [GraphQL]
 comments: true
 share: true
 ---

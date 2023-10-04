@@ -3,7 +3,7 @@ layout: post
 title: "Worker threads in Node.js vs. Web Workers in JavaScript"
 description: " "
 date: 2023-10-02
-tags: [nodejs, javascript]
+tags: [nodejs]
 comments: true
 share: true
 ---

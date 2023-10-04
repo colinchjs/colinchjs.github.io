@@ -3,7 +3,7 @@ layout: post
 title: "Implementing query complexity analysis in a Javascript GraphQL server"
 description: " "
 date: 2023-09-27
-tags: [GraphQL, JavaScript]
+tags: [GraphQL]
 comments: true
 share: true
 ---

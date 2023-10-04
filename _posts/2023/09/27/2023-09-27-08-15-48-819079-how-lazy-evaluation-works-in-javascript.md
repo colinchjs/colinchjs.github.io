@@ -3,7 +3,7 @@ layout: post
 title: "How lazy evaluation works in JavaScript"
 description: " "
 date: 2023-09-27
-tags: [JavaScript, LazyEvaluation]
+tags: [LazyEvaluation]
 comments: true
 share: true
 ---

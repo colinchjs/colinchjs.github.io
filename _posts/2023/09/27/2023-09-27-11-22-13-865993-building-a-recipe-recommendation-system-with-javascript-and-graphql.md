@@ -3,7 +3,7 @@ layout: post
 title: "Building a recipe recommendation system with Javascript and GraphQL"
 description: " "
 date: 2023-09-27
-tags: [recipeRecommendation, JavaScript]
+tags: [recipeRecommendation]
 comments: true
 share: true
 ---

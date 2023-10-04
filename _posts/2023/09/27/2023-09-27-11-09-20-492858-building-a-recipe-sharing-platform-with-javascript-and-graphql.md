@@ -3,7 +3,7 @@ layout: post
 title: "Building a recipe sharing platform with Javascript and GraphQL"
 description: " "
 date: 2023-09-27
-tags: [GraphQL, JavaScript]
+tags: [GraphQL]
 comments: true
 share: true
 ---
