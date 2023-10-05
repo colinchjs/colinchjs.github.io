@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a voting system with Vue.js"
 description: " "
 date: 2023-10-04
-tags: [prerequisites), getting]
+tags: [getting]
 comments: true
 share: true
 ---

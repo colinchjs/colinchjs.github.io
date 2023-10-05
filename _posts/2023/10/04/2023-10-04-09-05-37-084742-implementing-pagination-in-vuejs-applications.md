@@ -3,7 +3,7 @@ layout: post
 title: "Implementing pagination in Vue.js applications"
 description: " "
 date: 2023-10-04
-tags: [prerequisites), implementing]
+tags: [implementing]
 comments: true
 share: true
 ---

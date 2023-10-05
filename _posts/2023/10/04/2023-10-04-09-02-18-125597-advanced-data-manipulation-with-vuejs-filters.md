@@ -3,7 +3,7 @@ layout: post
 title: "Advanced data manipulation with Vue.js filters"
 description: " "
 date: 2023-10-04
-tags: [introduction), filter]
+tags: [filter]
 comments: true
 share: true
 ---

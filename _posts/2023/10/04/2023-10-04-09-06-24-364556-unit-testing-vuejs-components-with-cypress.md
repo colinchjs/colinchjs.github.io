@@ -3,7 +3,7 @@ layout: post
 title: "Unit testing Vue.js components with Cypress"
 description: " "
 date: 2023-10-04
-tags: [prerequisites), setting]
+tags: [setting]
 comments: true
 share: true
 ---

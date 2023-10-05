@@ -3,7 +3,7 @@ layout: post
 title: "Handling offline mode in Vue.js applications"
 description: " "
 date: 2023-10-04
-tags: [introduction), detecting]
+tags: [detecting]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Building a recipe app with Vue.js"
 description: " "
 date: 2023-10-04
-tags: [prerequisites), setup)]
+tags: [setup)]
 comments: true
 share: true
 ---

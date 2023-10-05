@@ -3,7 +3,7 @@ layout: post
 title: "Building a quiz application with Vue.js"
 description: " "
 date: 2023-10-04
-tags: [prerequisites), setting]
+tags: [setting]
 comments: true
 share: true
 ---

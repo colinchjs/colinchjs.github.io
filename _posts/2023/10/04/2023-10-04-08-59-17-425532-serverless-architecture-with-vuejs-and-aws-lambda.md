@@ -3,7 +3,7 @@ layout: post
 title: "Serverless architecture with Vue.js and AWS Lambda"
 description: " "
 date: 2023-10-04
-tags: [introduction), what]
+tags: [what]
 comments: true
 share: true
 ---

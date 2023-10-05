@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a recommendation engine with Vue.js and machine learning"
 description: " "
 date: 2023-10-04
-tags: [introduction), building]
+tags: [building]
 comments: true
 share: true
 ---

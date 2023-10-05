@@ -3,7 +3,7 @@ layout: post
 title: "Authentication and authorization in Vue.js"
 description: " "
 date: 2023-10-04
-tags: [introduction), authentication)]
+tags: [authentication)]
 comments: true
 share: true
 ---

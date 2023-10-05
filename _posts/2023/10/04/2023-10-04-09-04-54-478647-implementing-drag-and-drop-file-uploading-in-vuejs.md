@@ -3,7 +3,7 @@ layout: post
 title: "Implementing drag and drop file uploading in Vue.js"
 description: " "
 date: 2023-10-04
-tags: [prerequisites), setting]
+tags: [setting]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Building a social media sharing component with Vue.js"
 description: " "
 date: 2023-10-04
-tags: [introduction), prerequisites)]
+tags: [prerequisites)]
 comments: true
 share: true
 ---

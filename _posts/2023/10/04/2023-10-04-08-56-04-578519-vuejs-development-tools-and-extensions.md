@@ -3,7 +3,7 @@ layout: post
 title: "Vue.js development tools and extensions"
 description: " "
 date: 2023-10-04
-tags: [vetur), Vuejs]
+tags: [Vuejs]
 comments: true
 share: true
 ---

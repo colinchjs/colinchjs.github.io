@@ -3,7 +3,7 @@ layout: post
 title: "Installation and setup of Vue.js"
 description: " "
 date: 2023-10-04
-tags: [prerequisites), installation)]
+tags: [installation)]
 comments: true
 share: true
 ---
